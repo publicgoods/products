@@ -1,8 +1,8 @@
-# products
+# Products
 
 Collection of public goods.
 
-This repository is designed to be both browsed by humans, and consumed directly by other applications that can easily parse machine-readable json files.
+This repository is designed to be both browsed by humans, and consumed directly by other applications that can easily parse machine-readable JSON files.
 
 ## Installation
 
