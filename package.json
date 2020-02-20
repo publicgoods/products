@@ -2,9 +2,9 @@
   "name": "products",
   "version": "0.1.0",
   "description": "Collection of public goods",
-  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "lint": "jsonlint products/*.json -i",
+    "test": "ajv validate -s data-schema/product-schema.json -d products/*.json"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/publicgoods/products/issues"
   },
-  "homepage": "https://github.com/publicgoods/products#readme"
+  "homepage": "https://github.com/publicgoods/products#readme",
+  "devDependencies": {
+    "ajv-cli": "^3.0.0",
+    "jsonlint": "^1.6.3"
+  }
 }

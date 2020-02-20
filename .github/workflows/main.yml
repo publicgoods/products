@@ -1,0 +1,28 @@
+name: CI
+
+on: [push]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v1
+      - name: Install dependecies
+        run: |
+          git submodule init
+          npm install
+      - name: Run the tests
+        run: |
+          npm test
+      - name: Linter
+        run: |
+          for f in ./products/*.json; do
+            ./node_modules/jsonlint/lib/cli.js $f > tempfile.tmp
+            if diff $f tempfile.tmp; then
+              echo "Linting of $f passed"
+            else
+              echo "Linting of $f failed"
+              exit 1
+            fi
+          done
