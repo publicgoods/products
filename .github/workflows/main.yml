@@ -7,22 +7,26 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v1
-      - name: Install dependecies
+      - uses: actions/checkout@v2
+      - name: Checkout submodules
         run: |
-          git submodule init
-          npm install
+          git submodule sync --recursive
+          git -c protocol.version=2 submodule update --init --force --recursive --depth=1
+      - name: Install dependecies
+        run: npm install
       - name: Run the tests
         run: |
           npm test
       - name: Linter
         run: |
-          for f in ./products/*.json; do
-            ./node_modules/jsonlint/lib/cli.js $f > tempfile.tmp
-            if diff $f tempfile.tmp; then
-              echo "Linting of $f passed"
-            else
-              echo "Linting of $f failed"
-              exit 1
-            fi
-          done
+          if [ `ls -1 ./products/*.json 2>/dev/null | wc -l` -gt 0 ]; then
+            for f in ./products/*.json; do
+                ./node_modules/jsonlint/lib/cli.js $f > tempfile.tmp
+                if diff $f tempfile.tmp; then
+                  echo "Linting of $f passed"
+                else
+                  echo "Linting of $f failed"
+                  exit 1
+                fi
+            done
+          fi
