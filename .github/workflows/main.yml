@@ -22,6 +22,7 @@ jobs:
           if [ `ls -1 ./products/*.json 2>/dev/null | wc -l` -gt 0 ]; then
             for f in ./products/*.json; do
                 ./node_modules/jsonlint/lib/cli.js $f > tempfile.tmp
+                truncate -s -1 tempfile.tmp
                 if diff $f tempfile.tmp; then
                   echo "Linting of $f passed"
                 else
