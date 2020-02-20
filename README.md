@@ -26,12 +26,31 @@ Install dependencies:
 npm install
 ```
 
-Create your product files inside the `products/` folder, and before pushing changes to the remote repository, make sure that the two following commands run successfully:
+Create your product files inside the `products/` folder, and before pushing changes to the remote repository, make sure that the following commands run successfully (otherwise the Continuous Integration (CI) tests will fail, and your contributions could not be merged until these errors are corrected):
 
-```bash
-npm test
-npm run lint
-```
+* Validate the JSON schema of all product files:
+
+	```bash
+	npm test
+	```
+
+* Lint all product files (this command will fix any linting errors in place):
+
+	```bash
+	npm run lint
+	```
+
+* Check proper naming of all product files:
+
+	```bash
+	./scripts/check-filenames.bash
+	```
+
+	If this fails, you can automatically rename the product files:
+
+	```bash
+	./scripts/check-filenames.bash --fix
+	```
 
 ## License
 
