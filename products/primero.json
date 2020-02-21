@@ -1,0 +1,37 @@
+{
+  "name": "Primero",
+  "description": "Primero is an open source software platform that helps social services, humanitarian and development workers manage protection-related data, with tools that facilitate case management, incident monitoring and family tracing and reunification.",
+  "license": [
+    {
+      "spdx": "AGPL-3.0",
+      "link": "https://github.com/primeroIMS/primero/blob/maint_1.6/LICENSE"
+    }
+  ],
+  "website": "https://www.primero.org/",
+  "SDGs": [
+    [
+      5,
+      "Gender Equality"
+    ],
+    [
+      16,
+      "Peace, Justice, and Strong Institutions"
+    ]
+  ],
+  "sectors": [
+    "Gender and Minority Groups",
+    "Humanitarian",
+    "Management"
+  ],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/primeroIMS/primero",
+  "organizations": [
+    {
+      "name": "Primero",
+      "website": "https://www.primero.org/",
+      "org_type": "owner"
+    }
+  ]
+}
