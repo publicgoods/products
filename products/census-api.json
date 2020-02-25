@@ -3,7 +3,7 @@
   "description": "A Python wrapper for the US Census API.",
   "license": [
     {
-      "spdx": "Other",
+      "spdx": "BSD-3-Clause",
       "link": "https://github.com/datamade/census/blob/master/LICENSE"
     }
   ],
