@@ -4,11 +4,16 @@
   "license": [
     {
       "spdx": "BSD-3-Clause",
-      "link": ""
+      "link": "https://github.com/dimagi/commcare-cloud/blob/master/LICENSE"
     }
   ],
   "website": "https://dimagi.github.io/commcare-cloud/",
-  "SDGs": [],
+  "SDGs": [
+    [
+      3,
+      "Good Health and Well-Being"
+    ]
+  ],
   "sectors": [],
   "type": [
     "software"

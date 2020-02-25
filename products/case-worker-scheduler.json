@@ -8,7 +8,12 @@
     }
   ],
   "website": "",
-  "SDGs": [],
+  "SDGs": [
+    [
+      3,
+      "Good Health and Well-Being"
+    ]
+  ],
   "sectors": [],
   "type": [
     "software"

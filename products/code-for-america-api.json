@@ -4,14 +4,14 @@
   "license": [
     {
       "spdx": "MIT",
-      "link": ""
+      "link": "https://github.com/codeforamerica/cfapi/blob/master/LICENSE"
     }
   ],
   "website": "http://codeforamerica.org/api",
   "SDGs": [
     [
       16,
-      "Peace, Justice, and Strong Institutions"
+      "Peace, Justice and Strong Institutions"
     ]
   ],
   "sectors": [],

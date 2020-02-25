@@ -3,15 +3,15 @@
   "description": "Open Government and E-Participation Web Software",
   "license": [
     {
-      "spdx": "GPL-3.0",
-      "link": ""
+      "spdx": "AGPL-3.0",
+      "link": "https://github.com/consul/consul/blob/master/LICENSE-AGPLv3.txt"
     }
   ],
   "website": "http://consulproject.org/en/",
   "SDGs": [
     [
       16,
-      "Peace, Justice, and Strong Institutions"
+      "Peace, Justice and Strong Institutions"
     ]
   ],
   "sectors": [],

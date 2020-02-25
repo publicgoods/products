@@ -3,8 +3,8 @@
   "description": "A react.js front-end for climate change related data",
   "license": [
     {
-      "spdx": "GPL-3.0",
-      "link": ""
+      "spdx": "AGPL-3.0",
+      "link": "https://github.com/giving-a-fuck-about-climate-change/carbon-inferno/blob/master/LICENSE"
     }
   ],
   "website": "",

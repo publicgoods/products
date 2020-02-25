@@ -4,11 +4,16 @@
   "license": [
     {
       "spdx": "MIT",
-      "link": ""
+      "link": "https://github.com/etalab/croquemort/blob/master/LICENSE"
     }
   ],
   "website": "",
-  "SDGs": [],
+  "SDGs": [
+    [
+      17,
+      "Partnerships for the Goals"
+    ]
+  ],
   "sectors": [],
   "type": [
     "software"

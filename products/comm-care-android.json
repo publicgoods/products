@@ -4,11 +4,16 @@
   "license": [
     {
       "spdx": "Apache-2.0",
-      "link": ""
+      "link": "https://github.com/dimagi/commcare-android/blob/master/LICENSE"
     }
   ],
   "website": "https://play.google.com/store/apps/details?id=org.commcare.dalvik&hl=en",
-  "SDGs": [],
+  "SDGs": [
+    [
+      3,
+      "Good Health and Well-Being"
+    ]
+  ],
   "sectors": [],
   "type": [
     "software"

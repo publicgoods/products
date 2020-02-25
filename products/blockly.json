@@ -4,7 +4,7 @@
   "license": [
     {
       "spdx": "Apache-2.0",
-      "link": ""
+      "link": "https://github.com/code-dot-org/blockly/blob/master/COPYING"
     }
   ],
   "website": "https://code-dot-org.github.io/blockly/tests/playground.html",

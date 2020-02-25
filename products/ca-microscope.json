@@ -4,14 +4,14 @@
   "license": [
     {
       "spdx": "BSD-3-Clause",
-      "link": ""
+      "link": "https://github.com/camicroscope/caMicroscope/blob/master/LICENSE"
     }
   ],
   "website": "",
   "SDGs": [
     [
       3,
-      "Good Health and Well-being"
+      "Good Health and Well-Being"
     ]
   ],
   "sectors": [],

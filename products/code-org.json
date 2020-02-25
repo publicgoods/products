@@ -3,8 +3,8 @@
   "description": "The code powering code.org and studio.code.org",
   "license": [
     {
-      "spdx": "Other",
-      "link": ""
+      "spdx": "Apache-2.0",
+      "link": "https://github.com/code-dot-org/code-dot-org/blob/staging/LICENSE"
     }
   ],
   "website": "",

@@ -4,11 +4,16 @@
   "license": [
     {
       "spdx": "MIT",
-      "link": ""
+      "link": "https://github.com/Data4Democracy/crash-model/blob/master/LICENSE"
     }
   ],
   "website": "",
-  "SDGs": [],
+  "SDGs": [
+    [
+      16,
+      "Peace, Justice and Strong Institutions"
+    ]
+  ],
   "sectors": [],
   "type": [
     "software"

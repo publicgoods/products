@@ -4,14 +4,14 @@
   "license": [
     {
       "spdx": "Apache-2.0",
-      "link": ""
+      "link": "https://github.com/CenterForOpenScience/SHARE/blob/develop/LICENSE"
     }
   ],
   "website": "https://share-research.readthedocs.io/en/latest/index.html",
   "SDGs": [
     [
       17,
-      "Partnerships to achieve the Goal"
+      "Partnerships for the Goals"
     ]
   ],
   "sectors": [],

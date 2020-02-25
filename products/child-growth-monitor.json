@@ -3,8 +3,8 @@
   "description": "A fool proof solution based on a mobile app using augmented reality in combination with artificial intelligence. By determining weight and height through a 3D scan of children, the app can instantly detect malnutrition.",
   "license": [
     {
-      "spdx": "Other",
-      "link": ""
+      "spdx": "GPL-3.0",
+      "link": "https://github.com/Welthungerhilfe/cgm-ml/blob/master/LICENSE"
     }
   ],
   "website": "https://childgrowthmonitor.org/",

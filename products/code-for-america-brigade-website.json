@@ -4,14 +4,14 @@
   "license": [
     {
       "spdx": "MIT",
-      "link": ""
+      "link": "https://github.com/codeforamerica/brigade/blob/master/LICENSE"
     }
   ],
   "website": "https://brigade.codeforamerica.org",
   "SDGs": [
     [
       16,
-      "Peace, Justice, and Strong Institutions"
+      "Peace, Justice and Strong Institutions"
     ]
   ],
   "sectors": [],

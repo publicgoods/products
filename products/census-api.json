@@ -4,14 +4,14 @@
   "license": [
     {
       "spdx": "Other",
-      "link": ""
+      "link": "https://github.com/datamade/census/blob/master/LICENSE"
     }
   ],
   "website": "",
   "SDGs": [
     [
       16,
-      "Peace, Justice, and Strong Institutions"
+      "Peace, Justice and Strong Institutions"
     ]
   ],
   "sectors": [],

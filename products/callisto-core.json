@@ -3,8 +3,8 @@
   "description": "Report intake, escrow, matching and secure delivery code for Callisto, an online reporting system for sexual assault.",
   "license": [
     {
-      "spdx": "GPL-3.0",
-      "link": ""
+      "spdx": "AGPL-3.0",
+      "link": "https://github.com/project-callisto/callisto-core/blob/master/LICENSE"
     }
   ],
   "website": "",
