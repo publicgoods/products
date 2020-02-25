@@ -1,0 +1,29 @@
+{
+  "name": "Open MRS Android Client",
+  "description": "OpenMRS Android client",
+  "license": [
+    {
+      "spdx": null,
+      "link": ""
+    }
+  ],
+  "website": "",
+  "SDGs": [
+    [
+      3,
+      "Good Health and Well-being"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/openmrs/openmrs-contrib-android-client",
+  "organizations": [
+    {
+      "name": "Open MRS",
+      "website": "https://openmrs.org/",
+      "org_type": "owner"
+    }
+  ]
+}

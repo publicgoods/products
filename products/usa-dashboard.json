@@ -1,0 +1,24 @@
+{
+  "name": "USA Dashboard",
+  "description": "A dashboard of key metrics for the USA",
+  "license": [
+    {
+      "spdx": null,
+      "link": ""
+    }
+  ],
+  "website": "",
+  "SDGs": [],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/Data4Democracy/usa-dashboard",
+  "organizations": [
+    {
+      "name": "Data for Democracy",
+      "website": "https://www.datafordemocracy.org/",
+      "org_type": "owner"
+    }
+  ]
+}

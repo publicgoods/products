@@ -1,0 +1,24 @@
+{
+  "name": "Web IRC",
+  "description": "This project is the front end project that powers the following websites: refugee.info - khabrona.info - cuentanos.org",
+  "license": [
+    {
+      "spdx": null,
+      "link": ""
+    }
+  ],
+  "website": "https://www.refugee.info/",
+  "SDGs": [],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/theirc/web",
+  "organizations": [
+    {
+      "name": "The IRC",
+      "website": "https://www.rescue.org/",
+      "org_type": "owner"
+    }
+  ]
+}

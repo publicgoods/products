@@ -1,0 +1,33 @@
+{
+  "name": "Code.org",
+  "description": "The code powering code.org and studio.code.org",
+  "license": [
+    {
+      "spdx": "Other",
+      "link": ""
+    }
+  ],
+  "website": "",
+  "SDGs": [
+    [
+      10,
+      "Reduced Inequalities"
+    ],
+    [
+      4,
+      "Quality Education"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/code-dot-org/code-dot-org",
+  "organizations": [
+    {
+      "name": "Code.org",
+      "website": " http://code.org/",
+      "org_type": "owner"
+    }
+  ]
+}

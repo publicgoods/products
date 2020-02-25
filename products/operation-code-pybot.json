@@ -1,0 +1,33 @@
+{
+  "name": "Operation Code Pybot",
+  "description": "Operation Code's Official Slackbot",
+  "license": [
+    {
+      "spdx": "Other",
+      "link": ""
+    }
+  ],
+  "website": "",
+  "SDGs": [
+    [
+      4,
+      "Quality Education"
+    ],
+    [
+      10,
+      "Reduced Inequalities"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/OperationCode/operationcode-pybot",
+  "organizations": [
+    {
+      "name": "Operation Code",
+      "website": "https://www.operationcode.org",
+      "org_type": "owner"
+    }
+  ]
+}

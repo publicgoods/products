@@ -1,0 +1,29 @@
+{
+  "name": "OpenFisca France",
+  "description": "OpenFisca is a versatile microsimulation free software. This repository contains the OpenFisca model of the French tax and benefit system. ",
+  "license": [
+    {
+      "spdx": null,
+      "link": ""
+    }
+  ],
+  "website": "",
+  "SDGs": [
+    [
+      16,
+      "Peace, Justice and Strong Institutions"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/openfisca/openfisca-france",
+  "organizations": [
+    {
+      "name": "OpenFisca",
+      "website": "https://openfisca.org/en/",
+      "org_type": "owner"
+    }
+  ]
+}

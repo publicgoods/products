@@ -1,0 +1,29 @@
+{
+  "name": "Open Law Library",
+  "description": "The Open Law Platform empowers you to focus on high-value tasks, auto-updates the legal code as laws become effective, and improves how you connect with citizens.",
+  "license": [
+    {
+      "spdx": "Other",
+      "link": ""
+    }
+  ],
+  "website": "",
+  "SDGs": [
+    [
+      16,
+      "Peace, Justice and Strong Institutions"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/openlawlibrary/taf",
+  "organizations": [
+    {
+      "name": "Open Law Library",
+      "website": "http://www.openlawlib.org/",
+      "org_type": "owner"
+    }
+  ]
+}

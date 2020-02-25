@@ -1,0 +1,29 @@
+{
+  "name": "Refuge Restrooms iOS",
+  "description": "iOS app for Refuge Restrooms",
+  "license": [
+    {
+      "spdx": "GNU Affero General Public License v3.0",
+      "link": ""
+    }
+  ],
+  "website": "",
+  "SDGs": [
+    [
+      5,
+      "Gender Equality"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/RefugeRestrooms/refugerestrooms-ios",
+  "organizations": [
+    {
+      "name": "Refuge Restrooms",
+      "website": "https://www.refugerestrooms.org/about",
+      "org_type": "owner"
+    }
+  ]
+}

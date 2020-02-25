@@ -1,0 +1,29 @@
+{
+  "name": "TidePool Viz",
+  "description": "Tidepool data visualization for diabetes device data.",
+  "license": [
+    {
+      "spdx": "BSD 2-Clause \"Simplified\" License",
+      "link": ""
+    }
+  ],
+  "website": "",
+  "SDGs": [
+    [
+      3,
+      "Good Health and Well-being"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/tidepool-org/viz",
+  "organizations": [
+    {
+      "name": "TidePool",
+      "website": "https://tidepool.org/",
+      "org_type": "owner"
+    }
+  ]
+}

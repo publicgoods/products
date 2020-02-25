@@ -1,0 +1,24 @@
+{
+  "name": "Kobo Docker",
+  "description": "Installing KoBoToolbox on a local or remote server using Docker",
+  "license": [
+    {
+      "spdx": null,
+      "link": ""
+    }
+  ],
+  "website": "",
+  "SDGs": [],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/kobotoolbox/kobo-docker",
+  "organizations": [
+    {
+      "name": "Kobo Toolbox",
+      "website": "http://www.kobotoolbox.org/",
+      "org_type": "owner"
+    }
+  ]
+}

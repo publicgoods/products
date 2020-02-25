@@ -1,0 +1,29 @@
+{
+  "name": "Mifos Community App",
+  "description": "This is the default web application built on top of the MifosX platform for the mifos user community.",
+  "license": [
+    {
+      "spdx": "Mozilla Public License 2.0",
+      "link": ""
+    }
+  ],
+  "website": "",
+  "SDGs": [
+    [
+      1,
+      "No Poverty"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/openMF/community-app",
+  "organizations": [
+    {
+      "name": "Mifos",
+      "website": "https://mifos.org/",
+      "org_type": "owner"
+    }
+  ]
+}

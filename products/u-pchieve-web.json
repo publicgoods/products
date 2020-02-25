@@ -1,0 +1,33 @@
+{
+  "name": "UPchieve Web",
+  "description": "Online real-time tutoring platform.",
+  "license": [
+    {
+      "spdx": null,
+      "link": ""
+    }
+  ],
+  "website": "https://app.upchieve.org",
+  "SDGs": [
+    [
+      4,
+      "Quality Education"
+    ],
+    [
+      10,
+      "Reduced Inequalities"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/UPchieve/web",
+  "organizations": [
+    {
+      "name": "UPchieve",
+      "website": "https://upchieve.org/",
+      "org_type": "owner"
+    }
+  ]
+}

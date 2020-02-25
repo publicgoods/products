@@ -1,0 +1,29 @@
+{
+  "name": "OffenerHausHalt",
+  "description": "Visualize budgets from various levels of the German government; based on the OpenSpending API",
+  "license": [
+    {
+      "spdx": null,
+      "link": ""
+    }
+  ],
+  "website": "https://offenerhaushalt.de",
+  "SDGs": [
+    [
+      16,
+      "Peace, Justice and Strong Institutions"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/okfde/offenerhaushalt.de",
+  "organizations": [
+    {
+      "name": "Open Knowledge Foundation Germany",
+      "website": "https://okfn.de/",
+      "org_type": "owner"
+    }
+  ]
+}

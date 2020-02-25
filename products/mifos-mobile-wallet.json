@@ -1,0 +1,29 @@
+{
+  "name": "Mifos Mobile Wallet",
+  "description": "Mobile Wallet is an Android-based framework for mobile wallets based on top of Fineract. The app follows clean architecture and contains a core library module that can be used as a dependency in any other wallet based project.",
+  "license": [
+    {
+      "spdx": null,
+      "link": ""
+    }
+  ],
+  "website": "",
+  "SDGs": [
+    [
+      1,
+      "No Poverty"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/openMF/mobile-wallet",
+  "organizations": [
+    {
+      "name": "Mifos",
+      "website": "https://mifos.org/",
+      "org_type": "owner"
+    }
+  ]
+}

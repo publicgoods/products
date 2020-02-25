@@ -1,0 +1,29 @@
+{
+  "name": "OSM Analytics",
+  "description": "OSM Analytics lets you interactively analyze how specific OpenStreetMap features are mapped in a specific region. https://www.osm-analytics.org",
+  "license": [
+    {
+      "spdx": "BSD 3-Clause \"New\" or \"Revised\" License",
+      "link": ""
+    }
+  ],
+  "website": "https://www.osm-analytics.org",
+  "SDGs": [
+    [
+      17,
+      "Partnerships to achieve the Goal"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/hotosm/osm-analytics",
+  "organizations": [
+    {
+      "name": "HOTOSM",
+      "website": "https://www.hotosm.org/",
+      "org_type": "owner"
+    }
+  ]
+}

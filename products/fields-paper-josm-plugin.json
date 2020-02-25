@@ -1,0 +1,29 @@
+{
+  "name": "FieldsPaper JOSM Plugin",
+  "description": "A Fieldpapers plugin for JOSM.",
+  "license": [
+    {
+      "spdx": null,
+      "link": ""
+    }
+  ],
+  "website": "",
+  "SDGs": [
+    [
+      17,
+      "Partnerships to achieve the Goal"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/fieldpapers/josm-fieldpapers",
+  "organizations": [
+    {
+      "name": "FieldsPaper",
+      "website": "http://fieldpapers.org",
+      "org_type": "owner"
+    }
+  ]
+}

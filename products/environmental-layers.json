@@ -1,0 +1,37 @@
+{
+  "name": "Environmental Layers",
+  "description": "Collection of different environmental map layers in an easy to use Leaflet library.",
+  "license": [
+    {
+      "spdx": "GNU General Public License v3.0",
+      "link": ""
+    }
+  ],
+  "website": "",
+  "SDGs": [
+    [
+      11,
+      "Sustainable Cities and Communities"
+    ],
+    [
+      12,
+      "Responsible Consumption and Production"
+    ],
+    [
+      13,
+      "Climate Action"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/publiclab/leaflet-environmental-layers",
+  "organizations": [
+    {
+      "name": "PublicLab",
+      "website": "https://publiclab.org/",
+      "org_type": "owner"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Open Data Cube Core",
+  "description": "Open Data Cube analyses continental scale Earth Observation data through time ",
+  "license": [
+    {
+      "spdx": "Apache License 2.0",
+      "link": ""
+    }
+  ],
+  "website": "",
+  "SDGs": [
+    [
+      17,
+      "Partnerships to achieve the Goal"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/opendatacube/datacube-core",
+  "organizations": [
+    {
+      "name": "Open Data Cube",
+      "website": "https://www.opendatacube.org/",
+      "org_type": "owner"
+    }
+  ]
+}

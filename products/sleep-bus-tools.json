@@ -1,0 +1,29 @@
+{
+  "name": "SleepBus Tools",
+  "description": "Simple admin tools for donation administration",
+  "license": [
+    {
+      "spdx": null,
+      "link": ""
+    }
+  ],
+  "website": "",
+  "SDGs": [
+    [
+      1,
+      "No Poverty"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/sleepbusorg/toolbus",
+  "organizations": [
+    {
+      "name": "SleepBus",
+      "website": "https://www.sleepbus.org",
+      "org_type": "owner"
+    }
+  ]
+}

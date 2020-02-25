@@ -1,0 +1,24 @@
+{
+  "name": "ODK Build",
+  "description": "ODK Build is a drag-and-drop form designer for ODK XForms. Thousands of users around the world depend on it for their data collection campaigns. ",
+  "license": [
+    {
+      "spdx": "Other",
+      "link": ""
+    }
+  ],
+  "website": "",
+  "SDGs": [],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/opendatakit/build",
+  "organizations": [
+    {
+      "name": "Open Data Kit",
+      "website": "http://opendatakit.org",
+      "org_type": "owner"
+    }
+  ]
+}

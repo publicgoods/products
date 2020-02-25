@@ -1,0 +1,29 @@
+{
+  "name": "Scratch GUI",
+  "description": "Graphical User Interface for creating and running Scratch 3.0 projects.",
+  "license": [
+    {
+      "spdx": "BSD 3-Clause \"New\" or \"Revised\" License",
+      "link": ""
+    }
+  ],
+  "website": "",
+  "SDGs": [
+    [
+      4,
+      "Quality Education"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/LLK/scratch-gui",
+  "organizations": [
+    {
+      "name": "Scratch",
+      "website": "https://scratch.mit.edu/about",
+      "org_type": "owner"
+    }
+  ]
+}

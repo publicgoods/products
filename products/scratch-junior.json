@@ -1,0 +1,29 @@
+{
+  "name": "Scratch Junior",
+  "description": "With ScratchJr, young children (ages 5-7) can program their own interactive stories and games. ",
+  "license": [
+    {
+      "spdx": "BSD 3-Clause \"New\" or \"Revised\" License",
+      "link": ""
+    }
+  ],
+  "website": "http://www.scratchjr.org",
+  "SDGs": [
+    [
+      4,
+      "Quality Education"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/LLK/scratchjr",
+  "organizations": [
+    {
+      "name": "Scratch",
+      "website": "https://scratch.mit.edu/about",
+      "org_type": "owner"
+    }
+  ]
+}

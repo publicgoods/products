@@ -1,0 +1,29 @@
+{
+  "name": "GeoNode",
+  "description": "GeoNode is an open source platform that facilitates the creation, sharing, and collaborative use of geospatial data.",
+  "license": [
+    {
+      "spdx": "GNU General Public License v3.0",
+      "link": ""
+    }
+  ],
+  "website": "",
+  "SDGs": [
+    [
+      17,
+      "Partnerships to achieve the Goal"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/GeoNode/geonode",
+  "organizations": [
+    {
+      "name": "GeoNode",
+      "website": "http://geonode.org/",
+      "org_type": "owner"
+    }
+  ]
+}

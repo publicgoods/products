@@ -1,0 +1,29 @@
+{
+  "name": "Muckrock",
+  "description": "Muckrock source code",
+  "license": [
+    {
+      "spdx": "GNU Affero General Public License v3.0",
+      "link": ""
+    }
+  ],
+  "website": "",
+  "SDGs": [
+    [
+      16,
+      "Peace, Justice and Strong Institutions"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/MuckRock/muckrock",
+  "organizations": [
+    {
+      "name": "Muckrock",
+      "website": "https://www.muckrock.com/",
+      "org_type": "owner"
+    }
+  ]
+}

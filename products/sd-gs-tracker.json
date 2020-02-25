@@ -1,0 +1,29 @@
+{
+  "name": "SDGs Tracker",
+  "description": "On the closely integrated website  we present the data and research on the UN’s Sustainable Development Goals (SDGs).",
+  "license": [
+    {
+      "spdx": null,
+      "link": ""
+    }
+  ],
+  "website": "http://SDG-Tracker.org",
+  "SDGs": [
+    [
+      17,
+      "Partnerships to achieve the Goal"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/owid/sdg-tracker.org",
+  "organizations": [
+    {
+      "name": "Our World In Data",
+      "website": "https://ourworldindata.org/",
+      "org_type": "owner"
+    }
+  ]
+}

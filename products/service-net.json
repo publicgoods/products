@@ -1,0 +1,24 @@
+{
+  "name": "ServiceNet",
+  "description": "Benetech Service Net is an open standards data exchange platform that makes it easier to share and maintain information on local social and human services. ",
+  "license": [
+    {
+      "spdx": null,
+      "link": ""
+    }
+  ],
+  "website": "",
+  "SDGs": [],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/benetech/ServiceNet",
+  "organizations": [
+    {
+      "name": "Benetech",
+      "website": "https://benetech.org/",
+      "org_type": "owner"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "uData",
+  "description": "Customizable and skinnable social platform dedicated to (open)data.",
+  "license": [
+    {
+      "spdx": "GNU Affero General Public License v3.0",
+      "link": ""
+    }
+  ],
+  "website": "https://getudata.org/",
+  "SDGs": [],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/opendatateam/udata",
+  "organizations": [
+    {
+      "name": "Open Data Team",
+      "website": "https://getudata.org/",
+      "org_type": "owner"
+    }
+  ]
+}

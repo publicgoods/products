@@ -1,0 +1,29 @@
+{
+  "name": "TidePool Blip",
+  "description": "Blip is the internal name for Tidepool for Web, a tool for seeing diabetes data in one place.",
+  "license": [
+    {
+      "spdx": "BSD 2-Clause \"Simplified\" License",
+      "link": ""
+    }
+  ],
+  "website": "https://tidepool.org/products/tidepool/",
+  "SDGs": [
+    [
+      3,
+      "Good Health and Well-being"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/tidepool-org/blip",
+  "organizations": [
+    {
+      "name": "TidePool",
+      "website": "https://tidepool.org/",
+      "org_type": "owner"
+    }
+  ]
+}

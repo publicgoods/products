@@ -1,0 +1,29 @@
+{
+  "name": "LiberaPay",
+  "description": "Source code of the recurrent donations platform Liberapay.",
+  "license": [
+    {
+      "spdx": null,
+      "link": ""
+    }
+  ],
+  "website": "",
+  "SDGs": [
+    [
+      17,
+      "Partnerships to achieve the Goal"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/liberapay/liberapay.com",
+  "organizations": [
+    {
+      "name": "LiberaPay",
+      "website": "https://liberapay.com/",
+      "org_type": "owner"
+    }
+  ]
+}

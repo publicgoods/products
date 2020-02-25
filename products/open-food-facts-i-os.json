@@ -1,0 +1,29 @@
+{
+  "name": "Open Food Facts iOS",
+  "description": "Native (Swift) version of Open Food Facts for iOS",
+  "license": [
+    {
+      "spdx": "Apache License 2.0",
+      "link": ""
+    }
+  ],
+  "website": "",
+  "SDGs": [
+    [
+      12,
+      "Responsible Consumption and Production"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/openfoodfacts/openfoodfacts-ios",
+  "organizations": [
+    {
+      "name": "Open Food Facts",
+      "website": "https://world.openfoodfacts.org/",
+      "org_type": "owner"
+    }
+  ]
+}

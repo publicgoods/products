@@ -1,0 +1,29 @@
+{
+  "name": "CGMBLEKit",
+  "description": "An iOS framework providing an interface for communicating with the G5 and G6 glucose transmitters over Bluetooth.",
+  "license": [
+    {
+      "spdx": "MIT License",
+      "link": ""
+    }
+  ],
+  "website": "",
+  "SDGs": [
+    [
+      3,
+      "Good Health and Well-being"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/LoopKit/CGMBLEKit",
+  "organizations": [
+    {
+      "name": "LoopKit",
+      "website": "https://loopkit.github.io/loopdocs/",
+      "org_type": "owner"
+    }
+  ]
+}

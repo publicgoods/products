@@ -1,0 +1,33 @@
+{
+  "name": "EnergyData.Info",
+  "description": "Open data and analytics for a sustainable energy future.",
+  "license": [
+    {
+      "spdx": "MIT License",
+      "link": ""
+    }
+  ],
+  "website": "http://energydata.info",
+  "SDGs": [
+    [
+      7,
+      "Affordable and Clean Energy"
+    ],
+    [
+      13,
+      "Climate Action"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/energy-data/energydata.info",
+  "organizations": [
+    {
+      "name": "Energy Data",
+      "website": "https://energydata.info/",
+      "org_type": "owner"
+    }
+  ]
+}

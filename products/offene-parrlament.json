@@ -1,0 +1,29 @@
+{
+  "name": "OffeneParrlament",
+  "description": "German parliament (Bundestag and Bundesrat) legislative tracker.",
+  "license": [
+    {
+      "spdx": null,
+      "link": ""
+    }
+  ],
+  "website": "",
+  "SDGs": [
+    [
+      16,
+      "Peace, Justice and Strong Institutions"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/okfde/offenesparlament.de",
+  "organizations": [
+    {
+      "name": "Open Knowledge Foundation Germany",
+      "website": "https://okfn.de/",
+      "org_type": "owner"
+    }
+  ]
+}

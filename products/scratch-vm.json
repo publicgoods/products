@@ -1,0 +1,29 @@
+{
+  "name": "Scratch VM",
+  "description": "Virtual Machine used to represent, run, and maintain the state of programs for Scratch 3.0",
+  "license": [
+    {
+      "spdx": "BSD 3-Clause \"New\" or \"Revised\" License",
+      "link": ""
+    }
+  ],
+  "website": "",
+  "SDGs": [
+    [
+      4,
+      "Quality Education"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/LLK/scratch-vm",
+  "organizations": [
+    {
+      "name": "Scratch",
+      "website": "https://scratch.mit.edu/about",
+      "org_type": "owner"
+    }
+  ]
+}

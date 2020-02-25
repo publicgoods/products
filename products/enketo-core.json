@@ -1,0 +1,24 @@
+{
+  "name": "Enketo Core",
+  "description": "The engine that powers Enketo Smart Paper - Use it to develop your own enketo-powered app. ",
+  "license": [
+    {
+      "spdx": "Apache License 2.0",
+      "link": ""
+    }
+  ],
+  "website": "",
+  "SDGs": [],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/enketo/enketo-core",
+  "organizations": [
+    {
+      "name": "Enketo",
+      "website": "https://enketo.org/",
+      "org_type": "owner"
+    }
+  ]
+}

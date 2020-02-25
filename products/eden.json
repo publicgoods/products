@@ -1,0 +1,24 @@
+{
+  "name": "Eden",
+  "description": "Sahana Eden is an Open Source Humanitarian Platform which can be used to provide solutions for Disaster Management, Development, and Environmental Management sectors.",
+  "license": [
+    {
+      "spdx": "Other",
+      "link": ""
+    }
+  ],
+  "website": "",
+  "SDGs": [],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/sahana/eden",
+  "organizations": [
+    {
+      "name": "Sahana",
+      "website": "http://sahanafoundation.org",
+      "org_type": "owner"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Bias Correct",
+  "description": "A Slack Application that identifies and corrects unconscious gender bias in messages and conversations",
+  "license": [
+    {
+      "spdx": null,
+      "link": ""
+    }
+  ],
+  "website": "https://catalyst.org/biascorrect",
+  "SDGs": [
+    [
+      5,
+      "Gender Equality"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/EskaleraInc/catalyst-bias-correct",
+  "organizations": [
+    {
+      "name": "Catalyst",
+      "website": "https://catalyst.org/",
+      "org_type": "owner"
+    }
+  ]
+}

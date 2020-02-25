@@ -1,0 +1,24 @@
+{
+  "name": "SpatioTemporal Asset Catalog Specifications",
+  "description": "Making geospatial assets openly searchable and crawlable.",
+  "license": [
+    {
+      "spdx": "Apache License 2.0",
+      "link": ""
+    }
+  ],
+  "website": "",
+  "SDGs": [],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/radiantearth/stac-spec",
+  "organizations": [
+    {
+      "name": "Radiant Earth",
+      "website": "https://www.radiant.earth/",
+      "org_type": "owner"
+    }
+  ]
+}

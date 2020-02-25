@@ -1,0 +1,33 @@
+{
+  "name": "Dollar Street Pages",
+  "description": "Imagine the world as a street ordered by income. Everyone lives somewhere on the street. The poorest lives to the left and the richest to the right. Everybody else live somewhere in between. ",
+  "license": [
+    {
+      "spdx": "GNU General Public License v3.0",
+      "link": ""
+    }
+  ],
+  "website": "https://www.gapminder.org/dollar-street/about",
+  "SDGs": [
+    [
+      10,
+      "Reduced Inequalities"
+    ],
+    [
+      17,
+      "Partnerships to achieve the Goal"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/Gapminder/dollar-street-pages",
+  "organizations": [
+    {
+      "name": "GapMinder",
+      "website": "https://www.gapminder.org/",
+      "org_type": "owner"
+    }
+  ]
+}

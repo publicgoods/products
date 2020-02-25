@@ -1,0 +1,29 @@
+{
+  "name": "No mas cohecho",
+  "description": "compañar imparcialmente desde la ciudadanía el accionar del Ministerio Público y la Justicia, a fin de que se sancione con el máximo rigor que permite la ley a los responsables de defraudar la fe pública.",
+  "license": [
+    {
+      "spdx": null,
+      "link": ""
+    }
+  ],
+  "website": "https://nomascohecho.cl/",
+  "SDGs": [
+    [
+      16,
+      "Peace, Justice and Strong Institutions"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/ciudadanointeligente/no-mas-cohecho",
+  "organizations": [
+    {
+      "name": "Ciudadano Inteligente",
+      "website": "https://ciudadaniai.org/",
+      "org_type": "owner"
+    }
+  ]
+}

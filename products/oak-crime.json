@@ -1,0 +1,29 @@
+{
+  "name": "OakCrime",
+  "description": "Code supporting citizen analysis of crime in Oakland, CA",
+  "license": [
+    {
+      "spdx": null,
+      "link": ""
+    }
+  ],
+  "website": "http://oakcrime.org/",
+  "SDGs": [
+    [
+      16,
+      "Peace, Justice and Strong Institutions"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/openoakland/OakCrime",
+  "organizations": [
+    {
+      "name": "Open Oakland",
+      "website": "https://openoakland.org/",
+      "org_type": "owner"
+    }
+  ]
+}

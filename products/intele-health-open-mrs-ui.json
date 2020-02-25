@@ -1,0 +1,29 @@
+{
+  "name": "InteleHealth OpenMRS UI",
+  "description": "Intelehealth Openmrs module",
+  "license": [
+    {
+      "spdx": "Mozilla Public License 2.0",
+      "link": ""
+    }
+  ],
+  "website": "",
+  "SDGs": [
+    [
+      3,
+      "Good Health and Well-being"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/Intelehealth/intelehealth-openmrs-ui",
+  "organizations": [
+    {
+      "name": "InteleHealth",
+      "website": "https://www.intelehealth.org/",
+      "org_type": "owner"
+    }
+  ]
+}
