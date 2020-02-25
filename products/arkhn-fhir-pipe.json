@@ -4,14 +4,14 @@
   "license": [
     {
       "spdx": "Apache-2.0",
-      "link": ""
+      "link": "https://github.com/arkhn/fhir-pipe/blob/master/LICENSE"
     }
   ],
   "website": "",
   "SDGs": [
     [
       3,
-      "Good Health and Well-being"
+      "Good Health and Well-Being"
     ]
   ],
   "sectors": [],

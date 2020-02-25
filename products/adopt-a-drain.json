@@ -4,14 +4,18 @@
   "license": [
     {
       "spdx": "BSD-3-Clause",
-      "link": ""
+      "link": "https://github.com/sfbrigade/adopt-a-drain/blob/master/LICENSE.md"
     }
   ],
-  "website": "https://github.com/sfbrigade/adopt-a-drain",
+  "website": "https://adoptadrain.sfwater.org/",
   "SDGs": [
     [
+      11,
+      "Sustainable Cities and Communities"
+    ],
+    [
       16,
-      "Peace, Justice, and Strong Institutions"
+      "Peace, Justice and Strong Institutions"
     ]
   ],
   "sectors": [],

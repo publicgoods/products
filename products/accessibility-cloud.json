@@ -4,14 +4,14 @@
   "license": [
     {
       "spdx": "MIT",
-      "link": ""
+      "link": "https://github.com/sozialhelden/accessibility-cloud/blob/master/LICENSE"
     }
   ],
   "website": "https://www.accessibility.cloud/",
   "SDGs": [
     [
       3,
-      "Good Health and Well-being"
+      "Good Health and Well-Being"
     ],
     [
       10,

@@ -4,11 +4,16 @@
   "license": [
     {
       "spdx": "MIT",
-      "link": ""
+      "link": "https://github.com/HTBox/allReady/blob/master/LICENSE"
     }
   ],
   "website": "http://www.htbox.org/projects/allready",
-  "SDGs": [],
+  "SDGs": [
+    [
+      16,
+      "Peace, Justice and Strong Institutions"
+    ]
+  ],
   "sectors": [],
   "type": [
     "software"

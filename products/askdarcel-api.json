@@ -3,8 +3,8 @@
   "description": "Backend of the \"Ask Darcel\" app.",
   "license": [
     {
-      "spdx": "Other",
-      "link": ""
+      "spdx": "GPL-3.0",
+      "link": "https://github.com/ShelterTechSF/askdarcel-api/blob/master/LICENSE"
     }
   ],
   "website": "https://askdarcel.org/",

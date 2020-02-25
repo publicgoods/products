@@ -4,14 +4,14 @@
   "license": [
     {
       "spdx": "MIT",
-      "link": ""
+      "link": "https://github.com/5calls/ios/blob/master/LICENSE"
     }
   ],
-  "website": "",
+  "website": "https://5calls.org/",
   "SDGs": [
     [
       16,
-      "Peace, Justice, and Strong Institutions"
+      "Peace, Justice and Strong Institutions"
     ]
   ],
   "sectors": [],

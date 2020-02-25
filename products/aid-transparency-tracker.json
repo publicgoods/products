@@ -4,11 +4,16 @@
   "license": [
     {
       "spdx": "GPL-3.0",
-      "link": ""
+      "link": "https://github.com/pwyf/aid-transparency-tracker/blob/2020tracker/license.txt"
     }
   ],
   "website": "https://www.publishwhatyoufund.org/projects/humanitarian-transparency/",
-  "SDGs": [],
+  "SDGs": [
+    [
+      16,
+      "Peace, Justice and Strong Institutions"
+    ]
+  ],
   "sectors": [],
   "type": [
     "software"
