@@ -26,7 +26,7 @@ Install dependencies:
 npm install
 ```
 
-Create your product files inside the `products/` folder, and before pushing changes to the remote repository, make sure that the following commands run successfully (otherwise the Continuous Integration (CI) tests will fail, and your contributions could not be merged until these errors are corrected):
+Create your product files inside the `products/` folder. The filename for each product should match the `name` field in that product in [kebab-case](https://wiki.c2.com/?KebabCase). Before pushing changes to the remote repository, make sure that the following commands run successfully (otherwise the Continuous Integration (CI) tests will fail, and your contributions could not be merged until these errors are corrected):
 
 * Validate the JSON schema of all product files:
 
@@ -40,7 +40,7 @@ Create your product files inside the `products/` folder, and before pushing chan
 	npm run lint
 	```
 
-* Check proper naming of all product files:
+* Check proper naming of all product files. Again, this will check that the filename matches that file `name` field in kebab case (i.e. spaces replaced by dashes):
 
 	```bash
 	./scripts/check-filenames.bash
