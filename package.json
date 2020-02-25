@@ -4,7 +4,7 @@
   "description": "Collection of public goods",
   "scripts": {
     "lint": "jsonlint products/*.json -i",
-    "test": "ajv validate -s data-schema/product-schema.json -d products/*.json"
+    "test": "ajv validate -s data-schema/product-schema.json -d \"products/*.json\""
   },
   "repository": {
     "type": "git",
