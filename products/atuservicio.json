@@ -1,0 +1,29 @@
+{
+  "name": "Atuservicio",
+  "description": "Displays a comprehensive list of health providers in the country. Compare your indicators and make an informed decision.",
+  "license": [
+    {
+      "spdx": null,
+      "link": ""
+    }
+  ],
+  "website": "https://atuservicio.msp.gub.uy/",
+  "SDGs": [
+    [
+      3,
+      "Good Health and Well-being"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/datauy/atuservicio",
+  "organizations": [
+    {
+      "name": "Data Uruguay ",
+      "website": "https://www.datauy.org/",
+      "org_type": "owner"
+    }
+  ]
+}
