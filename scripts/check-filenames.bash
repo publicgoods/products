@@ -11,15 +11,15 @@ pushd $SELFDIR/.. > /dev/null 2>&1
 
 if [ `ls -1 ./products/*.json 2>/dev/null | wc -l` -gt 0 ]; then
 	for f in ./products/*.json; do
-	    filename=`grep -Eo -m 1 '"name":.*?[^\\]",' $f | awk -F':' '{print $2}' | sed -e 's/"//g' -e 's/,//g' -e 's/^[[:space:]]*//' | tr '[:upper:]' '[:lower:]'`
+	    filename=`grep -Eo -m 1 '"name":.*?[^\\]",' "$f" | awk -F':' '{print $2}' | sed -e 's/"//g' -e 's/,//g' -e 's/^[[:space:]]*//' -e 's/[[:space:]]/-/'| tr '[:upper:]' '[:lower:]'`
 	    if [ "$filename.json" = "$(basename -- "$f")" ]; then
 	    	echo "Filename is valid: $filename.json"
 	    else
 	    	if [ $FIX = 1 ]; then
-	    		mv $f ./products/$filename.json
-	    		echo "Filename has been renamed: $filename.json"
+				mv "$f" "./products/$filename.json"
+				echo "Filename has been renamed: $filename.json"
 	    	else
-	    		echo "Filename is not valid: $(basename -- "$f"), it should be $filename.json"
+	    		echo "Filename is not valid: $(basename -- "$f"), it should be $filename.json, where the filename must match the 'name' field in kebab case."
 	    		echo "Run this script with --fix to rename the file(s) automatically."
 	    		popd > /dev/null 2>&1
 				exit 1
