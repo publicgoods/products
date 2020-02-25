@@ -1,0 +1,24 @@
+{
+  "name": "CaseWorker Scheduler",
+  "description": "DataKind worked with Community Based Care of Central Florida to design a solution for helping their caseworkers sequence their required activities more efficiently to reduce planning and travel time. ",
+  "license": [
+    {
+      "spdx": "Other",
+      "link": ""
+    }
+  ],
+  "website": "",
+  "SDGs": [],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/datakind/caseworker-scheduler",
+  "organizations": [
+    {
+      "name": "DataKind",
+      "website": "https://www.datakind.org/",
+      "org_type": "owner"
+    }
+  ]
+}

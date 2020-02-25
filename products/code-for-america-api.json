@@ -1,0 +1,29 @@
+{
+  "name": "Code for America API",
+  "description": "The Code for America API. Tracks and motivates activity and participation across the civic technology movement.",
+  "license": [
+    {
+      "spdx": "MIT",
+      "link": ""
+    }
+  ],
+  "website": "http://codeforamerica.org/api",
+  "SDGs": [
+    [
+      16,
+      "Peace, Justice, and Strong Institutions"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/codeforamerica/cfapi",
+  "organizations": [
+    {
+      "name": "Code for America",
+      "website": "https://www.codeforamerica.org/",
+      "org_type": "owner"
+    }
+  ]
+}

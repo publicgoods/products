@@ -1,0 +1,29 @@
+{
+  "name": "Code for America Brigade Website",
+  "description": "The Code for America Brigade Website",
+  "license": [
+    {
+      "spdx": "MIT",
+      "link": ""
+    }
+  ],
+  "website": "https://brigade.codeforamerica.org",
+  "SDGs": [
+    [
+      16,
+      "Peace, Justice, and Strong Institutions"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/codeforamerica/brigade",
+  "organizations": [
+    {
+      "name": "Code for America",
+      "website": "https://www.codeforamerica.org/",
+      "org_type": "owner"
+    }
+  ]
+}

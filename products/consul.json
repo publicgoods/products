@@ -1,0 +1,29 @@
+{
+  "name": "Consul",
+  "description": "Open Government and E-Participation Web Software",
+  "license": [
+    {
+      "spdx": "GPL-3.0",
+      "link": ""
+    }
+  ],
+  "website": "http://consulproject.org/en/",
+  "SDGs": [
+    [
+      16,
+      "Peace, Justice, and Strong Institutions"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/consul/consul",
+  "organizations": [
+    {
+      "name": "Consul",
+      "website": "http://consulproject.org/",
+      "org_type": "owner"
+    }
+  ]
+}

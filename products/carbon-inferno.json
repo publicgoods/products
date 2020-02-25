@@ -1,0 +1,29 @@
+{
+  "name": "Carbon Inferno",
+  "description": "A react.js front-end for climate change related data",
+  "license": [
+    {
+      "spdx": "GPL-3.0",
+      "link": ""
+    }
+  ],
+  "website": "",
+  "SDGs": [
+    [
+      13,
+      "Climate Action"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/giving-a-fuck-about-climate-change/carbon-inferno",
+  "organizations": [
+    {
+      "name": "Carbon Dooms Day",
+      "website": "http://lukewm.info/",
+      "org_type": "owner"
+    }
+  ]
+}
