@@ -3,7 +3,7 @@
   "description": "Core containerized service aimed at attributing priority to an incoming transcript. It also uses NLU for emotion analysis, and keywords extraction. Tech Stack: AWS, LightGBM, Bayesian Optimization, Flask.",
   "license": [
     {
-      "spdx": null,
+      "spdx": "Other",
       "link": ""
     }
   ],

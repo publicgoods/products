@@ -3,7 +3,7 @@
   "description": "Frontend for the 5calls.org site",
   "license": [
     {
-      "spdx": "MIT License",
+      "spdx": "MIT",
       "link": ""
     }
   ],
@@ -11,7 +11,7 @@
   "SDGs": [
     [
       16,
-      "Peace, Justice and Strong Institutions"
+      "Peace, Justice, and Strong Institutions"
     ]
   ],
   "sectors": [],

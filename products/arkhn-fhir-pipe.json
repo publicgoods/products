@@ -3,7 +3,7 @@
   "description": "Populate FHIR-compliant objects using SQL databases and processing rules",
   "license": [
     {
-      "spdx": "Apache License 2.0",
+      "spdx": "Apache-2.0",
       "link": ""
     }
   ],

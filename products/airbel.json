@@ -3,7 +3,7 @@
   "description": "The Airbel Center is the innovation team at the International Rescue Committee. We develop products, services, and systems to improve humanitarian response—creating lasting impact for people affected by conflict and crisis.",
   "license": [
     {
-      "spdx": null,
+      "spdx": "Other",
       "link": ""
     }
   ],

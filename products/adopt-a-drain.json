@@ -3,7 +3,7 @@
   "description": "A web application that allows citizens to \"adopt\" a storm drain in San Francisco. ",
   "license": [
     {
-      "spdx": "BSD 3-Clause \"New\" or \"Revised\" License",
+      "spdx": "BSD-3-Clause",
       "link": ""
     }
   ],
@@ -11,7 +11,7 @@
   "SDGs": [
     [
       16,
-      "Peace, Justice and Strong Institutions"
+      "Peace, Justice, and Strong Institutions"
     ]
   ],
   "sectors": [],

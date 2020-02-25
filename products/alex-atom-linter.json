@@ -3,7 +3,7 @@
   "description": "Atom linter meets alex to catch potentially insensitive, inconsiderate writing.",
   "license": [
     {
-      "spdx": "MIT License",
+      "spdx": "MIT",
       "link": ""
     }
   ],

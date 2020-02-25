@@ -3,7 +3,7 @@
   "description": "This linter plugin for SublimeLinter provides an interface to Alex. It will be used with files that have the \"Plain text\" & \"Markdown\" syntax.",
   "license": [
     {
-      "spdx": "MIT License",
+      "spdx": "MIT",
       "link": ""
     }
   ],

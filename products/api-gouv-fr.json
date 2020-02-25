@@ -3,7 +3,7 @@
   "description": "api.gouv.fr catalogue les API offertes par les administrations centrales, les collectivités territoriales, les établissements publics.",
   "license": [
     {
-      "spdx": "GNU Affero General Public License v3.0",
+      "spdx": "GPL-3.0",
       "link": ""
     }
   ],
