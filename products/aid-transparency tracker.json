@@ -1,0 +1,24 @@
+{
+  "name": "Aid Transparency Tracker",
+  "description": "From the Ground Up: Taking a needs based approach to humanitarian transparency",
+  "license": [
+    {
+      "spdx": "GNU Affero General Public License v3.0",
+      "link": ""
+    }
+  ],
+  "website": "https://www.publishwhatyoufund.org/projects/humanitarian-transparency/",
+  "SDGs": [],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/pwyf/aid-transparency-tracker",
+  "organizations": [
+    {
+      "name": "Publish What You Fund",
+      "website": "http://www.publishwhatyoufund.org",
+      "org_type": "owner"
+    }
+  ]
+}

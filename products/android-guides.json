@@ -1,0 +1,33 @@
+{
+  "name": "Android Guides",
+  "description": "Extensive Open-Source Guides for Android Developers",
+  "license": [
+    {
+      "spdx": "MIT License",
+      "link": ""
+    }
+  ],
+  "website": "http://guides.codepath.com",
+  "SDGs": [
+    [
+      10,
+      "Reduced Inequalities"
+    ],
+    [
+      4,
+      "Quality Education"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/codepath/android_guides",
+  "organizations": [
+    {
+      "name": "CodePath",
+      "website": "https://codepath.org/",
+      "org_type": "owner"
+    }
+  ]
+}

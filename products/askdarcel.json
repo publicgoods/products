@@ -1,0 +1,29 @@
+{
+  "name": "AskDarcel",
+  "description": "The \"Ask Darcel\" web app.",
+  "license": [
+    {
+      "spdx": "GNU General Public License v3.0",
+      "link": ""
+    }
+  ],
+  "website": "https://askdarcel.org/",
+  "SDGs": [
+    [
+      1,
+      "No Poverty"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/ShelterTechSF/askdarcel-web",
+  "organizations": [
+    {
+      "name": "ShelterTech",
+      "website": "https://www.sheltertech.org/",
+      "org_type": "owner"
+    }
+  ]
+}

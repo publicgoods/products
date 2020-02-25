@@ -1,0 +1,24 @@
+{
+  "name": "api.gouv.fr",
+  "description": "api.gouv.fr catalogue les API offertes par les administrations centrales, les collectivités territoriales, les établissements publics.",
+  "license": [
+    {
+      "spdx": "GNU Affero General Public License v3.0",
+      "link": ""
+    }
+  ],
+  "website": "https://api.gouv.fr/",
+  "SDGs": [],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/betagouv/api.gouv.fr",
+  "organizations": [
+    {
+      "name": "Beta.Gouv",
+      "website": "https://beta.gouv.fr/",
+      "org_type": "owner"
+    }
+  ]
+}

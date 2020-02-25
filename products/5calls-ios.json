@@ -1,0 +1,29 @@
+{
+  "name": "5Calls iOS",
+  "description": "iOS app for 5calls.org",
+  "license": [
+    {
+      "spdx": "MIT License",
+      "link": ""
+    }
+  ],
+  "website": "",
+  "SDGs": [
+    [
+      16,
+      "Peace, Justice and Strong Institutions"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/5calls/ios",
+  "organizations": [
+    {
+      "name": "5Calls",
+      "website": "https://5calls.org/",
+      "org_type": "owner"
+    }
+  ]
+}

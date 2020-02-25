@@ -1,0 +1,29 @@
+{
+  "name": "Arkhn FHIR Pipe",
+  "description": "Populate FHIR-compliant objects using SQL databases and processing rules",
+  "license": [
+    {
+      "spdx": "Apache License 2.0",
+      "link": ""
+    }
+  ],
+  "website": "",
+  "SDGs": [
+    [
+      3,
+      "Good Health and Well-being"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/arkhn/fhir-pipe",
+  "organizations": [
+    {
+      "name": "Arkhn",
+      "website": "https://arkhn.org/",
+      "org_type": "owner"
+    }
+  ]
+}
