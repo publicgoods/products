@@ -19,7 +19,7 @@ if [ `ls -1 ./products/*.json 2>/dev/null | wc -l` -gt 0 ]; then
 				mv "$f" "./products/$filename.json"
 				echo "Filename has been renamed: $filename.json"
 	    	else
-	    		echo "Filename is not valid: $(basename -- "$f"), it should be $filename.json"
+	    		echo "Filename is not valid: $(basename -- "$f"), it should be $filename.json, where the filename must match the 'name' field in kebab case."
 	    		echo "Run this script with --fix to rename the file(s) automatically."
 	    		popd > /dev/null 2>&1
 				exit 1
