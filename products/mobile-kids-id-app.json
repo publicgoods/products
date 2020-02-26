@@ -8,7 +8,12 @@
     }
   ],
   "website": "",
-  "SDGs": [],
+  "SDGs": [
+    [
+      4,
+      "Quality Education"
+    ]
+  ],
   "sectors": [],
   "type": [
     "software"

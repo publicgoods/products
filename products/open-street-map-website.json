@@ -8,7 +8,12 @@
     }
   ],
   "website": "https://www.openstreetmap.org/",
-  "SDGs": [],
+  "SDGs": [
+    [
+      17,
+      "Partnerships for the Goals"
+    ]
+  ],
   "sectors": [],
   "type": [
     "software"

@@ -8,7 +8,16 @@
     }
   ],
   "website": "",
-  "SDGs": [],
+  "SDGs": [
+    [
+      9,
+      "Industry, Innovation, and Infrastructure"
+    ],
+    [
+      17,
+      "Partnerships for the Goals"
+    ]
+  ],
   "sectors": [],
   "type": [
     "software"

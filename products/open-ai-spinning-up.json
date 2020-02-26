@@ -8,7 +8,16 @@
     }
   ],
   "website": "https://spinningup.openai.com/",
-  "SDGs": [],
+  "SDGs": [
+    [
+      4,
+      "Quality Education"
+    ],
+    [
+      17,
+      "Partnerships for the Goals"
+    ]
+  ],
   "sectors": [],
   "type": [
     "software"

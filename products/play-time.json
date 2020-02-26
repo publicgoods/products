@@ -8,7 +8,16 @@
     }
   ],
   "website": "http://www.playtimeproject.org/",
-  "SDGs": [],
+  "SDGs": [
+    [
+      4,
+      "Quality Education"
+    ],
+    [
+      10,
+      "Reducing Inequality"
+    ]
+  ],
   "sectors": [],
   "type": [
     "software"

@@ -8,7 +8,12 @@
     }
   ],
   "website": "http://represent.opennorth.ca/",
-  "SDGs": [],
+  "SDGs": [
+    [
+      16,
+      "Peace, Justice, and Strong Institutions"
+    ]
+  ],
   "sectors": [],
   "type": [
     "software"

@@ -8,7 +8,12 @@
     }
   ],
   "website": "https://docs.rastervision.io/en/0.9/",
-  "SDGs": [],
+  "SDGs": [
+    [
+      9,
+      "Industry, Innovation, and Infrastructure"
+    ]
+  ],
   "sectors": [],
   "type": [
     "software"

@@ -8,7 +8,12 @@
     }
   ],
   "website": "",
-  "SDGs": [],
+  "SDGs": [
+    [
+      11,
+      "Sustainable Cities and Communities"
+    ]
+  ],
   "sectors": [],
   "type": [
     "software"

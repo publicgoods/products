@@ -8,7 +8,20 @@
     }
   ],
   "website": "https://getudata.org/",
-  "SDGs": [],
+  "SDGs": [
+    [
+      11,
+      "Sustainable Cities and Communities"
+    ],
+    [
+      16,
+      "Peace, Justice, and Strong Institutions"
+    ],
+    [
+      17,
+      "Partnerships for the Goals"
+    ]
+  ],
   "sectors": [],
   "type": [
     "software"
