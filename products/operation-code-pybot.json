@@ -3,7 +3,7 @@
   "description": "Operation Code's Official Slackbot",
   "license": [
     {
-      "spdx": "NOASSERTION",
+      "spdx": "MIT",
       "licenseURL": "https://github.com/OperationCode/operationcode-pybot/blob/staging/LICENSE.MD"
     }
   ],

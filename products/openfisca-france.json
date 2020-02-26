@@ -3,7 +3,7 @@
   "description": "OpenFisca is a versatile microsimulation free software. This repository contains the OpenFisca model of the French tax and benefit system. ",
   "license": [
     {
-      "spdx": "AGPL-2.0",
+      "spdx": "AGPL-3.0",
       "licenseURL": "https://github.com/openfisca/openfisca-france/blob/master/LICENSE.AGPL.txt"
     }
   ],

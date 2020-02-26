@@ -3,7 +3,7 @@
   "description": "A microservice supporting PyBot, Resources API, and other features that the official back-end does not manage.",
   "license": [
     {
-      "spdx": "NOASSERTION",
+      "spdx": "MIT",
       "licenseURL": "https://github.com/OperationCode/operationcode-pyback/blob/master/LICENSE.MD"
     }
   ],

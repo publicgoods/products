@@ -3,7 +3,7 @@
   "description": "OpenMRS Android client",
   "license": [
     {
-      "spdx": "NOASSERTION",
+      "spdx": "MPL-2.0",
       "licenseURL": "https://github.com/openmrs/openmrs-contrib-android-client/blob/master/copyright/copyright"
     }
   ],

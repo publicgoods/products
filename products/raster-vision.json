@@ -3,7 +3,7 @@
   "description": "Raster Vision is an open source Python framework for building computer vision models on satellite, aerial, and other large imagery sets (including oblique drone imagery).",
   "license": [
     {
-      "spdx": "NOASSERTION",
+      "spdx": "Apache-2.0",
       "licenseURL": "https://github.com/azavea/raster-vision/blob/master/LICENSE"
     }
   ],

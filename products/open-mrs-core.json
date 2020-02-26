@@ -3,7 +3,7 @@
   "description": "OpenMRS API and web application code",
   "license": [
     {
-      "spdx": "NOASSERTION",
+      "spdx": "MPL-2.0",
       "licenseURL": "https://github.com/openmrs/openmrs-core/blob/master/LICENSE"
     }
   ],

@@ -3,7 +3,7 @@
   "description": "A better commenting experience for journalists. Because journalism needs everyone.",
   "license": [
     {
-      "spdx": "NOASSERTION",
+      "spdx": "Apache-2.0",
       "licenseURL": "https://github.com/coralproject/talk/blob/master/LICENSE"
     }
   ],

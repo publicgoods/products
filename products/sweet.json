@@ -3,7 +3,7 @@
   "description": "SWEET is a highly modular ontology suite with ~6000 concepts in ~200 separate ontologies covering Earth system science.",
   "license": [
     {
-      "spdx": "NOASSERTION",
+      "spdx": "CC0-1.0",
       "licenseURL": "https://github.com/ESIPFed/sweet/blob/master/LICENSE"
     }
   ],

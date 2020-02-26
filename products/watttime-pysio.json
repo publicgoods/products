@@ -3,7 +3,7 @@
   "description": "Python client libraries for WhatTime ISO and other power grid data sources.",
   "license": [
     {
-      "spdx": "NOASSERTION",
+      "spdx": "AGPL-3.0",
       "licenseURL": "https://github.com/WattTime/pyiso/blob/master/LICENSE"
     }
   ],

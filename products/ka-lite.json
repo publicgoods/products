@@ -3,7 +3,11 @@
   "description": "An offline version of Khan Academy.\nA free lightweight solution providing high-quality education where you need it most. Bringing the power of online learning to the offline world.",
   "license": [
     {
-      "spdx": "NOASSERTION",
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/learningequality/ka-lite/blob/master/LICENSE"
+    },
+    {
+      "spdx": "CC-BY-NC-SA-3.0",
       "licenseURL": "https://github.com/learningequality/ka-lite/blob/master/LICENSE"
     }
   ],
