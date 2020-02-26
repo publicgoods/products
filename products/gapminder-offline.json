@@ -3,7 +3,7 @@
   "description": "With Gapminder Tools Offline you can show animated statistics from your own laptop!",
   "license": [
     {
-      "spdx": "NOASSERTION",
+      "spdx": "MIT",
       "link": "https://github.com/Gapminder/gapminder-offline/blob/development/LICENSE"
     }
   ],

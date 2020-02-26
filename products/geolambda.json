@@ -4,14 +4,14 @@
   "license": [
     {
       "spdx": "MIT",
-      "link": "https://github.com/developmentseed/geolambda/blob/master/LICENSE.txt"
+      "licenseURL": "https://github.com/developmentseed/geolambda/blob/master/LICENSE.txt"
     }
   ],
   "website": "",
   "SDGs": [
     [
       9,
-      "Industry Innovation and Infrastructure"
+      "Industry, Innovation and Infrastructure"
     ],
     [
       17,

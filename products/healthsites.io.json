@@ -3,11 +3,15 @@
   "description": "Healthsites is a framework for capturing, publishing and sharing critical health and sanitation related data to help make these facilities more accessible and relevant to the communities they serve.",
   "license": [
     {
-      "spdx": "NOASSERTION",
-      "link": "https://github.com/healthsites/healthsites/blob/master/LICENSE-CODE.txt"
+      "spdx": "BSD-2-Clause-FreeBSD",
+      "licenseURL": "https://github.com/healthsites/healthsites/blob/master/LICENSE-CODE.txt"
+    },
+    {
+      "spdx": "ODbL-1.0",
+      "licenseURL": "https://github.com/healthsites/healthsites/blob/master/LICENSE-DATA.txt"
     }
   ],
-  "website": "",
+  "website": "https://healthsites.io",
   "SDGs": [
     [
       3,
