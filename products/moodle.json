@@ -1,0 +1,29 @@
+{
+  "name": "Moodle",
+  "description": "The world's open source learning platform ",
+  "license": [
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://github.com/moodle/moodle/blob/master/COPYING.txt"
+    }
+  ],
+  "website": "",
+  "SDGs": [
+    [
+      4,
+      "Quality Education"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/moodle/moodle",
+  "organizations": [
+    {
+      "name": "Moodle",
+      "website": "https://moodle.com/",
+      "org_type": "owner"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Mojaloop",
+  "description": "Mojaloop aims at creating payment platforms that are interoperable, connecting digital financial service providers and customers by providing specifications, standards and open-source software",
+  "license": [
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://github.com/mojaloop/mojaloop/blob/master/LICENSE.md"
+    }
+  ],
+  "website": "",
+  "SDGs": [
+    [
+      1,
+      "No Poverty"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/mojaloop/mojaloop",
+  "organizations": [
+    {
+      "name": "Mojaloop",
+      "website": "http://mojaloop.io/",
+      "org_type": "owner"
+    }
+  ]
+}
