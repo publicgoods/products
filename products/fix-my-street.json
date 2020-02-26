@@ -4,7 +4,7 @@
   "license": [
     {
       "spdx": "AGPL-3.0",
-      "link": "https://github.com/mysociety/fixmystreet/blob/master/LICENSE.txt"
+      "licenseURL": "https://github.com/mysociety/fixmystreet/blob/master/LICENSE.txt"
     }
   ],
   "website": "http://fixmystreet.org/",

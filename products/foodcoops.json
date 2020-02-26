@@ -4,7 +4,7 @@
   "license": [
     {
       "spdx": "AGPL-3.0",
-      "link": "https://github.com/foodcoops/foodsoft/blob/master/LICENSE.md"
+      "licenseURL": "https://github.com/foodcoops/foodsoft/blob/master/LICENSE.md"
     }
   ],
   "website": "https://foodcoops.github.io/",

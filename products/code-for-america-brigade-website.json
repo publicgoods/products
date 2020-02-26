@@ -4,7 +4,7 @@
   "license": [
     {
       "spdx": "MIT",
-      "link": "https://github.com/codeforamerica/brigade/blob/master/LICENSE"
+      "licenseURL": "https://github.com/codeforamerica/brigade/blob/master/LICENSE"
     }
   ],
   "website": "https://brigade.codeforamerica.org",

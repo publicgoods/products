@@ -4,7 +4,7 @@
   "license": [
     {
       "spdx": "BSD-2-Clause",
-      "link": "https://github.com/hotosm/tasking-manager/blob/develop/LICENSE.txt"
+      "licenseURL": "https://github.com/hotosm/tasking-manager/blob/develop/LICENSE.txt"
     }
   ],
   "website": "https://tasks.hotosm.org/",

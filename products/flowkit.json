@@ -4,7 +4,7 @@
   "license": [
     {
       "spdx": "MPL-2.0",
-      "link": "https://github.com/Flowminder/FlowKit/blob/master/LICENSE"
+      "licenseURL": "https://github.com/Flowminder/FlowKit/blob/master/LICENSE"
     }
   ],
   "website": "https://flowminder.github.io/FlowKit/",

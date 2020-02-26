@@ -4,7 +4,7 @@
   "license": [
     {
       "spdx": "GPL-3.0",
-      "link": "https://github.com/bayesimpact/bob-emploi/blob/master/LICENSE"
+      "licenseURL": "https://github.com/bayesimpact/bob-emploi/blob/master/LICENSE"
     }
   ],
   "website": "https://www.bob-emploi.fr/",

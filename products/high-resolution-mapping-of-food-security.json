@@ -4,7 +4,7 @@
   "license": [
     {
       "spdx": "MIT",
-      "link": "https://github.com/WFP-VAM/HRM/blob/master/LICENSE"
+      "licenseURL": "https://github.com/WFP-VAM/HRM/blob/master/LICENSE"
     }
   ],
   "website": "https://wfp-vam.github.io/HRM/",
