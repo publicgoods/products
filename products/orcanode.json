@@ -1,0 +1,29 @@
+{
+  "name": "Orcanode",
+  "description": "Software for live-streaming and recording lossy or lossless compressed audio (HLS, DASH, FLAC) via AWS S3 buckets.",
+  "license": [
+    {
+      "spdx": "AGPL-3.0",
+      "licenseURL": "https://github.com/orcasound/orcanode/blob/master/LICENSE"
+    }
+  ],
+  "website": "",
+  "SDGs": [
+    [
+      14,
+      "Life below Water"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/orcasound/orcanode",
+  "organizations": [
+    {
+      "name": "Orcasound",
+      "website": "http://www.orcasound.net/learn/",
+      "org_type": "owner"
+    }
+  ]
+}

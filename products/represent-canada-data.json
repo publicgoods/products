@@ -1,0 +1,24 @@
+{
+  "name": "Represent-Canada-Data",
+  "description": "Digital electoral boundary files for Canada, its provinces and municipalities ",
+  "license": [
+    {
+      "spdx": "NOASSERTION",
+      "licenseURL": "https://github.com/opennorth/represent-canada-data/blob/master/LICENSE.txt"
+    }
+  ],
+  "website": "http://represent.opennorth.ca/",
+  "SDGs": [],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/opennorth/represent-canada-data",
+  "organizations": [
+    {
+      "name": "Open North",
+      "website": "https://www.opennorth.ca/",
+      "org_type": "owner"
+    }
+  ]
+}

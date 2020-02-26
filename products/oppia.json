@@ -1,0 +1,29 @@
+{
+  "name": "Oppia",
+  "description": "In addition to developing the Oppia platform, the team is also developing and piloting a set of free and effective lessons on basic mathematics. These lessons are targeted at learners who lack access to educational resources.",
+  "license": [
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://github.com/oppia/oppia/blob/develop/LICENSE"
+    }
+  ],
+  "website": "",
+  "SDGs": [
+    [
+      4,
+      "Quality Education"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/oppia/oppia",
+  "organizations": [
+    {
+      "name": "Oppia",
+      "website": "https://www.oppia.org/splash",
+      "org_type": "owner"
+    }
+  ]
+}

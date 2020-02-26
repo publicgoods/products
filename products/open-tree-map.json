@@ -1,0 +1,29 @@
+{
+  "name": "OpenTreeMap",
+  "description": "OpenTreeMap is a collaborative platform for crowdsourced tree inventory, ecosystem services calculations, urban forestry analysis, and community engagement.",
+  "license": [
+    {
+      "spdx": "NOASSERTION",
+      "licenseURL": "https://github.com/OpenTreeMap/otm-core/blob/develop/LICENSE"
+    }
+  ],
+  "website": "",
+  "SDGs": [
+    [
+      15,
+      "Life On Land"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/OpenTreeMap/otm-core",
+  "organizations": [
+    {
+      "name": "OpenTreeMap",
+      "website": "https://www.opentreemap.org/",
+      "org_type": "owner"
+    }
+  ]
+}

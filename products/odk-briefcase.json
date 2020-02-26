@@ -1,0 +1,24 @@
+{
+  "name": "ODK Briefcase",
+  "description": "ODK Briefcase is a Java application for fetching and pushing forms and their contents. It helps make billions of data points from ODK portable.",
+  "license": [
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://github.com/opendatakit/briefcase/blob/master/LICENSE.md"
+    }
+  ],
+  "website": "",
+  "SDGs": [],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/opendatakit/briefcase",
+  "organizations": [
+    {
+      "name": "Open Data Kit",
+      "website": "http://opendatakit.org",
+      "org_type": "owner"
+    }
+  ]
+}
