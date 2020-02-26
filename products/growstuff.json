@@ -1,0 +1,29 @@
+{
+  "name": "Growstuff",
+  "description": "Open data project for small-scale food growers.",
+  "license": [
+    {
+      "spdx": "AGPL-3.0",
+      "link": "https://github.com/Growstuff/growstuff/blob/dev/LICENSE.txt"
+    }
+  ],
+  "website": "",
+  "SDGs": [
+    [
+      12,
+      "Responsible Consumption and Production"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/Growstuff/growstuff",
+  "organizations": [
+    {
+      "name": "Growstuff",
+      "website": "http://growstuff.org/",
+      "org_type": "owner"
+    }
+  ]
+}

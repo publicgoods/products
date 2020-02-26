@@ -1,0 +1,26 @@
+{
+  "name": "Immigration Connect",
+  "description": "Building tools to connect and coordinate efforts to help those affected by immigration law changes in partnership with the NILC",
+  "license": [
+    null
+  ],
+  "website": "",
+  "SDGs": [
+    [
+      16,
+      "Peace, Justice and Strong Institutions"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/Data4Democracy/immigration-connect",
+  "organizations": [
+    {
+      "name": "Data for Democracy",
+      "website": "https://www.datafordemocracy.org/",
+      "org_type": "owner"
+    }
+  ]
+}
