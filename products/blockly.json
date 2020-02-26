@@ -1,0 +1,33 @@
+{
+  "name": "Blockly",
+  "description": "Blockly (Code Studio fork)",
+  "license": [
+    {
+      "spdx": "Apache-2.0",
+      "link": "https://github.com/code-dot-org/blockly/blob/master/COPYING"
+    }
+  ],
+  "website": "https://code-dot-org.github.io/blockly/tests/playground.html",
+  "SDGs": [
+    [
+      10,
+      "Reduced Inequalities"
+    ],
+    [
+      4,
+      "Quality Education"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/code-dot-org/blockly",
+  "organizations": [
+    {
+      "name": "Code.org",
+      "website": " http://code.org/",
+      "org_type": "owner"
+    }
+  ]
+}
