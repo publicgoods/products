@@ -1,0 +1,29 @@
+{
+  "name": "EnergyPlus",
+  "description": "EnergyPlus is a whole building energy simulation program that engineers, architects, and researchers use to model both energy consumption and water use in buildings.",
+  "license": [
+    {
+      "spdx": "NOASSERTION",
+      "link": "https://github.com/NREL/EnergyPlus/blob/develop/LICENSE.txt"
+    }
+  ],
+  "website": "https://energyplus.net",
+  "SDGs": [
+    [
+      7,
+      "Affordable and Clean Energy"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/NREL/EnergyPlus",
+  "organizations": [
+    {
+      "name": "National Renewable Energy Laboratory",
+      "website": "https://www.nrel.gov/",
+      "org_type": "owner"
+    }
+  ]
+}
