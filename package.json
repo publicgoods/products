@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "Collection of public goods",
   "scripts": {
-    "lint": "jsonlint products/*.json -i",
+    "lint": "for f in ./products/*.json; do echo $f; jsonlint \"$f\" -i; done",
     "test": "ajv validate -s data-schema/product-schema.json -d \"products/*.json\""
   },
   "repository": {

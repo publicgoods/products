@@ -20,7 +20,8 @@
   ],
   "sectors": [],
   "type": [
-    "data", "software"
+    "data",
+    "software"
   ],
   "repositoryURL": "https://github.com/openclimatedata/global-carbon-budget",
   "organizations": [
