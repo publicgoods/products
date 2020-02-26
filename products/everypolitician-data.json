@@ -1,0 +1,29 @@
+{
+  "name": "Everypolitician Data",
+  "description": "Data for national legislatures worldwide",
+  "license": [
+    {
+      "spdx": null,
+      "license_link": ""
+    }
+  ],
+  "website": "",
+  "SDGs": [
+    [
+      16,
+      "Peace, Justice and Strong Institutions"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/everypolitician/everypolitician-data",
+  "organizations": [
+    {
+      "name": "Every Politician",
+      "website": "http://everypolitician.org/",
+      "org_type": "owner"
+    }
+  ]
+}
