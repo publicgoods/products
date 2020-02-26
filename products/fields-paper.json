@@ -1,0 +1,29 @@
+{
+  "name": "FieldsPaper",
+  "description": "Field Papers web app.",
+  "license": [
+    {
+      "spdx": null,
+      "license_link": ""
+    }
+  ],
+  "website": "",
+  "SDGs": [
+    [
+      17,
+      "Partnerships for the Goals"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/fieldpapers/fieldpapers",
+  "organizations": [
+    {
+      "name": "FieldsPaper",
+      "website": "http://fieldpapers.org",
+      "org_type": "owner"
+    }
+  ]
+}
