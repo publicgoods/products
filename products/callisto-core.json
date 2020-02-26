@@ -4,7 +4,7 @@
   "license": [
     {
       "spdx": "AGPL-3.0",
-      "link": "https://github.com/project-callisto/callisto-core/blob/master/LICENSE"
+      "licenseURL": "https://github.com/project-callisto/callisto-core/blob/master/LICENSE"
     }
   ],
   "website": "",

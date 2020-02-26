@@ -4,7 +4,7 @@
   "license": [
     {
       "spdx": "MIT",
-      "link": "https://github.com/codeforamerica/cfapi/blob/master/LICENSE"
+      "licenseURL": "https://github.com/codeforamerica/cfapi/blob/master/LICENSE"
     }
   ],
   "website": "http://codeforamerica.org/api",

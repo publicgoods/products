@@ -4,7 +4,7 @@
   "license": [
     {
       "spdx": "BSD-3-Clause",
-      "link": "https://github.com/dimagi/commcare-hq/blob/master/LICENSE"
+      "licenseURL": "https://github.com/dimagi/commcare-hq/blob/master/LICENSE"
     }
   ],
   "website": "https://www.commcarehq.org/accounts/login/",

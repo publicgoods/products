@@ -4,7 +4,7 @@
   "license": [
     {
       "spdx": "MIT",
-      "link": "https://github.com/EvictionLab/eviction-maps/blob/development/LICENSE"
+      "licenseURL": "https://github.com/EvictionLab/eviction-maps/blob/development/LICENSE"
     }
   ],
   "website": "https://evictionlab.org/map/#/2016?geography=states",

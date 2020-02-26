@@ -4,7 +4,7 @@
   "license": [
     {
       "spdx": "BSD-3-Clause",
-      "link": "https://github.com/sfbrigade/adopt-a-drain/blob/master/LICENSE.md"
+      "licenseURL": "https://github.com/sfbrigade/adopt-a-drain/blob/master/LICENSE.md"
     }
   ],
   "website": "https://adoptadrain.sfwater.org/",

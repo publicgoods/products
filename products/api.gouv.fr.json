@@ -4,7 +4,7 @@
   "license": [
     {
       "spdx": "AGPL-3.0",
-      "link": "https://github.com/betagouv/api.gouv.fr/blob/master/LICENSE"
+      "licenseURL": "https://github.com/betagouv/api.gouv.fr/blob/master/LICENSE"
     }
   ],
   "website": "https://api.gouv.fr/",

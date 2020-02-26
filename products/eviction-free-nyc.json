@@ -4,7 +4,7 @@
   "license": [
     {
       "spdx": "GPL-3.0",
-      "link": "https://github.com/JustFixNYC/eviction-free-nyc/blob/master/LICENSE.md"
+      "licenseURL": "https://github.com/JustFixNYC/eviction-free-nyc/blob/master/LICENSE.md"
     }
   ],
   "website": "https://www.evictionfreenyc.org",

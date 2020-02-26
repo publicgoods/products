@@ -4,7 +4,7 @@
   "license": [
     {
       "spdx": "MIT",
-      "link": "https://github.com/tmrowco/electricitymap-contrib/blob/master/LICENSE.txt"
+      "licenseURL": "https://github.com/tmrowco/electricitymap-contrib/blob/master/LICENSE.txt"
     }
   ],
   "website": "https://www.electricitymap.org/?page=map&solar=false&remote=true&wind=false",

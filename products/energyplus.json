@@ -4,7 +4,7 @@
   "license": [
     {
       "spdx": "BSD-4-Clause",
-      "link": "https://github.com/NREL/EnergyPlus/blob/develop/LICENSE.txt"
+      "licenseURL": "https://github.com/NREL/EnergyPlus/blob/develop/LICENSE.txt"
     }
   ],
   "website": "https://energyplus.net",
