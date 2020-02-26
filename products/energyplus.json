@@ -3,7 +3,7 @@
   "description": "EnergyPlus is a whole building energy simulation program that engineers, architects, and researchers use to model both energy consumption and water use in buildings.",
   "license": [
     {
-      "spdx": "NOASSERTION",
+      "spdx": "BSD-4-Clause",
       "link": "https://github.com/NREL/EnergyPlus/blob/develop/LICENSE.txt"
     }
   ],

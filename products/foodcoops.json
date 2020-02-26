@@ -3,7 +3,7 @@
   "description": "Web-based software to manage a non-profit food coop.",
   "license": [
     {
-      "spdx": "NOASSERTION",
+      "spdx": "AGPL-3.0",
       "link": "https://github.com/foodcoops/foodsoft/blob/master/LICENSE.md"
     }
   ],
