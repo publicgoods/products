@@ -1,0 +1,36 @@
+{
+  "name": "OpenAerialMap",
+  "description": "OpenAerialMap provides a simple open way to host and provide access to imagery for humanitarian response and disaster preparedness.",
+  "license": [
+    {
+      "spdx": "None",
+      "licenseURL": ""
+    }
+  ],
+  "SDGs": [
+    [
+      9,
+      "Industry, Innovation and Infrastructure"
+    ],
+    [
+      16,
+      "Peace, Justice and Strong Institutions"
+    ],
+    [
+      17,
+      "Partnerships for the Goals"
+    ]
+  ],
+  "sectors": [
+
+  ],
+  "type": "software",
+  "repositoryURL": "https://github.com/hotosm/OpenAerialMap",
+  "organizations": [
+    {
+      "name": "Humanitarian Open Street Map Team",
+      "website": "",
+      "org_type": "owner"
+    }
+  ]
+}

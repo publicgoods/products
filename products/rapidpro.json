@@ -1,0 +1,38 @@
+{
+  "name": "RapidPro",
+  "description": "Open Source platform that allows anyone to build interactive messaging systems using an easy visual interface",
+  "license": [
+    {
+      "spdx": "AGPL-3.0",
+      "licenseURL": "https://github.com/rapidpro/rapidpro/LICENSE"
+    }
+  ],
+  "SDGs": [
+    [
+      3,
+      "Good Health and Well-Being"
+    ],
+    [
+      10,
+      "Reduced Inequalities"
+    ],
+    [
+      16,
+      "Peace, Justice and Strong Institutions"
+    ]
+  ],
+  "sectors": [
+
+  ],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/rapidpro/rapidpro",
+  "organizations": [
+    {
+      "name": "United Nations Children’s Fund (UNICEF)",
+      "website": "www.unicef.org",
+      "org_type": "owner"
+    }
+  ]
+}

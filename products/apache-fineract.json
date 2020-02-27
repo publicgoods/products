@@ -1,0 +1,38 @@
+{
+  "name": "Apache Fineract",
+  "description": "Fineract provides a reliable, robust, and affordable solution for entrepreneurs, financial institutions, and service providers to offer financial services to the world’s 2 billion underbanked and unbanked.",
+  "license": [
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://github.com/apache/fineract/LICENSE_RELEASE"
+    }
+  ],
+  "SDGs": [
+    [
+      1,
+      "No Poverty"
+    ],
+    [
+      17,
+      "Partnerships for the Goals"
+    ],
+    [
+      16,
+      "Peace, Justice and Strong Institutions"
+    ]
+  ],
+  "sectors": [
+
+  ],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/apache/fineract",
+  "organizations": [
+    {
+      "name": "Mifos",
+      "website": "mifos.org",
+      "org_type": "owner"
+    }
+  ]
+}
