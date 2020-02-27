@@ -20,7 +20,9 @@
   "sectors": [
 
   ],
-  "type": "software",
+  "type": [
+    "software"
+  ],
   "repositoryURL": "https://github.com/OpenCHS/openchs-server",
   "organizations": [
     {
