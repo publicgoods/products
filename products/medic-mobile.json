@@ -4,7 +4,7 @@
   "license": [
     {
       "spdx": "AGPL-3.0",
-      "licenseURL": "https://github.com/medic/medic/LICENSE"
+      "licenseURL": "https://github.com/medic/cht-core/LICENSE"
     }
   ],
   "SDGs": [
@@ -19,7 +19,7 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/medic/medic",
+  "repositoryURL": "https://github.com/cht-core/medic",
   "organizations": [
     {
       "name": "Medic Mobile",
