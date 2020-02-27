@@ -24,7 +24,9 @@
   "sectors": [
 
   ],
-  "type": "software",
+  "type": [
+    "software"
+  ],
   "repositoryURL": "https://github.com/hotosm/OpenAerialMap",
   "organizations": [
     {
