@@ -1,0 +1,33 @@
+{
+  "name": "OpenCRVS",
+  "description": "OpenCRVS is an open source software product that supports civil registration (CR) and vital statistics (VS) services in low-resource countries and is interoperable with other systems.",
+  "license": [
+    {
+      "spdx": "MPL-2.0",
+      "licenseURL": "https://github.com/opencrvs/opencrvs-core/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    [
+      16,
+      "Peace, Justice and Strong Institutions"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/jembi/opencrvs-fhir-templates",
+  "organizations": [
+    {
+      "name": "Plan International",
+      "website": "plan-international.org",
+      "org_type": "owner"
+    },
+    {
+      "name": "Jembi",
+      "website": "jembi.org",
+      "org_type": "owner"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "OpenELIS",
+  "description": "OpenELIS is a free open-source laboratory information system (LIS) designed to act as a software and business process framework for the robust functioning of public health laboratories.",
+  "license": [
+    {
+      "spdx": "MPL-2.0",
+      "licenseURL": "https://github.com/openelisglobal/openelisglobal-core/LICENSE.md"
+    }
+  ],
+  "SDGs": [
+    [
+      3,
+      "Good Health and Well-Being"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/openelisglobal/openelisglobal-core",
+  "organizations": [
+    {
+      "name": "OpenELIS Global",
+      "website": "https://openelisglobal.org",
+      "org_type": "owner"
+    }
+  ]
+}
