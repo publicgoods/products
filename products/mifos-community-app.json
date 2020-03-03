@@ -7,11 +7,19 @@
       "licenseURL": "https://github.com/openMF/community-app/blob/develop/LICENSE.txt"
     }
   ],
-  "website": "",
+  "website": "https://mifos.org",
   "SDGs": [
     [
       1,
       "No Poverty"
+    ],
+    [
+      10,
+      "Reduced Inequalities"
+    ],
+    [
+      11,
+      "Sustainable Cities and Communities"
     ]
   ],
   "sectors": [],
