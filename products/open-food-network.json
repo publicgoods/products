@@ -7,22 +7,22 @@
       "licenseURL": "https://github.com/openfoodfoundation/openfoodnetwork/blob/master/LICENCE.txt"
     }
   ],
-  "website": "",
+  "website": "https://openfoodnetwork.org/",
   "SDGs": [
     [
       12,
       "Responsible Consumption and Production"
     ]
   ],
-  "sectors": [],
   "type": [
     "software"
   ],
   "repositoryURL": "https://github.com/openfoodfoundation/openfoodnetwork",
+  "sectors": [],
   "organizations": [
     {
-      "name": "Open Food Network",
-      "website": "https://openfoodnetwork.org/",
+      "name": "Open Food Foundation",
+      "website": "http://openfoodfoundation.org/",
       "org_type": "owner"
     }
   ]

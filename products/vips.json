@@ -1,0 +1,41 @@
+{
+  "name": "VIPS",
+  "description": "Open platform for automatic pest prediction created by NIBIO, Norway",
+  "license": [
+    {
+      "spdx": "AGPL-3.0",
+      "licenseURL": "https://nibio.no/licenses"
+    },
+    {
+      "spdx": "NLOD-1.0",
+      "licenseURL": "https://nibio.no/licenses"
+    }
+  ],
+  "website": "https://nibio.no/vips",
+  "SDGs": [
+    [
+      2,
+      "Zero Hunger"
+    ],
+    [
+      13,
+      "Climate Action"
+    ],
+    [
+      15,
+      "Life On Land"
+    ]
+  ],
+  "type": [
+    "software",
+    "data"
+  ],
+  "sectors": [],
+  "organizations": [
+    {
+      "name": "Ushaidi",
+      "website": "https://www.ushahidi.com/",
+      "org_type": "owner"
+    }
+  ]
+}

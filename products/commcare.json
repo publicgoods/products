@@ -7,18 +7,18 @@
       "licenseURL": "https://github.com/dimagi/commcare-hq/blob/master/LICENSE"
     }
   ],
-  "website": "https://www.commcarehq.org/accounts/login/",
+  "website": "https://dimagi.com/commcare",
   "SDGs": [
     [
       3,
       "Good Health and Well-Being"
     ]
   ],
-  "sectors": [],
   "type": [
     "software"
   ],
   "repositoryURL": "https://github.com/dimagi/commcare-hq",
+  "sectors": [],
   "organizations": [
     {
       "name": "Dimagi",

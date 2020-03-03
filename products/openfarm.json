@@ -1,0 +1,38 @@
+{
+  "name": "OpenFarm",
+  "description": "Free and open database and web application for farming and gardening knowledge. One might think of it as the Wikipedia for growing plants, though it functions more like a cooking recipes site.",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/openfarmcc/OpenFarm/blob/master/LICENSE"
+    },
+    {
+      "spdx": "CC0-1.0",
+      "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/"
+    }
+  ],
+  "website": "https://openfarm.cc/",
+  "SDGs": [
+    [
+      2,
+      "Zero Hunger"
+    ],
+    [
+      9,
+      "Industry, Innovation and Infrastructure"
+    ]
+  ],
+  "type": [
+    "software",
+    "data"
+  ],
+  "repositoryURL": "https://github.com/openfarmcc/OpenFarm",
+  "sectors": [],
+  "organizations": [
+    {
+      "name": "OpenFarm",
+      "website": "http://www.openfarm.cc",
+      "org_type": "owner"
+    }
+  ]
+}

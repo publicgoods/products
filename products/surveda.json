@@ -1,0 +1,33 @@
+{
+  "name": "Surveda",
+  "description": "An open source survey tool that collects data from populations via mobile phone.",
+  "license": [
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://github.com/instedd/surveda/blob/master/LICENSE"
+    }
+  ],
+  "website": "https://surveda.instedd.org",
+  "SDGs": [
+    [
+      16,
+      "Peace, Justice and Strong Institutions"
+    ],
+    [
+      17,
+      "Partnerships for the Goals"
+    ]
+  ],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/instedd/surveda",
+  "sectors": [],
+  "organizations": [
+    {
+      "name": "InSTEDD",
+      "website": "https://instedd.org",
+      "org_type": "owner"
+    }
+  ]
+}

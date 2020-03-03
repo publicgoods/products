@@ -1,0 +1,33 @@
+{
+  "name": "Verboice",
+  "description": "Open source toolkit for voice services; with special focus to the needs of medium- and low-income countries, scalable services, and interacting with vulnerable populations.",
+  "license": [
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://github.com/instedd/verboice/blob/master/LICENSE"
+    }
+  ],
+  "website": "https://verboice.instedd.org/",
+  "SDGs": [
+    [
+      16,
+      "Peace, Justice and Strong Institutions"
+    ],
+    [
+      17,
+      "Partnerships for the Goals"
+    ]
+  ],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/instedd/verboice/",
+  "sectors": [],
+  "organizations": [
+    {
+      "name": "InSTEED",
+      "website": "https://instedd.org/",
+      "org_type": "owner"
+    }
+  ]
+}

@@ -7,18 +7,22 @@
       "licenseURL": "https://github.com/ushahidi/platform/blob/develop/LICENSE.md"
     }
   ],
-  "website": "",
+  "website": "https://www.ushahidi.com",
   "SDGs": [
     [
-      10,
-      "Reduced Inequalities"
+      16,
+      "Peace, Justice and Strong Institutions"
+    ],
+    [
+      17,
+      "Partnerships for the Goals"
     ]
   ],
-  "sectors": [],
   "type": [
     "software"
   ],
   "repositoryURL": "https://github.com/ushahidi/platform",
+  "sectors": [],
   "organizations": [
     {
       "name": "Ushaidi",

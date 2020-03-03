@@ -12,17 +12,13 @@
     [
       11,
       "Sustainable Cities and Communities"
-    ],
-    [
-      16,
-      "Peace, Justice and Strong Institutions"
     ]
   ],
-  "sectors": [],
   "type": [
     "software"
   ],
   "repositoryURL": "https://github.com/sfbrigade/adopt-a-drain",
+  "sectors": [],
   "organizations": [
     {
       "name": "Code for SF",

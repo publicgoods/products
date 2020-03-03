@@ -1,13 +1,13 @@
 {
   "name": "Code.org",
-  "description": "The code powering code.org and studio.code.org",
+  "description": "Platform expanding access to computer science in schools and increasing participation by women and underrepresented minorities.",
   "license": [
     {
       "spdx": "Apache-2.0",
       "licenseURL": "https://github.com/code-dot-org/code-dot-org/blob/staging/LICENSE"
     }
   ],
-  "website": "",
+  "website": "https://code.org",
   "SDGs": [
     [
       10,
@@ -18,10 +18,10 @@
       "Quality Education"
     ]
   ],
-  "sectors": [],
   "type": [
     "software"
   ],
+  "sectors": [],
   "repositoryURL": "https://github.com/code-dot-org/code-dot-org",
   "organizations": [
     {

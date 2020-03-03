@@ -7,22 +7,22 @@
       "licenseURL": "https://github.com/OADA/oada-srvc-docker/blob/master/LICENSE"
     }
   ],
-  "website": "",
+  "website": "http://openag.io/",
   "SDGs": [
     [
       12,
       "Responsible Consumption and Production"
     ]
   ],
-  "sectors": [],
   "type": [
     "software"
   ],
   "repositoryURL": "https://github.com/OADA/oada-srvc-docker",
+  "sectors": [],
   "organizations": [
     {
       "name": "Open Ag Data Alliance",
-      "website": "http://openag.io/",
+      "website": "https://github.com/oada",
       "org_type": "owner"
     }
   ]

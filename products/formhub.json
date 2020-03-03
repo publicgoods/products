@@ -1,0 +1,33 @@
+{
+  "name": "formhub",
+  "description": "Mobile data collection made easy. Unmaintained -> see OnaData.",
+  "license": [
+    {
+      "spdx": "GPL-2.0",
+      "licenseURL": "https://github.com/SEL-Columbia/formhub/blob/master/LICENSE"
+    }
+  ],
+  "website": "https://github.com/SEL-Columbia/formhub",
+  "SDGs": [
+    [
+      3,
+      "Good Health and Well-Being"
+    ],
+    [
+      4,
+      "Quality Education"
+    ]
+  ],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/SEL-Columbia/formhub",
+  "sectors": [],
+  "organizations": [
+    {
+      "name": "Sustainable Engineering Lab, Columbia University",
+      "website": "https://qsel.columbia.edu/",
+      "org_type": "owner"
+    }
+  ]
+}
