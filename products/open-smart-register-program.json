@@ -4,7 +4,7 @@
   "license": [
     {
       "spdx": "Apache-2.0",
-      "licenseURL": "https://www.apache.org/licenses/LICENSE-2.0"
+      "licenseURL": "https://github.com/OpenSRP/opensrp-client-core/LICENSE"
     }
   ],
   "website": "http://smartregister.org/",
@@ -20,7 +20,10 @@
   "aliases": [
     "OpenSRP"
   ],
-  "sectors": [],
+  "sectors": [
+    "Health"
+  ],
+  "repositoryURL": "https://github.com/OpenSRP/opensrp-client-core",
   "organizations": [
     {
       "name": "OpenSRP",
