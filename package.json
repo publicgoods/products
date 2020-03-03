@@ -18,6 +18,8 @@
   "homepage": "https://github.com/publicgoods/products#readme",
   "devDependencies": {
     "ajv-cli": "^3.0.0",
-    "jsonlint": "^1.6.3"
+    "inquirer": "^7.0.5",
+    "jsonlint": "^1.6.3",
+    "prettier": "1.19.1"
   }
 }
