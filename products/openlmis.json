@@ -1,0 +1,32 @@
+{
+  "name": "OpenLMIS",
+  "description": "Cloud-based electronic logistics management information system (LMIS) purpose-built to manage health commodity distribution in low- and middle-income countries.",
+  "license": [
+    {
+      "spdx": "AGPL-3.0",
+      "licenseURL": "https://github.com/OpenLMIS/openlmis-ref-distro/LICENSE"
+    }
+  ],
+  "SDGs": [
+    [
+      3,
+      "Good Health and Well-Being"
+    ],
+    [
+      9,
+      "Industry, Innovation and Infrastructure"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/OpenLMIS/openlmis-ref-distro",
+  "organizations": [
+    {
+      "name": "OpenLMIS",
+      "website": "openlmis.org",
+      "org_type": "owner"
+    }
+  ]
+}

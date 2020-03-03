@@ -21,7 +21,9 @@
   "aliases": [
     "DHIS2"
   ],
-  "sectors": [],
+  "sectors": [
+    "Health"
+  ],
   "organizations": [
     {
       "name": "Health Information Systems Program (HISP) at the University of Oslo (UiO)",

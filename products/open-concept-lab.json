@@ -4,7 +4,7 @@
   "license": [
     {
       "spdx": "MPL-2.0",
-      "licenseURL": "https://openconceptlab.org/license/"
+      "licenseURL": "https://github.com/OpenConceptLab/oclapi/LICENSE.md"
     }
   ],
   "website": "https://openconceptlab.org",
@@ -22,6 +22,7 @@
     "OCL"
   ],
   "sectors": [],
+  "repositoryURL": "https://github.com/OpenConceptLab/oclapi",
   "organizations": [
     {
       "name": "Open Concept Lab",

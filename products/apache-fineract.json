@@ -10,6 +10,10 @@
   "website": "https://fineract.apache.org/",
   "SDGs": [
     [
+      1,
+      "No Poverty"
+    ],
+    [
       16,
       "Peace, Justice and Strong Institutions"
     ],
@@ -18,11 +22,11 @@
       "Partnerships for the Goals"
     ]
   ],
+  "sectors": [],
   "type": [
     "software"
   ],
   "repositoryURL": "https://github.com/apache/fineract",
-  "sectors": [],
   "organizations": [
     {
       "name": "The Apache Software Foundation",

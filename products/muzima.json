@@ -16,13 +16,19 @@
     [
       10,
       "Reduced Inequalities"
+    ],
+    [
+      5,
+      "Gender Equality"
     ]
+  ],
+  "sectors": [
+    "Health"
   ],
   "type": [
     "software"
   ],
   "repositoryURL": "https://github.com/muzima/muzima-android",
-  "sectors": [],
   "organizations": [
     {
       "name": "mUzima",

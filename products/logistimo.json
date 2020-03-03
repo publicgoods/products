@@ -18,11 +18,11 @@
       "Industry, Innovation and Infrastructure"
     ]
   ],
+  "sectors": [],
   "type": [
     "software"
   ],
   "repositoryURL": "https://github.com/logistimo/logistimo-web-service",
-  "sectors": [],
   "organizations": [
     {
       "name": "Logistimo",

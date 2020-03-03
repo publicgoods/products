@@ -14,11 +14,11 @@
       "Good Health and Well-Being"
     ]
   ],
+  "sectors": [],
   "type": [
     "software"
   ],
   "repositoryURL": "https://github.com/medic/medic",
-  "sectors": [],
   "organizations": [
     {
       "name": "Medic Mobile",

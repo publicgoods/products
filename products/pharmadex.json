@@ -22,7 +22,9 @@
     "software"
   ],
   "repositoryURL": "https://github.com/MSH/Pharmadex",
-  "sectors": [],
+  "sectors": [
+    "Health"
+  ],
   "organizations": [
     {
       "name": "Management Sciences for Health",

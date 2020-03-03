@@ -4,7 +4,7 @@
   "license": [
     {
       "spdx": "AGPL-3.0",
-      "licenseURL": "https://www.bahmni.org/faq"
+      "licenseURL": "https://github.com/Bahmni/bahmni-core/LICENSE"
     }
   ],
   "website": "https://www.bahmni.org/",
@@ -14,11 +14,13 @@
       "Good Health and Well-Being"
     ]
   ],
+  "sectors": [
+    "Health"
+  ],
   "type": [
     "software"
   ],
   "repositoryURL": "https://github.com/Bahmni/bahmni-core",
-  "sectors": [],
   "organizations": [
     {
       "name": "Bahmni",

@@ -4,7 +4,7 @@
   "license": [
     {
       "spdx": "GPL-3.0",
-      "licenseURL": "https://www.ihris.org/2007/07/ihris-under-gplv3/"
+      "licenseURL": "https://github.com/iHRIS/iHRIS/blob/master/LICENSE"
     }
   ],
   "website": "https://www.ihris.org",

@@ -3,7 +3,7 @@
   "description": "Humansis provides a more open, secure, functional and easy to use method of aid delivery, promoting transparency, and reducing opportunities for fraud and data theft.",
   "license": [
     {
-      "spdx": "MIT",
+      "spdx": "GPL-3.0",
       "licenseURL": "https://github.com/humansis/front/blob/dev/LICENSE"
     }
   ],
@@ -16,13 +16,49 @@
     [
       17,
       "Partnerships for the Goals"
+    ],
+    [
+      1,
+      "No Poverty"
+    ],
+    [
+      2,
+      "Zero Hunger"
+    ],
+    [
+      3,
+      "Good Health and Well-Being"
+    ],
+    [
+      4,
+      "Quality Education"
+    ],
+    [
+      5,
+      "Gender Equality"
+    ],
+    [
+      6,
+      "Clean Water and Sanitation"
+    ],
+    [
+      7,
+      "Affordable and Clean Energy"
+    ],
+    [
+      8,
+      "Decent Work and Economic Growth"
+    ],
+    [
+      9,
+      "Industry, Innovation and Infrastructure"
     ]
   ],
+  "sectors": [],
   "type": [
     "software"
   ],
   "repositoryURL": "https://github.com/humansis/front",
-  "sectors": [],
   "organizations": [
     {
       "name": "Humansis",
