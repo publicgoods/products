@@ -1,5 +1,5 @@
 {
-  "name": "Reveal - formerly mSpray",
+  "name": "mSpray",
   "description": "Tool for enumeration, targeting and monitoring of Indoor Residual Spraying (IRS) for malaria interventions.",
   "license": [
     {
@@ -7,22 +7,21 @@
       "licenseURL": "https://github.com/onaio/mspray/blob/master/LICENSE"
     }
   ],
-  "website": "https://akros.com/mspray/",
   "SDGs": [
     [
       3,
       "Good Health and Well-Being"
     ]
   ],
+  "sectors": [],
   "type": [
     "software"
   ],
   "repositoryURL": "https://github.com/onaio/mspray",
-  "sectors": [],
   "organizations": [
     {
-      "name": "Ona",
-      "website": "https://ona.io",
+      "name": "Akros",
+      "website": "www.akros.com",
       "org_type": "owner"
     }
   ]
