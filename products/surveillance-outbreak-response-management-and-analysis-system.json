@@ -29,7 +29,9 @@
   "aliases": [
     "SORMAS"
   ],
-  "sectors": [],
+  "sectors": [
+    "Health"
+  ],
   "organizations": [
     {
       "name": "Helmholtz Centre for Infection Research",
