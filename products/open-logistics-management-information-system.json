@@ -4,7 +4,7 @@
   "license": [
     {
       "spdx": "AGPL-3.0",
-      "licenseURL": "http://openlmis.org/tools/license/"
+      "licenseURL": "https://github.com/OpenLMIS/openlmis-ref-distro/blob/master/LICENSE"
     }
   ],
   "website": "http://openlmis.org",
@@ -24,6 +24,7 @@
   "aliases": [
     "OpenLMIS"
   ],
+  "repositoryURL": "https://github.com/OpenLMIS/openlmis-ref-distro",
   "sectors": [],
   "organizations": [
     {
