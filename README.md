@@ -52,6 +52,28 @@ Create your product files inside the `products/` folder. The filename for each p
 	./scripts/check-filenames.bash --fix
 	```
 
+## Bulk Import
+
+A script utility `scripts/import.js` is provided to facilitate the merging of product files coming from another existing dataset:
+
+1. Create a `tmp` folder at the root of this repository:
+
+```bash
+mkdir tmp
+```
+
+2. Copy all files to be imported into the above `tmp/` folder.
+
+3. From the repository root folder run:
+
+```bash
+node scripts/import.js
+```
+
+This will find files that exist in both datasets and attempt to merge. For each field that has different values between both sets, it will interactively prompt the user to choose one or the other. At any point in time, the user can abort the script to manually edit any field with a different value. Additional files that do not already exist, will simply be copied over. This script will modify both sets of files in `tmp/` and `products/`.
+
+Once the script has run successfully, you should run the same checks outlined above: `npm test`, `npm run lint`, `./scripts/check-filenames.bash --fix`, and then commit the changes in `products/` and discard the files left in `tmp/`.
+
 ## License
 
 Licensed under the [CC-0](LICENSE).
