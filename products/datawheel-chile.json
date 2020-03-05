@@ -1,0 +1,41 @@
+{
+  "name": "Datawheel Chile",
+  "description": "Data visualization solution  for public information to improve decsion-making",
+  "website": "https://www.datawheel.us/",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://opensource.org/licenses/mit-license.php"
+    }
+  ],
+  "SDGs": [
+    [
+      1,
+      "No Poverty"
+    ],
+    [
+      9,
+      "Industry, Innovation and Infrastructure"
+    ],
+    [
+      10,
+      "Reduced Inequalities"
+    ],
+    [
+      11,
+      "Sustainable Cities and Communities"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/Datawheel",
+  "organizations": [
+    {
+      "name": "UNICEF Ventures Fund",
+      "website": "https://unicefinnovationfund.org/",
+      "org_type": "funder"
+    }
+  ]
+}

@@ -1,13 +1,13 @@
 {
   "name": "Mifos Android",
   "description": "This is an Android Application built on top of the MifosX platform. It has been designed for field officers to interact with the Mifos Platform directly from the Field.",
+  "website": "",
   "license": [
     {
       "spdx": "MPL-2.0",
       "licenseURL": "https://github.com/openMF/android-client/blob/master/LICENSE.md"
     }
   ],
-  "website": "",
   "SDGs": [
     [
       1,

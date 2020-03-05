@@ -1,13 +1,13 @@
 {
   "name": "Orcanode",
   "description": "Software for live-streaming and recording lossy or lossless compressed audio (HLS, DASH, FLAC) via AWS S3 buckets.",
+  "website": "",
   "license": [
     {
       "spdx": "AGPL-3.0",
       "licenseURL": "https://github.com/orcasound/orcanode/blob/master/LICENSE"
     }
   ],
-  "website": "",
   "SDGs": [
     [
       14,
@@ -22,7 +22,7 @@
   "organizations": [
     {
       "name": "Orcasound",
-      "website": "http://www.orcasound.net/learn/",
+      "website": "https://www.orcasound.net/learn/",
       "org_type": "owner"
     }
   ]

@@ -33,3 +33,5 @@ jobs:
           fi
       - name: Check filenames
         run: ./scripts/check-filenames.bash
+      - name: Check order of fields in each file
+        run: npm run order

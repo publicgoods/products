@@ -1,13 +1,13 @@
 {
   "name": "Powerplant",
   "description": "powerplant is an open source software that allows anyone planning a garden to utilize companion planting and other permaculture practices. It provides intelligent suggestions to help the gardener by advising the best planting schedules and combinations of crops to maximize the garden's yield.",
+  "website": "https://wiki.ecohackerfarm.org/powerplant:start",
   "license": [
     {
       "spdx": "MIT",
       "licenseURL": "https://github.com/Ecohackerfarm/powerplant/blob/master/LICENSE"
     }
   ],
-  "website": "https://wiki.ecohackerfarm.org/powerplant:start",
   "SDGs": [
     [
       15,

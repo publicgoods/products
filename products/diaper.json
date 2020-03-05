@@ -1,13 +1,13 @@
 {
   "name": "Diaper",
   "description": "Diaperbase is an inventory system for diaper banks, to aid them in tracking their inventory and providing statistics about their inventory flows.",
+  "website": "https://diaper.app/",
   "license": [
     {
       "spdx": "MIT",
       "licenseURL": "https://github.com/rubyforgood/diaper/blob/master/LICENSE"
     }
   ],
-  "website": "https://diaper.app/",
   "SDGs": [
     [
       10,

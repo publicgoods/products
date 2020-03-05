@@ -1,13 +1,13 @@
 {
   "name": "Freedom of Information Portal",
   "description": "Freedom Of Information Portal",
+  "website": "",
   "license": [
     {
       "spdx": "MIT",
       "licenseURL": "https://github.com/okfde/froide/blob/master/LICENSE.txt"
     }
   ],
-  "website": "",
   "SDGs": [
     [
       16,

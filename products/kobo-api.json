@@ -1,13 +1,13 @@
 {
   "name": "Kobo API",
   "description": "kobo-api",
+  "website": "",
   "license": [
     {
       "spdx": "AGPL-3.0",
       "licenseURL": "https://github.com/kobotoolbox/kpi/blob/master/LICENSE"
     }
   ],
-  "website": "",
   "SDGs": [
     [
       17,
@@ -22,7 +22,7 @@
   "organizations": [
     {
       "name": "Kobo Toolbox",
-      "website": "http://www.kobotoolbox.org/",
+      "website": "https://www.kobotoolbox.org/",
       "org_type": "owner"
     }
   ]

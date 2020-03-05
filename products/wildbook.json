@@ -1,13 +1,13 @@
 {
   "name": "Wildbook",
   "description": "Wildbook® is an open source software framework to support mark-recapture, molecular ecology, and social ecology studies. ",
+  "website": "https://www.wildbook.org/doku.php",
   "license": [
     {
       "spdx": "GPL-2.0",
       "licenseURL": "https://github.com/WildbookOrg/Wildbook/blob/master/LICENSE"
     }
   ],
-  "website": "http://www.wildbook.org/doku.php",
   "SDGs": [
     [
       15,

@@ -1,13 +1,13 @@
 {
   "name": "uData",
   "description": "Customizable and skinnable social platform dedicated to (open)data.",
+  "website": "https://getudata.org/",
   "license": [
     {
       "spdx": "AGPL-3.0",
       "licenseURL": "https://github.com/opendatateam/udata/blob/master/LICENSE"
     }
   ],
-  "website": "https://getudata.org/",
   "SDGs": [
     [
       11,

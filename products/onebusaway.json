@@ -1,13 +1,13 @@
 {
   "name": "OneBusAway",
   "description": "The goal of OneBusAway is to improve the usability of public transit.",
+  "website": "",
   "license": [
     {
       "spdx": "Apache-2.0",
       "licenseURL": "https://github.com/OneBusAway/onebusaway-android/blob/master/LICENSE"
     }
   ],
-  "website": "",
   "SDGs": [
     [
       11,

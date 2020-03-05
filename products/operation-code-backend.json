@@ -1,13 +1,13 @@
 {
   "name": "Operation Code Backend",
   "description": "This is the backend repo for the Operation Code website",
+  "website": "",
   "license": [
     {
       "spdx": "MIT",
       "licenseURL": "https://github.com/OperationCode/operationcode_backend/blob/master/LICENSE"
     }
   ],
-  "website": "",
   "SDGs": [
     [
       4,

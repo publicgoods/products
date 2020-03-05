@@ -1,13 +1,13 @@
 {
   "name": "Leximpact",
   "description": "Simuler l'impact des réformes socio-fiscales en moins d'une minute",
+  "website": "https://leximpact.beta.gouv.fr",
   "license": [
     {
       "spdx": "AGPL-3.0",
       "licenseURL": "https://github.com/betagouv/leximpact-client/blob/master/LICENSE"
     }
   ],
-  "website": "https://leximpact.beta.gouv.fr",
   "SDGs": [
     [
       10,

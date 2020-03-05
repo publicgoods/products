@@ -1,13 +1,13 @@
 {
   "name": "Crash Model",
   "description": "Build a crash prediction modeling application that leverages multiple data sources to generate a set of dynamic predictions we can use to identify potential trouble spots and direct timely safety interventions.",
+  "website": "",
   "license": [
     {
       "spdx": "MIT",
       "licenseURL": "https://github.com/Data4Democracy/crash-model/blob/master/LICENSE"
     }
   ],
-  "website": "",
   "SDGs": [
     [
       16,

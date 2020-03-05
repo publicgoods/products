@@ -1,13 +1,13 @@
 {
   "name": "LittleSis Main",
   "description": "LittleSis development setup w/ docker & deployment instructions w/ ansible",
+  "website": "https://littlesis.org/",
   "license": [
     {
       "spdx": "GPL-3.0",
       "licenseURL": "https://github.com/public-accountability/littlesis-main/blob/master/LICENSE"
     }
   ],
-  "website": "https://littlesis.org/",
   "SDGs": [
     [
       16,

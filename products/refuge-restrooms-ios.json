@@ -1,13 +1,13 @@
 {
   "name": "Refuge Restrooms iOS",
   "description": "iOS app for Refuge Restrooms",
+  "website": "",
   "license": [
     {
       "spdx": "AGPL-3.0",
       "licenseURL": "https://github.com/RefugeRestrooms/refugerestrooms-ios/blob/develop/LICENSE"
     }
   ],
-  "website": "",
   "SDGs": [
     [
       5,

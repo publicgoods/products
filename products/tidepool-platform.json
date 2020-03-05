@@ -1,13 +1,13 @@
 {
   "name": "TidePool Platform",
   "description": "The Tidepool platform API.",
+  "website": "https://developer.tidepool.org",
   "license": [
     {
       "spdx": "BSD-2-Clause",
       "licenseURL": "https://github.com/tidepool-org/platform/blob/develop/LICENSE"
     }
   ],
-  "website": "https://developer.tidepool.org",
   "SDGs": [
     [
       3,

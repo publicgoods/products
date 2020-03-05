@@ -1,13 +1,13 @@
 {
   "name": "Global Forest Watch",
   "description": "Forest monitoring designed for action\nGlobal Forest Watch offers the latest data, technology and tools that empower people everywhere to better protect forests.",
+  "website": "https://www.globalforestwatch.org/",
   "license": [
     {
       "spdx": "MIT",
       "licenseURL": "https://github.com/Vizzuality/gfw/blob/develop/LICENSE"
     }
   ],
-  "website": "https://www.globalforestwatch.org/",
   "SDGs": [
     [
       13,

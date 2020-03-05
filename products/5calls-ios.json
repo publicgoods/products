@@ -1,13 +1,13 @@
 {
   "name": "5Calls iOS",
   "description": "iOS app for 5calls.org",
+  "website": "https://5calls.org/",
   "license": [
     {
       "spdx": "MIT",
       "licenseURL": "https://github.com/5calls/ios/blob/master/LICENSE"
     }
   ],
-  "website": "https://5calls.org/",
   "SDGs": [
     [
       16,

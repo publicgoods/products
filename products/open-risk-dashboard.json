@@ -1,13 +1,13 @@
 {
   "name": "Open Risk Dashboard",
   "description": "Repository for the Open Data for Resilience Index, a website to track and improve the state of Open Data for Resilience worldwide. It aims at improving risk information through better access to data.",
+  "website": "https://index.opendri.org/",
   "license": [
     {
       "spdx": "LGPL-3.0",
       "licenseURL": "https://github.com/GFDRR/open-risk-data-dashboard/blob/master/LICENSE"
     }
   ],
-  "website": "https://index.opendri.org/",
   "SDGs": [
     [
       11,

@@ -1,13 +1,13 @@
 {
   "name": "InteleHealth OpenMRS UI",
   "description": "Intelehealth Openmrs module",
+  "website": "",
   "license": [
     {
       "spdx": "MPL-2.0",
       "licenseURL": "https://github.com/Intelehealth/intelehealth-openmrs-ui/blob/master/LICENSE"
     }
   ],
-  "website": "",
   "SDGs": [
     [
       3,

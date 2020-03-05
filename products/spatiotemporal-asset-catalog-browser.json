@@ -1,13 +1,13 @@
 {
   "name": "SpatioTemporal Asset Catalog Browser",
   "description": "A Vue-based STAC browser intended for static + dynamic deployment.",
+  "website": "",
   "license": [
     {
       "spdx": "ISC",
       "licenseURL": "https://github.com/radiantearth/stac-browser/blob/master/LICENSE"
     }
   ],
-  "website": "",
   "SDGs": [
     [
       9,

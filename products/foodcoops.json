@@ -1,13 +1,13 @@
 {
   "name": "FoodCoops",
   "description": "Web-based software to manage a non-profit food coop.",
+  "website": "https://foodcoops.github.io/",
   "license": [
     {
       "spdx": "AGPL-3.0",
       "licenseURL": "https://github.com/foodcoops/foodsoft/blob/master/LICENSE.md"
     }
   ],
-  "website": "https://foodcoops.github.io/",
   "SDGs": [
     [
       12,

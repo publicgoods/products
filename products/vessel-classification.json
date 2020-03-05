@@ -1,13 +1,13 @@
 {
   "name": "Vessel Classification",
   "description": "This repository contains code to build Tensorflow models to classify vessels and identify fishing behaviour based on AIS data.",
+  "website": "",
   "license": [
     {
       "spdx": "Apache-2.0",
       "licenseURL": "https://github.com/GlobalFishingWatch/vessel-classification/blob/master/LICENSE"
     }
   ],
-  "website": "",
   "SDGs": [
     [
       14,

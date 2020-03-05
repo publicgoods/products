@@ -1,13 +1,13 @@
 {
   "name": "Talk",
   "description": "A better commenting experience for journalists. Because journalism needs everyone.",
+  "website": "https://coralproject.net/",
   "license": [
     {
       "spdx": "Apache-2.0",
       "licenseURL": "https://github.com/coralproject/talk/blob/master/LICENSE"
     }
   ],
-  "website": "https://coralproject.net/",
   "SDGs": [
     [
       8,

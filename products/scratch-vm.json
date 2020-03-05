@@ -1,13 +1,13 @@
 {
   "name": "Scratch VM",
   "description": "Virtual Machine used to represent, run, and maintain the state of programs for Scratch 3.0",
+  "website": "",
   "license": [
     {
       "spdx": "BSD-3-Clause",
       "licenseURL": "https://github.com/LLK/scratch-vm/blob/develop/LICENSE"
     }
   ],
-  "website": "",
   "SDGs": [
     [
       4,

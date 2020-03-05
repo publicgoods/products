@@ -1,13 +1,13 @@
 {
   "name": "If-Me",
   "description": "Open source app to share mental health experiences with loved ones ",
+  "website": "",
   "license": [
     {
       "spdx": "AGPL-3.0",
       "licenseURL": "https://github.com/ifmeorg/ifme/blob/master/LICENSE.txt"
     }
   ],
-  "website": "",
   "SDGs": [
     [
       3,

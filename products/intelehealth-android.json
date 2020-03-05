@@ -1,13 +1,13 @@
 {
   "name": "InteleHealth Android",
   "description": "Intelehealth is an open source telemedicine platform that empowers local community health workers (CHWs) in rural communities to facilitate tele-consultations with remote doctors. It enables them to gather high quality clinical history and conduct clinically-relevant physical exams. ",
+  "website": "",
   "license": [
     {
       "spdx": "MPL-2.0",
       "licenseURL": "https://github.com/Intelehealth/Android-Mobile-Client/blob/master/License.md"
     }
   ],
-  "website": "",
   "SDGs": [
     [
       3,

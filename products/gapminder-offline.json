@@ -1,13 +1,13 @@
 {
   "name": "GapMinder Offline",
   "description": "With Gapminder Tools Offline you can show animated statistics from your own laptop!",
+  "website": "https://www.gapminder.org/tools-offline/",
   "license": [
     {
       "spdx": "MIT",
       "licenseURL": "https://github.com/Gapminder/gapminder-offline/blob/development/LICENSE"
     }
   ],
-  "website": "https://www.gapminder.org/tools-offline/",
   "SDGs": [
     [
       10,

@@ -1,13 +1,13 @@
 {
   "name": "Turbo Votes",
   "description": "TurboVote is an application that makes voting easy. Helping every American vote in every election—local, state, and national.",
+  "website": "",
   "license": [
     {
       "spdx": "EPL-1.0",
       "licenseURL": "https://github.com/democracyworks/voting-method-works/blob/master/LICENSE"
     }
   ],
-  "website": "",
   "SDGs": [
     [
       16,

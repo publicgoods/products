@@ -1,13 +1,13 @@
 {
   "name": "Find Training",
   "description": "Mobile-optimized site for job seekers to find and compare training programs that are eligible for tuition assistance from the government workforce system.",
+  "website": "https://findtraining.org",
   "license": [
     {
       "spdx": "MIT",
       "licenseURL": "https://github.com/codeforamerica/etpl-search/blob/master/LICENSE"
     }
   ],
-  "website": "https://findtraining.org",
   "SDGs": [
     [
       8,

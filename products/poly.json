@@ -1,13 +1,13 @@
 {
   "name": "Poly",
   "description": "Open source, modern software to share and learn every language in the world",
+  "website": "https://poly.wikitongues.org",
   "license": [
     {
       "spdx": "GPL-3.0",
       "licenseURL": "https://github.com/wikitongues/poly/blob/master/LICENSE.txt"
     }
   ],
-  "website": "https://poly.wikitongues.org",
   "SDGs": [
     [
       11,
@@ -22,7 +22,7 @@
   "organizations": [
     {
       "name": "WikiTongues",
-      "website": "http://www.wikitongues.org",
+      "website": "https://www.wikitongues.org",
       "org_type": "owner"
     }
   ]

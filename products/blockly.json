@@ -1,13 +1,13 @@
 {
   "name": "Blockly",
   "description": "Blockly (Code Studio fork)",
+  "website": "https://code-dot-org.github.io/blockly/tests/playground.html",
   "license": [
     {
       "spdx": "Apache-2.0",
       "licenseURL": "https://github.com/code-dot-org/blockly/blob/master/COPYING"
     }
   ],
-  "website": "https://code-dot-org.github.io/blockly/tests/playground.html",
   "SDGs": [
     [
       10,
@@ -26,7 +26,7 @@
   "organizations": [
     {
       "name": "Code.org",
-      "website": " http://code.org/",
+      "website": " https://code.org/",
       "org_type": "owner"
     }
   ]

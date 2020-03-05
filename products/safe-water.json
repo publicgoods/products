@@ -1,13 +1,13 @@
 {
   "name": "Safe Water",
   "description": "We are trying to predict health-based drinking water violations in the United States.",
+  "website": "",
   "license": [
     {
       "spdx": "MIT",
       "licenseURL": "https://github.com/codeforboston/safe-water/blob/master/LICENSE"
     }
   ],
-  "website": "",
   "SDGs": [
     [
       6,

@@ -1,13 +1,13 @@
 {
   "name": "Ushaidi Platform",
   "description": "Ushahidi is an open source web application for information collection, visualization and interactive mapping. ",
+  "website": "https://www.ushahidi.com",
   "license": [
     {
       "spdx": "AGPL-3.0",
       "licenseURL": "https://github.com/ushahidi/platform/blob/develop/LICENSE.md"
     }
   ],
-  "website": "",
   "SDGs": [
     [
       16,

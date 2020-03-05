@@ -1,13 +1,13 @@
 {
   "name": "OpenStates",
   "description": "Track bills, review upcoming legislation, and see how your local representatives are voting in your state.",
+  "website": "",
   "license": [
     {
       "spdx": "GPL-3.0",
       "licenseURL": "https://github.com/openstates/openstates/blob/master/LICENSE"
     }
   ],
-  "website": "",
   "SDGs": [
     [
       16,

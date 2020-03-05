@@ -1,13 +1,13 @@
 {
   "name": "Centre for Open Science - SHARE",
   "description": "A free, open, dataset about research and scholarly activities across the lifecycle.",
+  "website": "https://share-research.readthedocs.io/en/latest/index.html",
   "license": [
     {
       "spdx": "Apache-2.0",
       "licenseURL": "https://github.com/CenterForOpenScience/SHARE/blob/develop/LICENSE"
     }
   ],
-  "website": "https://share-research.readthedocs.io/en/latest/index.html",
   "SDGs": [
     [
       17,

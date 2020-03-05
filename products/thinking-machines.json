@@ -1,0 +1,38 @@
+{
+  "name": "Thinking Machines",
+  "description": "Tool that helps link and overlay different datasets from government, NGOs and businesses for better decision making",
+  "website": "https://thinkingmachin.es",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/thinkingmachines/geomancer/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    [
+      1,
+      "No Poverty"
+    ],
+    [
+      10,
+      "Reduced Inequalities"
+    ],
+    [
+      11,
+      "Sustainable Cities and Communities"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software",
+    "data"
+  ],
+  "repositoryURL": "https://github.com/thinkingmachines/geomancer",
+  "organizations": [
+    {
+      "name": "UNICEF Ventures Fund",
+      "website": "https://unicefinnovationfund.org/",
+      "org_type": "funder"
+    }
+  ]
+}

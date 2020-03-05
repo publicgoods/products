@@ -1,13 +1,13 @@
 {
   "name": "ElectricityMap",
   "description": "A real-time visualisation of the CO2 emissions of electricity consumption ",
+  "website": "https://www.electricitymap.org/?page=map&solar=false&remote=true&wind=false",
   "license": [
     {
       "spdx": "MIT",
       "licenseURL": "https://github.com/tmrowco/electricitymap-contrib/blob/master/LICENSE.txt"
     }
   ],
-  "website": "https://www.electricitymap.org/?page=map&solar=false&remote=true&wind=false",
   "SDGs": [
     [
       13,

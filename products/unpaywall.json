@@ -1,13 +1,13 @@
 {
   "name": "Unpaywall",
   "description": "An open database of 24,628,101 free scholarly articles.\nWe harvest Open Access content from over 50,000 publishers and repositories, and make it easy to find, track, and use.",
+  "website": "",
   "license": [
     {
       "spdx": "MIT",
       "licenseURL": "https://github.com/ourresearch/oadoi/blob/master/LICENSE"
     }
   ],
-  "website": "",
   "SDGs": [
     [
       4,
@@ -22,7 +22,7 @@
   "organizations": [
     {
       "name": "Our Research",
-      "website": "http://unpaywall.org/",
+      "website": "https://unpaywall.org/",
       "org_type": "owner"
     }
   ]

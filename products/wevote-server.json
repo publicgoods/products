@@ -1,13 +1,13 @@
 {
   "name": "WeVote Server",
   "description": "We Vote's API application server written in Django/Python. Election data pulled from many sources.",
+  "website": "https://api.wevoteusa.org",
   "license": [
     {
       "spdx": "MIT",
       "licenseURL": "https://github.com/wevote/WeVoteServer/blob/develop/LICENSE"
     }
   ],
-  "website": "https://api.wevoteusa.org",
   "SDGs": [
     [
       16,
@@ -22,7 +22,7 @@
   "organizations": [
     {
       "name": "WeVote",
-      "website": "http://www.wevoteusa.org/",
+      "website": "https://www.wevoteusa.org/",
       "org_type": "owner"
     }
   ]

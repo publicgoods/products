@@ -1,13 +1,13 @@
 {
   "name": "Civic Platform",
   "description": "CIVIC Platform is a technology environment that makes institutional data more accessible, enabling creative applications and analysis.",
+  "website": "https://civicplatform.org/",
   "license": [
     {
       "spdx": "MIT",
       "licenseURL": "https://github.com/hackoregon/civic/blob/master/LICENSE"
     }
   ],
-  "website": "http://civicplatform.org/",
   "SDGs": [
     [
       17,
@@ -22,7 +22,7 @@
   "organizations": [
     {
       "name": "Hack Oregon",
-      "website": "http://www.hackoregon.org/",
+      "website": "https://www.hackoregon.org/",
       "org_type": "owner"
     }
   ]

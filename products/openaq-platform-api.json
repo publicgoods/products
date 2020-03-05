@@ -1,13 +1,13 @@
 {
   "name": "OpenAQ Platform API",
   "description": "This API is used to power various tools built by the community as well as openaq.org",
+  "website": "https://docs.openaq.org/",
   "license": [
     {
       "spdx": "MIT",
       "licenseURL": "https://github.com/openaq/openaq-api/blob/develop/LICENSE.md"
     }
   ],
-  "website": "https://docs.openaq.org/",
   "SDGs": [
     [
       13,

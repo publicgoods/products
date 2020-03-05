@@ -1,0 +1,41 @@
+{
+  "name": "Open Ag Data Alliance",
+  "description": "Open Ag Data Alliance gathers information and data on food products from around the world.",
+  "website": "https://openag.io/",
+  "license": [
+    {
+      "spdx": "ODbL-1.0",
+      "licenseURL": "https://world.openfoodfacts.org/data"
+    },
+    {
+      "spdx": "CC-BY-SA-3.0",
+      "licenseURL": "https://world.openfoodfacts.org/data"
+    },
+    {
+      "spdx": "AGPL-3.0",
+      "licenseURL": "https://world.openfoodfacts.org/data"
+    }
+  ],
+  "SDGs": [
+    [
+      2,
+      "Zero Hunger"
+    ],
+    [
+      9,
+      "Industry, Innovation and Infrastructure"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software",
+    "data"
+  ],
+  "organizations": [
+    {
+      "name": "Open Ag Data Alliance",
+      "website": "https://openag.io/",
+      "org_type": "owner"
+    }
+  ]
+}

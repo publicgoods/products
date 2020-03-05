@@ -1,13 +1,13 @@
 {
   "name": "Code for America Brigade Website",
   "description": "The Code for America Brigade Website",
+  "website": "https://brigade.codeforamerica.org",
   "license": [
     {
       "spdx": "MIT",
       "licenseURL": "https://github.com/codeforamerica/brigade/blob/master/LICENSE"
     }
   ],
-  "website": "https://brigade.codeforamerica.org",
   "SDGs": [
     [
       16,

@@ -1,14 +1,18 @@
 {
   "name": "KoboCat",
-  "description": "kobocat is the data collection platform used in KoBoToolbox",
+  "description": "Simple, robust and powerful tools for data collection.",
+  "website": "https://www.kobotoolbox.org/",
   "license": [
     {
       "spdx": "BSD-2-Clause",
       "licenseURL": "https://github.com/kobotoolbox/kobocat/blob/master/LICENSE"
     }
   ],
-  "website": "",
   "SDGs": [
+    [
+      3,
+      "Good Health and Well-Being"
+    ],
     [
       17,
       "Partnerships for the Goals"
@@ -22,7 +26,7 @@
   "organizations": [
     {
       "name": "Kobo Toolbox",
-      "website": "http://www.kobotoolbox.org/",
+      "website": "https://www.kobotoolbox.org/",
       "org_type": "owner"
     }
   ]

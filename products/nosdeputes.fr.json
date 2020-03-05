@@ -1,13 +1,13 @@
 {
   "name": "Nosdeputes.fr",
   "description": "Repository of NosDéputés.fr : the french parliamentary monitoring website",
+  "website": "https://www.nosdeputes.fr/",
   "license": [
     {
       "spdx": "AGPL-3.0",
       "licenseURL": "https://github.com/regardscitoyens/nosdeputes.fr/blob/master/LICENSE"
     }
   ],
-  "website": "https://www.nosdeputes.fr/",
   "SDGs": [
     [
       16,

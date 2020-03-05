@@ -1,13 +1,13 @@
 {
   "name": "Open MRS Android Client",
   "description": "OpenMRS Android client",
+  "website": "",
   "license": [
     {
       "spdx": "MPL-2.0",
       "licenseURL": "https://github.com/openmrs/openmrs-contrib-android-client/blob/master/copyright/copyright"
     }
   ],
-  "website": "",
   "SDGs": [
     [
       3,

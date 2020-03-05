@@ -1,13 +1,13 @@
 {
   "name": "Sugarizer",
   "description": "Sugarizer is a web implementation of the Sugar platform and runs on every device - from tiny Raspberry Pi computers to small Android and iOS phones to tablets and to laptops and desktops.",
+  "website": "https://sugarizer.org/",
   "license": [
     {
       "spdx": "Apache-2.0",
       "licenseURL": "https://github.com/llaske/sugarizer/blob/master/LICENSE"
     }
   ],
-  "website": "https://sugarizer.org/",
   "SDGs": [
     [
       4,

@@ -26,31 +26,16 @@ Install dependencies:
 npm install
 ```
 
-Create your product files inside the `products/` folder. The filename for each product should match the `name` field in that product in [kebab-case](https://wiki.c2.com/?KebabCase). Before pushing changes to the remote repository, make sure that the following commands run successfully (otherwise the Continuous Integration (CI) tests will fail, and your contributions could not be merged until these errors are corrected):
+Create your product files inside the `products/` folder. The filename for each product should match the `name` field in that product in [kebab-case](https://wiki.c2.com/?KebabCase). 
 
-* Validate the JSON schema of all product files:
+The following checks will run automatically (both as a `pre-commit` hook through [Husky](https://github.com/typicode/husky), and in the Continuous Integration (CI)):
 
-	```bash
-	npm test
-	```
+* `npm test`: Validates all JSON product files against the JSON [data schema](https://github.com/publicgoods/data-schema/blob/master/product-schema.json)
+* `npm run order:fix`: Ensures that all JSON properties are listed in the same order as specified in the JSON [data schema](https://github.com/publicgoods/data-schema/blob/master/product-schema.json)
+* `npm run lint`: Ensures that all JSON files are formated properly using 2 spaces for indentation
+* `npm run prettier`: Reformats all Javascript files inside `scripts/` using [Prettier](https://prettier.io/)
+* `npm run check:fix`: Ensures that all files are named according to their product name in *kebab-case*
 
-* Lint all product files (this command will fix any linting errors in place):
-
-	```bash
-	npm run lint
-	```
-
-* Check proper naming of all product files. Again, this will check that the filename matches that file `name` field in kebab case (i.e. spaces replaced by dashes):
-
-	```bash
-	./scripts/check-filenames.bash
-	```
-
-	If this fails, you can automatically rename the product files:
-
-	```bash
-	./scripts/check-filenames.bash --fix
-	```
 
 ## Bulk Import
 
@@ -70,9 +55,7 @@ mkdir tmp
 node scripts/import.js
 ```
 
-This will find files that exist in both datasets and attempt to merge. For each field that has different values between both sets, it will interactively prompt the user to choose one or the other. At any point in time, the user can abort the script to manually edit any field with a different value. Additional files that do not already exist, will simply be copied over. This script will modify both sets of files in `tmp/` and `products/`.
-
-Once the script has run successfully, you should run the same checks outlined above: `npm test`, `npm run lint`, `./scripts/check-filenames.bash --fix`, and then commit the changes in `products/` and discard the files left in `tmp/`.
+This will find files that exist in both datasets and attempt to merge. For each field that has different values between both sets, it will interactively prompt the user to choose one or the other. At any point in time, the user can abort the script to manually edit any field with a different value. Additional files that do not already exist, will simply be copied over. This script will modify both sets of files in `tmp/` and `products/`. You can then commit the changes in `products/` and discard the files left in `tmp/`.
 
 ## License
 

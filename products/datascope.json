@@ -1,13 +1,13 @@
 {
   "name": "Datascope",
   "description": "We create an interactive dashboard for biomedical data exploration.",
+  "website": "https://sharmalab.github.io/Datascope/",
   "license": [
     {
       "spdx": "BSD-3-Clause",
       "licenseURL": "https://github.com/sharmalab/Datascope/blob/master/LICENSE"
     }
   ],
-  "website": "https://sharmalab.github.io/Datascope/",
   "SDGs": [
     [
       3,
@@ -22,7 +22,7 @@
   "organizations": [
     {
       "name": "BMI",
-      "website": "http://www.bmi.emory.edu/",
+      "website": "https://www.bmi.emory.edu/",
       "org_type": "owner"
     }
   ]

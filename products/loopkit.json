@@ -1,13 +1,13 @@
 {
   "name": "LoopKit",
   "description": "A set of iOS tools for building closed-loop insulin delivery apps",
+  "website": "",
   "license": [
     {
       "spdx": "MIT",
       "licenseURL": "https://github.com/LoopKit/LoopKit/blob/master/LICENSE"
     }
   ],
-  "website": "",
   "SDGs": [
     [
       3,

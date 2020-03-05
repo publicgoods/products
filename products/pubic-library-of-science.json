@@ -1,0 +1,31 @@
+{
+  "name": "Pubic Library of Science",
+  "aliases": [
+    "PLOS"
+  ],
+  "description": "A library of open-access journal sand other scientific literature under an open-content license.",
+  "website": "https://journals.plos.org/",
+  "license": [
+    {
+      "spdx": "CC-BY-4.0",
+      "licenseURL": "https://www.plos.org/license"
+    }
+  ],
+  "SDGs": [
+    [
+      4,
+      "Quality Education"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "data"
+  ],
+  "organizations": [
+    {
+      "name": "PLOS",
+      "website": "https://www.plos.org/",
+      "org_type": "owner"
+    }
+  ]
+}

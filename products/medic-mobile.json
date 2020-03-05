@@ -1,10 +1,11 @@
 {
   "name": "Medic Mobile",
   "description": "A community health application framework, which you can use to build responsive, offline-first community health apps. The framework is highly configurable, with support for interactive messaging, decision support, task management, health records, data collection, and analytics.",
+  "website": "https://medicmobile.org",
   "license": [
     {
       "spdx": "AGPL-3.0",
-      "licenseURL": "https://github.com/medic/cht-core/LICENSE"
+      "licenseURL": "https://github.com/medic/cht-core/blob/master/LICENSE"
     }
   ],
   "SDGs": [
@@ -13,17 +14,15 @@
       "Good Health and Well-Being"
     ]
   ],
-  "sectors": [
-    "Health"
-  ],
+  "sectors": [],
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/cht-core/medic",
+  "repositoryURL": "https://github.com/medic/cht-core",
   "organizations": [
     {
       "name": "Medic Mobile",
-      "website": "medicmobile.org",
+      "website": "https://medicmobile.org/",
       "org_type": "owner"
     }
   ]

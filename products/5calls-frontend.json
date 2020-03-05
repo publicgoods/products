@@ -1,13 +1,13 @@
 {
   "name": "5Calls Frontend",
   "description": "Frontend for the 5calls.org site",
+  "website": "https://5calls.org/",
   "license": [
     {
       "spdx": "MIT",
       "licenseURL": "https://github.com/5calls/5calls/blob/master/LICENSE.txt"
     }
   ],
-  "website": "https://5calls.org/",
   "SDGs": [
     [
       16,

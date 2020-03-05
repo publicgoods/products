@@ -1,13 +1,13 @@
 {
   "name": "Operation Code Resources",
   "description": "Operation Code API for programming and cyber security learning resources.",
+  "website": "",
   "license": [
     {
       "spdx": "MIT",
       "licenseURL": "https://github.com/OperationCode/resources_api/blob/master/LICENSE"
     }
   ],
-  "website": "",
   "SDGs": [
     [
       4,

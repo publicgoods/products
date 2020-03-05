@@ -1,13 +1,13 @@
 {
   "name": "PlayTime",
   "description": " Our trauma-informed programs seek to restore normalcy by providing opportunities for children to learn and heal through play.",
+  "website": "https://www.playtimeproject.org/",
   "license": [
     {
       "spdx": "MIT",
       "licenseURL": "https://github.com/rubyforgood/playtime/blob/master/LICENSE"
     }
   ],
-  "website": "http://www.playtimeproject.org/",
   "SDGs": [
     [
       4,
