@@ -1,13 +1,13 @@
 {
   "name": "Learn OSM",
   "description": "This repository is dedicated to helping people learn how to map in OpenStreetMap (OSM) and use many of the software and tools in the OSM community.",
+  "website": "http://learnosm.org",
   "license": [
     {
       "spdx": "MIT",
       "licenseURL": "https://github.com/hotosm/learnosm/blob/gh-pages/LICENSE.txt"
     }
   ],
-  "website": "http://learnosm.org",
   "SDGs": [
     [
       17,

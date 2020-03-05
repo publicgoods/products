@@ -1,13 +1,13 @@
 {
   "name": "Accessibility-cloud",
   "description": "Our mission is to make accessibility information easier to find—wherever people need it",
+  "website": "https://www.accessibility.cloud/",
   "license": [
     {
       "spdx": "MIT",
       "licenseURL": "https://github.com/sozialhelden/accessibility-cloud/blob/master/LICENSE"
     }
   ],
-  "website": "https://www.accessibility.cloud/",
   "SDGs": [
     [
       3,

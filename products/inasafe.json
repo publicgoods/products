@@ -1,13 +1,13 @@
 {
   "name": "InaSafe",
   "description": "A QGIS plugin for estimating impact from natural disasters.",
+  "website": "",
   "license": [
     {
       "spdx": "GPL-3.0",
       "licenseURL": "https://github.com/inasafe/inasafe/blob/develop/LICENSE.txt"
     }
   ],
-  "website": "",
   "SDGs": [
     [
       13,

@@ -1,13 +1,13 @@
 {
   "name": "caMicroscope",
   "description": "Digital pathology image viewer with support for human/machine generated annotations and markups.",
+  "website": "",
   "license": [
     {
       "spdx": "BSD-3-Clause",
       "licenseURL": "https://github.com/camicroscope/caMicroscope/blob/master/LICENSE"
     }
   ],
-  "website": "",
   "SDGs": [
     [
       3,

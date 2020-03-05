@@ -1,13 +1,13 @@
 {
   "name": "HospitalRun Server",
   "description": "Node backend for HospitalRun",
+  "website": "",
   "license": [
     {
       "spdx": "MIT",
       "licenseURL": "https://github.com/HospitalRun/hospitalrun-server/blob/master/LICENSE"
     }
   ],
-  "website": "",
   "SDGs": [
     [
       3,

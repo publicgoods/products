@@ -1,13 +1,13 @@
 {
   "name": "HOTOSM Tasking Manager",
   "description": "The HOT Tasking Manager helps you set up mapping projects and tasks for your mapping team. ",
+  "website": "https://tasks.hotosm.org/",
   "license": [
     {
       "spdx": "BSD-2-Clause",
       "licenseURL": "https://github.com/hotosm/tasking-manager/blob/develop/LICENSE.txt"
     }
   ],
-  "website": "https://tasks.hotosm.org/",
   "SDGs": [
     [
       17,

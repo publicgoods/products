@@ -1,13 +1,13 @@
 {
   "name": "QuanTB",
   "description": "An electronic quantification and early warning system designed to improve procurement processes, ordering, and supply planning for TB treatment.",
+  "website": "https://github.com/MSH/QuanTB",
   "license": [
     {
       "spdx": "GPL-3.0",
       "licenseURL": "https://github.com/MSH/QuanTB/blob/devel/LICENSE"
     }
   ],
-  "website": "https://github.com/MSH/QuanTB",
   "SDGs": [
     [
       3,
@@ -22,11 +22,11 @@
       "Partnerships for the Goals"
     ]
   ],
+  "sectors": [],
   "type": [
     "software"
   ],
   "repositoryURL": "https://github.com/MSH/QuanTB",
-  "sectors": [],
   "organizations": [
     {
       "name": "Management Sciences for Health",

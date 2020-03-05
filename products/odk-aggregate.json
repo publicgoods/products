@@ -1,13 +1,13 @@
 {
   "name": "ODK Aggregate",
   "description": "ODK Aggregate is a Java server that stores, analyzes, and presents survey data collected using ODK Collect. ",
+  "website": "",
   "license": [
     {
       "spdx": "Apache-2.0",
       "licenseURL": "https://github.com/opendatakit/aggregate/blob/master/LICENSE.txt"
     }
   ],
-  "website": "",
   "SDGs": [
     [
       17,

@@ -1,13 +1,13 @@
 {
   "name": "ClimateWatch",
   "description": "Climate Watch is an online platform designed to empower policymakers, researchers, media and other stakeholders with the open climate data, visualizations and resources they need to gather insights on national and global progress on climate change.",
+  "website": "https://www.climatewatchdata.org/",
   "license": [
     {
       "spdx": "MIT",
       "licenseURL": "https://github.com/Vizzuality/climate-watch/blob/develop/LICENSE"
     }
   ],
-  "website": "https://www.climatewatchdata.org/",
   "SDGs": [
     [
       13,

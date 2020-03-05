@@ -1,13 +1,13 @@
 {
   "name": "Environmental Layers",
   "description": "Collection of different environmental map layers in an easy to use Leaflet library.",
+  "website": "",
   "license": [
     {
       "spdx": "GPL-3.0",
       "licenseURL": "https://github.com/publiclab/leaflet-environmental-layers/blob/master/LICENSE"
     }
   ],
-  "website": "",
   "SDGs": [
     [
       11,

@@ -1,13 +1,13 @@
 {
   "name": "Callisto - Core",
   "description": "Report intake, escrow, matching and secure delivery code for Callisto, an online reporting system for sexual assault.",
+  "website": "",
   "license": [
     {
       "spdx": "AGPL-3.0",
       "licenseURL": "https://github.com/project-callisto/callisto-core/blob/master/LICENSE"
     }
   ],
-  "website": "",
   "SDGs": [
     [
       5,

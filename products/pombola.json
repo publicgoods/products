@@ -1,13 +1,13 @@
 {
   "name": "Pombola",
   "description": "Pombola is a parliamentary monitoring (PMO) platform; its biggest instances are Mzalendo.com and pa.org.za",
+  "website": "",
   "license": [
     {
       "spdx": "AGPL-3.0",
       "licenseURL": "https://github.com/mysociety/pombola/blob/master/LICENSE.txt"
     }
   ],
-  "website": "",
   "SDGs": [
     [
       16,

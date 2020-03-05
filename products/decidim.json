@@ -1,13 +1,13 @@
 {
   "name": "Decidim",
   "description": "Decidim helps citizens, organizations and public institutions self-organize democratically at every scale.",
+  "website": "http://www.decidim.org",
   "license": [
     {
       "spdx": "AGPL-3.0",
       "licenseURL": "https://github.com/OpenSourcePolitics/decidim/blob/master/LICENSE-AGPLv3.txt"
     }
   ],
-  "website": "http://www.decidim.org",
   "SDGs": [
     [
       16,

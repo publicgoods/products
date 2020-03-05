@@ -1,23 +1,23 @@
 {
   "name": "SkillsCommons",
   "description": "Free and open digital library of Workforce Training Materials",
+  "website": "https://www.skillscommons.org/",
   "license": [
     {
       "spdx": "CC-BY-4.0",
       "licenseURL": "https://creativecommons.org/licenses/by/4.0/"
     }
   ],
-  "website": "https://www.skillscommons.org/",
   "SDGs": [
     [
       4,
       "Quality Education"
     ]
   ],
+  "sectors": [],
   "type": [
     "data"
   ],
-  "sectors": [],
   "organizations": [
     {
       "name": "Center for Usability in Design and Accessibility, California State University, Long Beach",

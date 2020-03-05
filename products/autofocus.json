@@ -1,13 +1,13 @@
 {
   "name": "Autofocus",
   "description": "This project seeks to make conservation organizations more efficient by automating the process of labeling images taken by motion-activated \"camera traps\" according to the kinds of animals that appear in them. See this article for more information.",
+  "website": "",
   "license": [
     {
       "spdx": "BSD-3-Clause",
       "licenseURL": "https://github.com/uptake/autofocus/blob/master/LICENSE"
     }
   ],
-  "website": "",
   "SDGs": [
     [
       15,

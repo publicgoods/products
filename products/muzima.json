@@ -1,13 +1,13 @@
 {
   "name": "mUzima",
   "description": "mUzima is a mobile extension to the widely deployed OpenMRS electronic record system. This improves the reach of clinical care beyond tethered and connected settings.",
+  "website": "https://www.muzima.org/",
   "license": [
     {
       "spdx": "MPL-2.0",
       "licenseURL": "https://github.com/muzima/muzima-android/blob/master/LICENSE.txt"
     }
   ],
-  "website": "https://www.muzima.org/",
   "SDGs": [
     [
       3,

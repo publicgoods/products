@@ -1,13 +1,13 @@
 {
   "name": "Mojaloop",
   "description": "Open source software for creating payment platforms that will help unbanked people access digital financial services.",
+  "website": "https://mojaloop.io/",
   "license": [
     {
       "spdx": "Apache-2.0",
       "licenseURL": "https://github.com/mojaloop/mojaloop/blob/master/LICENSE.md"
     }
   ],
-  "website": "https://mojaloop.io/",
   "SDGs": [
     [
       1,
@@ -22,11 +22,11 @@
       "Partnerships for the Goals"
     ]
   ],
+  "sectors": [],
   "type": [
     "software"
   ],
   "repositoryURL": "https://github.com/mojaloop/mojaloop",
-  "sectors": [],
   "organizations": [
     {
       "name": "MojaLoop",

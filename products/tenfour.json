@@ -1,13 +1,13 @@
 {
   "name": "TenFour",
   "description": "An emergency check-in application for teams that unites multiple communication channels: SMS, email, desktop, mobile and chat.",
+  "website": "https://www.tenfour.org/",
   "license": [
     {
       "spdx": "MIT",
       "licenseURL": "https://github.com/ushahidi/tenfour/blob/develop/LICENSE.txt"
     }
   ],
-  "website": "https://www.tenfour.org/",
   "SDGs": [
     [
       16,
@@ -18,11 +18,11 @@
       "Partnerships for the Goals"
     ]
   ],
+  "sectors": [],
   "type": [
     "software"
   ],
   "repositoryURL": "https://github.com/ushahidi/tenfour",
-  "sectors": [],
   "organizations": [
     {
       "name": "TenFour",

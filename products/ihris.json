@@ -1,24 +1,24 @@
 {
   "name": "iHRIS",
   "description": "Open Source software that helps countries around the world track and manage their health workforce data to improve access to services.",
+  "website": "https://www.ihris.org",
   "license": [
     {
       "spdx": "GPL-3.0",
       "licenseURL": "https://github.com/iHRIS/iHRIS/blob/master/LICENSE"
     }
   ],
-  "website": "https://www.ihris.org",
   "SDGs": [
     [
       3,
       "Good Health and Well-Being"
     ]
   ],
+  "sectors": [],
   "type": [
     "software"
   ],
   "repositoryURL": "https://github.com/iHRIS/iHRIS",
-  "sectors": [],
   "organizations": [
     {
       "name": "IntraHealth International",

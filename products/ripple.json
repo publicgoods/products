@@ -1,13 +1,13 @@
 {
   "name": "Ripple",
   "description": "Ripple is a \"panic button\" app for triggering a \"ripple effect\" across apps that are set up to respond to panic events.",
+  "website": "https://guardianproject.github.io/haven/",
   "license": [
     {
       "spdx": "GPL-3.0",
       "licenseURL": "https://github.com/guardianproject/ripple/blob/master/LICENSE.txt"
     }
   ],
-  "website": "https://guardianproject.github.io/haven/",
   "SDGs": [
     [
       11,

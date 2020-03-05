@@ -1,13 +1,13 @@
 {
   "name": "OED",
   "description": "Open Energy Dashboard is a user-friendly way to display energy information from smart energy meters, designed and built by faculty and students at Beloit College.",
+  "website": "",
   "license": [
     {
       "spdx": "MPL-2.0",
       "licenseURL": "https://github.com/OpenEnergyDashboard/OED/blob/development/License.txt"
     }
   ],
-  "website": "",
   "SDGs": [
     [
       7,

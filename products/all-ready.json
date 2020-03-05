@@ -1,13 +1,13 @@
 {
   "name": "All Ready",
   "description": " AllReady is an open-source solution focused on increasing awareness, efficiency and impact of preparedness campaigns as they are delivered by humanitarian and disaster response organizations in local communities. ",
+  "website": "http://www.htbox.org/projects/allready",
   "license": [
     {
       "spdx": "MIT",
       "licenseURL": "https://github.com/HTBox/allReady/blob/master/LICENSE"
     }
   ],
-  "website": "http://www.htbox.org/projects/allready",
   "SDGs": [
     [
       16,

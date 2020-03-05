@@ -1,13 +1,13 @@
 {
   "name": "TidePool Chrome Uploader",
   "description": "An Electron app for uploading diabetes device data to Tidepool's backend.",
+  "website": "",
   "license": [
     {
       "spdx": "BSD-2-Clause",
       "licenseURL": "https://github.com/tidepool-org/uploader/blob/develop/LICENSE"
     }
   ],
-  "website": "",
   "SDGs": [
     [
       3,

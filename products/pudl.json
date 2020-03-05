@@ -1,13 +1,13 @@
 {
   "name": "Pudl",
   "description": "The Public Utility Data Liberation (PUDL) project takes information of electric utilities that’s already publicly available, and makes it publicly usable, by cleaning, standardizing, and cross-linking utility data from different sources in a single database. ",
+  "website": "https://catalyst.coop/pudl/",
   "license": [
     {
       "spdx": "MIT",
       "licenseURL": "https://github.com/catalyst-cooperative/pudl/blob/master/LICENSE.txt"
     }
   ],
-  "website": "https://catalyst.coop/pudl/",
   "SDGs": [
     [
       13,

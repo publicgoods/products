@@ -1,13 +1,16 @@
 {
   "name": "PharmacoVigilance Monitoring System",
+  "aliases": [
+    "PViMS"
+  ],
   "description": "A web-based application used to monitor the safety of medicines.",
+  "website": "https://github.com/MSH/PViMS",
   "license": [
     {
       "spdx": "GPL-3.0",
       "licenseURL": "https://github.com/MSH/PViMS/blob/devel/LICENSE"
     }
   ],
-  "website": "https://github.com/MSH/PViMS",
   "SDGs": [
     [
       3,
@@ -22,14 +25,11 @@
       "Partnerships for the Goals"
     ]
   ],
+  "sectors": [],
   "type": [
     "software"
   ],
   "repositoryURL": "https://github.com/MSH/PViMS",
-  "aliases": [
-    "PViMS"
-  ],
-  "sectors": [],
   "organizations": [
     {
       "name": "Management Sciences for Health",

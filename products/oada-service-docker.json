@@ -1,24 +1,24 @@
 {
   "name": "OADA Service Docker",
   "description": "Top-level docker-compose config to run OADA microservice-style API implementation.",
+  "website": "http://openag.io/",
   "license": [
     {
       "spdx": "Apache-2.0",
       "licenseURL": "https://github.com/OADA/oada-srvc-docker/blob/master/LICENSE"
     }
   ],
-  "website": "http://openag.io/",
   "SDGs": [
     [
       12,
       "Responsible Consumption and Production"
     ]
   ],
+  "sectors": [],
   "type": [
     "software"
   ],
   "repositoryURL": "https://github.com/OADA/oada-srvc-docker",
-  "sectors": [],
   "organizations": [
     {
       "name": "Open Ag Data Alliance",

@@ -1,23 +1,23 @@
 {
   "name": "Khan Academy",
   "description": "Expert-created content and resources for every course and level, always free.",
+  "website": "https://www.khanacademy.org",
   "license": [
     {
       "spdx": "CC-BY-NC-SA-3.0",
       "licenseURL": "https://www.khanacademy.org/about/tos#5"
     }
   ],
-  "website": "https://www.khanacademy.org",
   "SDGs": [
     [
       4,
       "Quality Education"
     ]
   ],
+  "sectors": [],
   "type": [
     "data"
   ],
-  "sectors": [],
   "organizations": [
     {
       "name": "Khan Academy",

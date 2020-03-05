@@ -1,13 +1,16 @@
 {
   "name": "Avni Client",
+  "aliases": [
+    "OpenCHS"
+  ],
   "description": "Open Source field service delivery and data collection platform for non-profits and governments in all sectors — health, water, education, social service.",
+  "website": "https://avniproject.org/",
   "license": [
     {
       "spdx": "AGPL-3.0",
       "licenseURL": "https://github.com/avniproject/avni-client/blob/master/LICENSE"
     }
   ],
-  "website": "https://avniproject.org/",
   "SDGs": [
     [
       3,
@@ -18,14 +21,11 @@
       "Peace, Justice and Strong Institutions"
     ]
   ],
+  "sectors": [],
   "type": [
     "software"
   ],
   "repositoryURL": "https://github.com/avniproject/avni-client",
-  "aliases": [
-    "OpenCHS"
-  ],
-  "sectors": [],
   "organizations": [
     {
       "name": "Samanvay Foundation",

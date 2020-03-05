@@ -1,13 +1,13 @@
 {
   "name": "Geolambda",
   "description": "Geospatial Docker image and packaging for Amazon Linux: make easier to develop and deploy code to AWS Lambda functions. ",
+  "website": "",
   "license": [
     {
       "spdx": "MIT",
       "licenseURL": "https://github.com/developmentseed/geolambda/blob/master/LICENSE.txt"
     }
   ],
-  "website": "",
   "SDGs": [
     [
       9,

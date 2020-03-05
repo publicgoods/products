@@ -1,23 +1,23 @@
 {
   "name": "TED",
   "description": "Platform for spreading ideas, usually in the form of short, powerful talks",
+  "website": "https://www.ted.com",
   "license": [
     {
       "spdx": "CC-BY-NC-ND-4.0",
       "licenseURL": "https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy"
     }
   ],
-  "website": "https://www.ted.com",
   "SDGs": [
     [
       4,
       "Quality Education"
     ]
   ],
+  "sectors": [],
   "type": [
     "data"
   ],
-  "sectors": [],
   "organizations": [
     {
       "name": "TED",

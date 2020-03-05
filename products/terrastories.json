@@ -1,13 +1,13 @@
 {
   "name": "Terrastories",
   "description": "Powered by the Mapbox platform, Terrastories is designed to be entirely offline-compatible, so that remote communities can access the application entirely without needing internet connectivity.",
+  "website": "",
   "license": [
     {
       "spdx": "MIT",
       "licenseURL": "https://github.com/Terrastories/terrastories/blob/master/LICENSE"
     }
   ],
-  "website": "",
   "SDGs": [
     [
       11,

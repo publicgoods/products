@@ -1,13 +1,13 @@
 {
   "name": "LittleSis Rails",
   "description": "LittleSis is a free database of who-knows-who at the heights of business and government. ",
+  "website": "https://littlesis.org/",
   "license": [
     {
       "spdx": "GPL-3.0",
       "licenseURL": "https://github.com/public-accountability/littlesis-rails/blob/master/LICENSE"
     }
   ],
-  "website": "https://littlesis.org/",
   "SDGs": [
     [
       16,

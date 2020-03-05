@@ -1,13 +1,13 @@
 {
   "name": "Ilhasoft",
   "description": "A multi-lingual chatbot training platform for easy and intuitive automated responses",
+  "website": "http://ilhasoft.com.br/en/",
   "license": [
     {
       "spdx": "AGPL-3.0",
       "licenseURL": "https://opensource.org/licenses/AGPL-3.0"
     }
   ],
-  "website": "http://ilhasoft.com.br/en/",
   "SDGs": [
     [
       3,
@@ -18,16 +18,16 @@
       "Quality Education"
     ]
   ],
+  "sectors": [],
   "type": [
     "software"
   ],
   "repositoryURL": "https://github.com/Ilhasoft",
-  "sectors": [],
   "organizations": [
     {
       "name": "UNICEF Ventures Fund",
-      "org_type": "funder",
-      "website": "https://unicefinnovationfund.org/"
+      "website": "https://unicefinnovationfund.org/",
+      "org_type": "funder"
     }
   ]
 }

@@ -1,13 +1,13 @@
 {
   "name": "Mifos Community App",
   "description": "This is the default web application built on top of the MifosX platform for the mifos user community.",
+  "website": "https://mifos.org",
   "license": [
     {
       "spdx": "MPL-2.0",
       "licenseURL": "https://github.com/openMF/community-app/blob/develop/LICENSE.txt"
     }
   ],
-  "website": "https://mifos.org",
   "SDGs": [
     [
       1,

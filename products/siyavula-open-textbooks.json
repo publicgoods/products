@@ -1,6 +1,7 @@
 {
   "name": "Siyavula Open Textbooks",
   "description": "Math and Science Open Textbooks for grades 4 through 12.",
+  "website": "https://www.siyavula.com/read",
   "license": [
     {
       "spdx": "CC-BY-ND-3.0",
@@ -11,17 +12,16 @@
       "licenseURL": "https://creativecommons.org/licenses/by/3.0/"
     }
   ],
-  "website": "https://www.siyavula.com/read",
   "SDGs": [
     [
       4,
       "Quality Education"
     ]
   ],
+  "sectors": [],
   "type": [
     "data"
   ],
-  "sectors": [],
   "organizations": [
     {
       "name": "Siyavula",

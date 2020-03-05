@@ -1,13 +1,13 @@
 {
   "name": "Infagram",
   "description": "Infragram is an online tool for analyzing plant health with near-infrared imagery.",
+  "website": "http://infragram.org/",
   "license": [
     {
       "spdx": "GPL-2.0",
       "licenseURL": "https://github.com/publiclab/infragram/blob/main/LICENSE"
     }
   ],
-  "website": "http://infragram.org/",
   "SDGs": [
     [
       11,

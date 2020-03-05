@@ -1,13 +1,13 @@
 {
   "name": "Open MRS Core",
   "description": "OpenMRS API and web application code",
+  "website": "",
   "license": [
     {
       "spdx": "MPL-2.0",
       "licenseURL": "https://github.com/openmrs/openmrs-core/blob/master/LICENSE"
     }
   ],
-  "website": "",
   "SDGs": [
     [
       3,

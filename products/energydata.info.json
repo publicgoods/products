@@ -1,6 +1,7 @@
 {
   "name": "Energydata.info",
   "description": "Open data platform providing access to datasets and data analytics that are relevant to the energy sector.",
+  "website": "http://energydata.info",
   "license": [
     {
       "spdx": "MIT",
@@ -11,7 +12,6 @@
       "licenseURL": "https://creativecommons.org/licenses/by/4.0/"
     }
   ],
-  "website": "http://energydata.info",
   "SDGs": [
     [
       7,
@@ -22,12 +22,12 @@
       "Climate Action"
     ]
   ],
+  "sectors": [],
   "type": [
     "data",
     "software"
   ],
   "repositoryURL": "https://github.com/energy-data/energydata.info",
-  "sectors": [],
   "organizations": [
     {
       "name": "The World Bank",

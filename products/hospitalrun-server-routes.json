@@ -1,13 +1,13 @@
 {
   "name": "HospitalRun Server Routes",
   "description": "Express server routes for HospitalRun",
+  "website": "",
   "license": [
     {
       "spdx": "GPL-3.0",
       "licenseURL": "https://github.com/HospitalRun/hospitalrun-server-routes/blob/master/LICENSE"
     }
   ],
-  "website": "",
   "SDGs": [
     [
       3,

@@ -1,13 +1,13 @@
 {
   "name": "OnaData",
   "description": "Collect, Analyze and Share Data!",
+  "website": "https://github.com/onaio/onadata",
   "license": [
     {
       "spdx": "GPL-2.0",
       "licenseURL": "https://github.com/onaio/onadata/blob/master/LICENSE"
     }
   ],
-  "website": "https://github.com/onaio/onadata",
   "SDGs": [
     [
       3,
@@ -18,11 +18,11 @@
       "Quality Education"
     ]
   ],
+  "sectors": [],
   "type": [
     "software"
   ],
   "repositoryURL": "https://github.com/onaio/onadata",
-  "sectors": [],
   "organizations": [
     {
       "name": "Ona",

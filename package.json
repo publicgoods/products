@@ -4,7 +4,12 @@
   "description": "Collection of public goods",
   "scripts": {
     "lint": "for f in ./products/*.json; do echo $f; jsonlint \"$f\" -i; done",
-    "test": "ajv validate -s data-schema/product-schema.json -d \"products/*.json\""
+    "test": "ajv validate -s data-schema/product-schema.json -d \"products/*.json\"",
+    "order": "node scripts/order-fields.js",
+    "order:fix": "node scripts/order-fields.js --fix",
+    "check": "./scripts/check-filenames.bash",
+    "check:fix": "./scripts/check-filenames.bash --fix",
+    "prettier": "prettier --write scripts/*.js"
   },
   "repository": {
     "type": "git",
@@ -18,8 +23,14 @@
   "homepage": "https://github.com/publicgoods/products#readme",
   "devDependencies": {
     "ajv-cli": "^3.0.0",
+    "husky": "^4.2.3",
     "inquirer": "^7.0.5",
     "jsonlint": "^1.6.3",
     "prettier": "1.19.1"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "npm test && npm run order:fix && npm run prettier && npm run check:fix"
+    }
   }
 }

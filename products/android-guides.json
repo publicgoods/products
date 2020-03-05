@@ -1,13 +1,13 @@
 {
   "name": "Android Guides",
   "description": "Extensive Open-Source Guides for Android Developers",
+  "website": "http://guides.codepath.com",
   "license": [
     {
       "spdx": "MIT",
       "licenseURL": ""
     }
   ],
-  "website": "http://guides.codepath.com",
   "SDGs": [
     [
       10,

@@ -1,13 +1,13 @@
 {
   "name": "Intake",
   "description": "A Django project behind the Clear My Record website",
+  "website": "https://www.clearmyrecord.org/",
   "license": [
     {
       "spdx": "MIT",
       "licenseURL": "https://github.com/codeforamerica/intake/blob/develop/LICENSE"
     }
   ],
-  "website": "https://www.clearmyrecord.org/",
   "SDGs": [
     [
       16,

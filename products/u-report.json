@@ -1,13 +1,13 @@
 {
   "name": "U-Report",
   "description": "Free social messaging tool and a real-time information system that allows community participation.",
+  "website": "https://ureport.in/",
   "license": [
     {
       "spdx": "AGPL-3.0",
       "licenseURL": "https://github.com/rapidpro/ureport/blob/master/LICENSE"
     }
   ],
-  "website": "https://ureport.in/",
   "SDGs": [
     [
       10,
@@ -18,11 +18,11 @@
       "Peace, Justice and Strong Institutions"
     ]
   ],
+  "sectors": [],
   "type": [
     "software"
   ],
   "repositoryURL": "https://github.com/rapidpro/ureport",
-  "sectors": [],
   "organizations": [
     {
       "name": "RapidPRO",

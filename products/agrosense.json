@@ -1,13 +1,13 @@
 {
   "name": "AgroSense",
   "description": "Open source farm managament and precision agriculture software.",
+  "website": "https://agrosense.eu/",
   "license": [
     {
       "spdx": "GPL-3.0",
       "licenseURL": "https://agrosense.eu/license.html"
     }
   ],
-  "website": "https://agrosense.eu/",
   "SDGs": [
     [
       2,
@@ -18,11 +18,11 @@
       "Industry, Innovation and Infrastructure"
     ]
   ],
+  "sectors": [],
   "type": [
     "software"
   ],
   "repositoryURL": "https://bitbucket.org/corizon/agrosense/src/default/",
-  "sectors": [],
   "organizations": [
     {
       "name": "Corizon",

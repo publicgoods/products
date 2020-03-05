@@ -1,13 +1,16 @@
 {
   "name": "Surveillance Outbreak Response Management and Analysis System",
+  "aliases": [
+    "SORMAS"
+  ],
   "description": "An open source eHealth system - consisting of separate web and mobile apps - that is geared towards optimizing the processes used in monitoring the spread of infectious diseases and responding to outbreak situations.",
+  "website": "https://www.sormas.org",
   "license": [
     {
       "spdx": "GPL-3.0",
       "licenseURL": "https://github.com/hzi-braunschweig/SORMAS-Project/blob/development/LICENSE"
     }
   ],
-  "website": "https://www.sormas.org",
   "SDGs": [
     [
       3,
@@ -22,16 +25,13 @@
       "Partnerships for the Goals"
     ]
   ],
+  "sectors": [
+    "Health"
+  ],
   "type": [
     "software"
   ],
   "repositoryURL": "https://github.com/hzi-braunschweig/SORMAS-Project",
-  "aliases": [
-    "SORMAS"
-  ],
-  "sectors": [
-    "Health"
-  ],
   "organizations": [
     {
       "name": "Helmholtz Centre for Infection Research",

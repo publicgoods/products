@@ -1,24 +1,24 @@
 {
   "name": "Kolibri",
   "description": "Kolibri makes high quality education technology available in low-resource communities such as rural schools, refugee camps, orphanages, non-formal school systems, and prison systems.",
+  "website": "https://learningequality.org/kolibri/",
   "license": [
     {
       "spdx": "MIT",
       "licenseURL": "https://github.com/learningequality/kolibri/blob/develop/LICENSE"
     }
   ],
-  "website": "https://learningequality.org/kolibri/",
   "SDGs": [
     [
       4,
       "Quality Education"
     ]
   ],
+  "sectors": [],
   "type": [
     "software"
   ],
   "repositoryURL": "https://github.com/learningequality/kolibri",
-  "sectors": [],
   "organizations": [
     {
       "name": "Learning Equality",

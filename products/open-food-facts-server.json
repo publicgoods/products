@@ -1,13 +1,13 @@
 {
   "name": "Open Food Facts Server",
   "description": "Open Food Facts database and web interface ",
+  "website": "",
   "license": [
     {
       "spdx": "AGPL-3.0",
       "licenseURL": "https://github.com/openfoodfacts/openfoodfacts-server/blob/master/LICENSE"
     }
   ],
-  "website": "",
   "SDGs": [
     [
       12,

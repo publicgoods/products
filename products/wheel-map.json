@@ -1,13 +1,13 @@
 {
   "name": "Wheel Map",
   "description": "Source code of classic wheelmap.org",
+  "website": "https://wheelmap.org/",
   "license": [
     {
       "spdx": "AGPL-3.0",
       "licenseURL": "https://github.com/sozialhelden/wheelmap-classic/blob/master/LICENSE"
     }
   ],
-  "website": "https://wheelmap.org/",
   "SDGs": [
     [
       3,

@@ -1,6 +1,7 @@
 {
   "name": "HealthSites.io",
   "description": "Healthsites is a framework for capturing, publishing and sharing critical health and sanitation related data to help make these facilities more accessible and relevant to the communities they serve.",
+  "website": "https://healthsites.io",
   "license": [
     {
       "spdx": "ODbL-1.0",
@@ -11,7 +12,6 @@
       "licenseURL": "https://github.com/healthsites/healthsites/blob/master/LICENSE-CODE.txt"
     }
   ],
-  "website": "https://healthsites.io",
   "SDGs": [
     [
       3,
@@ -26,12 +26,12 @@
       "Partnerships for the Goals"
     ]
   ],
+  "sectors": [],
   "type": [
     "software",
     "data"
   ],
   "repositoryURL": "https://github.com/healthsites/healthsites",
-  "sectors": [],
   "organizations": [
     {
       "name": "HealthSites.io",

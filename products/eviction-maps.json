@@ -1,13 +1,13 @@
 {
   "name": "Eviction maps",
   "description": "Data visualization tool for the Eviction Lab at Princeton University",
+  "website": "https://evictionlab.org/map/#/2016?geography=states",
   "license": [
     {
       "spdx": "MIT",
       "licenseURL": "https://github.com/EvictionLab/eviction-maps/blob/development/LICENSE"
     }
   ],
-  "website": "https://evictionlab.org/map/#/2016?geography=states",
   "SDGs": [
     [
       1,

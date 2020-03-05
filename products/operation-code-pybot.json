@@ -1,13 +1,13 @@
 {
   "name": "Operation Code Pybot",
   "description": "Operation Code's Official Slackbot",
+  "website": "",
   "license": [
     {
       "spdx": "MIT",
       "licenseURL": "https://github.com/OperationCode/operationcode-pybot/blob/staging/LICENSE.MD"
     }
   ],
-  "website": "",
   "SDGs": [
     [
       4,

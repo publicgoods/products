@@ -1,13 +1,13 @@
 {
   "name": "Muckrock",
   "description": "Muckrock source code",
+  "website": "",
   "license": [
     {
       "spdx": "AGPL-3.0",
       "licenseURL": "https://github.com/MuckRock/muckrock/blob/master/license.md"
     }
   ],
-  "website": "",
   "SDGs": [
     [
       16,

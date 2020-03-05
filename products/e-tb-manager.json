@@ -1,13 +1,13 @@
 {
   "name": "e-TB Manager",
   "description": "A web or desktop-based tool for managing all the information needed by national TB control programs.",
+  "website": "https://github.com/MSH/eTBManager3",
   "license": [
     {
       "spdx": "GPL-3.0",
       "licenseURL": "https://github.com/MSH/eTBManager3/blob/devel/LICENSE"
     }
   ],
-  "website": "https://github.com/MSH/eTBManager3",
   "SDGs": [
     [
       3,
@@ -22,11 +22,11 @@
       "Partnerships for the Goals"
     ]
   ],
+  "sectors": [],
   "type": [
     "software"
   ],
   "repositoryURL": "https://github.com/MSH/eTBManager3",
-  "sectors": [],
   "organizations": [
     {
       "name": "Management Sciences for Health",

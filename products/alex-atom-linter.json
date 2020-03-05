@@ -1,13 +1,13 @@
 {
   "name": "Alex Atom Linter",
   "description": "Atom linter meets alex to catch potentially insensitive, inconsiderate writing.",
+  "website": "",
   "license": [
     {
       "spdx": "MIT",
       "licenseURL": "https://github.com/get-alex/atom-linter-alex/blob/master/license"
     }
   ],
-  "website": "",
   "SDGs": [
     [
       11,

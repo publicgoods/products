@@ -1,0 +1,87 @@
+/* This script utility provides a consistent way of ordering the fields/
+ * properties in the resulting JSON files.
+ *
+ * You can run it without parameters and will only check for consistency
+ * in the order, erroring out if any file does not match.
+ *
+ * You can run it with '--fix' to automatically order all properties
+ * for all files in the expected order.
+ */
+
+const fs = require("fs");
+const path = require("path");
+const glob = require("glob");
+
+const productsPath = "./products/";
+
+const propertiesOrder = [
+  "name",
+  "aliases",
+  "description",
+  "website",
+  "license",
+  "spdx",
+  "licenseURL",
+  "SDGs",
+  "sectors",
+  "type",
+  "repositoryURL",
+  "organizations",
+  "name",
+  "website",
+  "org_type"
+];
+
+let fix = false;
+if (process.argv.length == 3 && process.argv[2] == "--fix") {
+  fix = true;
+}
+
+glob("*.json", { cwd: productsPath }, async (err, productFiles) => {
+  // iterate over all product files
+  for (let i = 0; i < productFiles.length; i++) {
+    // read data from the file
+    jsonData = fs.readFileSync(
+      path.join(productsPath, productFiles[i]),
+      "utf8",
+      function(err) {
+        if (err) {
+          console.log(
+            "An error occured while reading JSON Object from file: " +
+              productFiles[i]
+          );
+          return console.log(err);
+        }
+      }
+    );
+
+    // parse data from JSON into array of dictionaries
+    product = JSON.parse(jsonData);
+
+    if (fix) {
+      // rewrite the file with the desired order
+      fs.writeFileSync(
+        path.join(productsPath, productFiles[i]),
+        JSON.stringify(product, propertiesOrder, 2),
+        "utf8",
+        function(err) {
+          if (err) {
+            console.log(
+              "An error occured while writing JSON Object to file: " + fnames[e]
+            );
+            return console.log(err);
+          }
+        }
+      );
+    } else {
+      if (JSON.stringify(product, propertiesOrder, 2) != jsonData) {
+        console.log(
+          "JSON properties not in the expected order for" +
+            productFiles[i] +
+            ". Re-run with --fix to fix."
+        );
+        process.exit(1);
+      }
+    }
+  }
+});

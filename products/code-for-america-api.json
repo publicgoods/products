@@ -1,13 +1,13 @@
 {
   "name": "Code for America API",
   "description": "The Code for America API. Tracks and motivates activity and participation across the civic technology movement.",
+  "website": "http://codeforamerica.org/api",
   "license": [
     {
       "spdx": "MIT",
       "licenseURL": "https://github.com/codeforamerica/cfapi/blob/master/LICENSE"
     }
   ],
-  "website": "http://codeforamerica.org/api",
   "SDGs": [
     [
       16,

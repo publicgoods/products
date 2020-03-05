@@ -1,13 +1,13 @@
 {
   "name": "Child Growth Monitor Machine Learning",
   "description": "This project uses machine learning to identify malnutrition from 3D scans of children under 5 years of age.",
+  "website": "https://childgrowthmonitor.org/",
   "license": [
     {
       "spdx": "GPL-3.0",
       "licenseURL": "https://github.com/Welthungerhilfe/cgm-ml/blob/master/LICENSE"
     }
   ],
-  "website": "https://childgrowthmonitor.org/",
   "SDGs": [
     [
       2,

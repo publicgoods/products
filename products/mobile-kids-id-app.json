@@ -1,13 +1,13 @@
 {
   "name": "Mobile Kids Id App",
   "description": "The intent of the app is to help parents keep up to date information on their kids, and to provide parents with relevant information to keep their kids safe and what to do if they can’t find their child.",
+  "website": "",
   "license": [
     {
       "spdx": "Apache-2.0",
       "licenseURL": "https://github.com/HTBox/MobileKidsIdApp/blob/master/LICENSE"
     }
   ],
-  "website": "",
   "SDGs": [
     [
       4,

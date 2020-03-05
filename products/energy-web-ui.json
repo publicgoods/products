@@ -1,13 +1,13 @@
 {
   "name": "Energy Web UI",
   "description": "Energy Web UI - Dapp shell, browser & launcher (Electron app)",
+  "website": "",
   "license": [
     {
       "spdx": "GPL-3.0",
       "licenseURL": "https://github.com/energywebfoundation/energyweb-ui/blob/master/LICENSE"
     }
   ],
-  "website": "",
   "SDGs": [
     [
       11,

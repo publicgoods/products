@@ -1,13 +1,13 @@
 {
   "name": "Mifos Mobile",
   "description": "An Android Application built on top of the MifosX Self-Service platform for end-user customers to view/transact on the accounts and loans they hold. Data visible to customers will be a sub-set of what staff can see. ",
+  "website": "",
   "license": [
     {
       "spdx": "MPL-2.0",
       "licenseURL": "https://github.com/openMF/mifos-mobile/blob/development/LICENSE.md"
     }
   ],
-  "website": "",
   "SDGs": [
     [
       1,

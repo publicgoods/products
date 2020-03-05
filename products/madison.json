@@ -1,13 +1,13 @@
 {
   "name": "Madison",
   "description": "Madison is a platform for lawmakers to share legislation with their citizens, allowing the community to add comments and suggest improvements.",
+  "website": "https://www.opengovfoundation.org/",
   "license": [
     {
       "spdx": "GPL-3.0",
       "licenseURL": "https://github.com/opengovfoundation/madison/blob/master/LICENSE"
     }
   ],
-  "website": "https://www.opengovfoundation.org/",
   "SDGs": [
     [
       16,

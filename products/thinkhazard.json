@@ -1,13 +1,13 @@
 {
   "name": "ThinkHazard",
   "description": "ThinkHazard provides a general view of the hazards, for a given location, that should be considered in project design and implementation to promote disaster and climate resilience. The tool highlights the likelihood of different natural hazards affecting project areas, provides guidance on how to reduce the impact of these hazards, and where to find more information.",
+  "website": "http://thinkhazard.org/en/",
   "license": [
     {
       "spdx": "GPL-3.0",
       "licenseURL": "https://github.com/GFDRR/thinkhazard/blob/master/LICENSE"
     }
   ],
-  "website": "http://thinkhazard.org/en/",
   "SDGs": [
     [
       11,

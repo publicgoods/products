@@ -1,13 +1,13 @@
 {
   "name": "farmOS",
   "description": "A web-based application for farm management, planning, and record keeping.",
+  "website": "https://farmos.org/",
   "license": [
     {
       "spdx": "GPL-2.0",
       "licenseURL": "https://github.com/farmOS/farmOS/blob/7.x-1.x/LICENSE.txt"
     }
   ],
-  "website": "https://farmos.org/",
   "SDGs": [
     [
       2,
@@ -18,11 +18,11 @@
       "Industry, Innovation and Infrastructure"
     ]
   ],
+  "sectors": [],
   "type": [
     "software"
   ],
   "repositoryURL": "https://github.com/farmOS/farmOS",
-  "sectors": [],
   "organizations": [
     {
       "name": "farmOS",

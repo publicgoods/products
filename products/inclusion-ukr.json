@@ -1,13 +1,13 @@
 {
   "name": "Inclusion UKR",
   "description": "Ukrainian inclusion font for printing and web.",
+  "website": "https://github.com/Social-Synergy/inclusion-UKR",
   "license": [
     {
       "spdx": "CC-BY-NC-SA-4.0",
       "licenseURL": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode"
     }
   ],
-  "website": "https://github.com/Social-Synergy/inclusion-UKR",
   "SDGs": [
     [
       4,
@@ -18,11 +18,11 @@
       "Reduced Inequalities"
     ]
   ],
+  "sectors": [],
   "type": [
     "software"
   ],
   "repositoryURL": "https://github.com/Social-Synergy/inclusion-UKR",
-  "sectors": [],
   "organizations": [
     {
       "name": "UNICEF Ukraine",

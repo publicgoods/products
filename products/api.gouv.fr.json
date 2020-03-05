@@ -1,13 +1,13 @@
 {
   "name": "api.gouv.fr",
   "description": "api.gouv.fr catalogs the APIs offered by central administrations, local authorities and public offices.",
+  "website": "https://api.gouv.fr/",
   "license": [
     {
       "spdx": "AGPL-3.0",
       "licenseURL": "https://github.com/betagouv/api.gouv.fr/blob/master/LICENSE"
     }
   ],
-  "website": "https://api.gouv.fr/",
   "SDGs": [
     [
       16,

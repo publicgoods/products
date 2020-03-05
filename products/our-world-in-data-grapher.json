@@ -1,13 +1,13 @@
 {
   "name": "Our World In Data Grapher",
   "description": "Interactive data visualizations done quickly.",
+  "website": "https://ourworldindata.org/",
   "license": [
     {
       "spdx": "MIT",
       "licenseURL": "https://github.com/owid/owid-grapher/blob/master/LICENSE.md"
     }
   ],
-  "website": "https://ourworldindata.org/",
   "SDGs": [
     [
       17,

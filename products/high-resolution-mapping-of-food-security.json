@@ -1,13 +1,13 @@
 {
   "name": "High Resolution Mapping of Food Security",
   "description": "High Resolution Mapping of Food Security.",
+  "website": "https://wfp-vam.github.io/HRM/",
   "license": [
     {
       "spdx": "MIT",
       "licenseURL": "https://github.com/WFP-VAM/HRM/blob/master/LICENSE"
     }
   ],
-  "website": "https://wfp-vam.github.io/HRM/",
   "SDGs": [
     [
       2,
