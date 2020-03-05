@@ -59,6 +59,23 @@ glob("*.json", { cwd: productsPath }, async (err, productFiles) => {
     product = JSON.parse(jsonData);
 
     if (fix) {
+
+      // upgrade to HTTPS :)
+      if(product.hasOwnProperty('website')){
+        product['website'] = product['website'].replace(/http:/g,"https:")
+      }
+      if(product.hasOwnProperty('repositoryURL')){
+        product['repositoryURL'] = product['repositoryURL'].replace(/http:/g,"https:")
+      }
+      for(let i=0; i < product['license'].length; i++) {
+        product['license'][i]['licenseURL'] = product['license'][i]['licenseURL'].replace(/http:/g,"https:")
+      }
+      for(let i=0; i < product['organizations'].length; i++) {
+        if(product['organizations'][i].hasOwnProperty('website')) {
+          product['organizations'][i]['website'] = product['organizations'][i]['website'].replace(/http:/g,"https:")
+        }
+      }
+
       // rewrite the file with the desired order
       fs.writeFileSync(
         path.join(productsPath, productFiles[i]),

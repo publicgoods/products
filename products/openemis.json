@@ -1,7 +1,7 @@
 {
   "name": "OpenEMIS",
   "description": "An Education Management Information System for the education sector. Its main purpose is to collect, analyze, and report data related to the management of educational activities.",
-  "website": "http://www.openemis.org",
+  "website": "https://www.openemis.org",
   "license": [
     {
       "spdx": "GPL-2.0",
@@ -21,7 +21,7 @@
   "organizations": [
     {
       "name": "OpenEMIS",
-      "website": "http://www.openemis.org",
+      "website": "https://www.openemis.org",
       "org_type": "owner"
     }
   ]

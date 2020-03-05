@@ -1,7 +1,7 @@
 {
   "name": "UNICEF eTools",
   "description": "eTools is an online platform that strengthens UNICEF country programme management for results.",
-  "website": "http://etoolsinfo.unicef.org/",
+  "website": "https://etoolsinfo.unicef.org/",
   "license": [
     {
       "spdx": "AGPL-3.0",

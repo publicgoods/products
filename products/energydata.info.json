@@ -1,7 +1,7 @@
 {
   "name": "Energydata.info",
   "description": "Open data platform providing access to datasets and data analytics that are relevant to the energy sector.",
-  "website": "http://energydata.info",
+  "website": "https://energydata.info",
   "license": [
     {
       "spdx": "MIT",

@@ -1,7 +1,7 @@
 {
   "name": "Medic Mobile",
   "description": "A community health application framework, which you can use to build responsive, offline-first community health apps. The framework is highly configurable, with support for interactive messaging, decision support, task management, health records, data collection, and analytics.",
-  "website": "http://medicmobile.org",
+  "website": "https://medicmobile.org",
   "license": [
     {
       "spdx": "AGPL-3.0",

@@ -1,7 +1,7 @@
 {
   "name": "Open Climate Workbench",
   "description": "Apache Open Climate Workbench is an effort to develop software that performs climate model evaluations using model outputs from a variety of different sources",
-  "website": "http://climate.apache.org/",
+  "website": "https://climate.apache.org/",
   "license": [
     {
       "spdx": "Apache-2.0",

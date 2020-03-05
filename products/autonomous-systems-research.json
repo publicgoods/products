@@ -1,7 +1,7 @@
 {
   "name": "Autonomous Systems Research",
   "description": "An open ecosystem of drone imagery and other remote sensing data to boost agricultural in sub-Saharan Africa",
-  "website": "http://as-research.org",
+  "website": "https://as-research.org",
   "license": [
     {
       "spdx": "GPL-3.0",

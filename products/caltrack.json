@@ -1,7 +1,7 @@
 {
   "name": "CalTRACK",
   "description": "CalTRACK methods describe a process of arriving at a calculation of avoided energy use.",
-  "website": "http://docs.caltrack.org/en/latest/",
+  "website": "https://docs.caltrack.org/en/latest/",
   "license": [
     {
       "spdx": "CC0-1.0",

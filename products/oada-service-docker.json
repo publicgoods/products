@@ -1,7 +1,7 @@
 {
   "name": "OADA Service Docker",
   "description": "Top-level docker-compose config to run OADA microservice-style API implementation.",
-  "website": "http://openag.io/",
+  "website": "https://openag.io/",
   "license": [
     {
       "spdx": "Apache-2.0",

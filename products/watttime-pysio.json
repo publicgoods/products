@@ -1,7 +1,7 @@
 {
   "name": "WattTime Pysio",
   "description": "Python client libraries for WhatTime ISO and other power grid data sources.",
-  "website": "http://pyiso.readthedocs.org/",
+  "website": "https://pyiso.readthedocs.org/",
   "license": [
     {
       "spdx": "AGPL-3.0",

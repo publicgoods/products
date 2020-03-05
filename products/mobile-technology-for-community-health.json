@@ -4,7 +4,7 @@
     "MOTECH"
   ],
   "description": "A modular, extensible open source software project originally designed for mobile health (mHealth), which can also be used outside of the health domain.",
-  "website": "http://docs.motechproject.org",
+  "website": "https://docs.motechproject.org",
   "license": [
     {
       "spdx": "BSD-3-Clause",

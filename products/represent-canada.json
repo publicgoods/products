@@ -1,7 +1,7 @@
 {
   "name": "Represent-Canada",
   "description": "Point or postcode to electoral district service for Canada, its provinces and municipalities ",
-  "website": "http://represent.opennorth.ca/",
+  "website": "https://represent.opennorth.ca/",
   "license": [
     {
       "spdx": "MIT",

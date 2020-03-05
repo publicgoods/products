@@ -1,7 +1,7 @@
 {
   "name": "Fix My Street",
   "description": "This is mySociety's popular map-based reporting platform: easy to install in new countries and regions",
-  "website": "http://fixmystreet.org/",
+  "website": "https://fixmystreet.org/",
   "license": [
     {
       "spdx": "AGPL-3.0",

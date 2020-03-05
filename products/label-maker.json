@@ -1,7 +1,7 @@
 {
   "name": "Label Maker",
   "description": "Data Preparation for Satellite Machine Learning",
-  "website": "http://devseed.com/label-maker/",
+  "website": "https://devseed.com/label-maker/",
   "license": [
     {
       "spdx": "MIT",

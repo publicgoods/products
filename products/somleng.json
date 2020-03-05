@@ -1,7 +1,7 @@
 {
   "name": "Somleng",
   "description": "Low-cost interactive voice response system for communities with low literacy levels",
-  "website": "http://www.somleng.org",
+  "website": "https://www.somleng.org",
   "license": [
     {
       "spdx": "MIT",
