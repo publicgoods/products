@@ -31,10 +31,9 @@ Create your product files inside the `products/` folder. The filename for each p
 The following checks will run automatically (both as a `pre-commit` hook through [Husky](https://github.com/typicode/husky), and in the Continuous Integration (CI)):
 
 * `npm test`: Validates all JSON product files against the JSON [data schema](https://github.com/publicgoods/data-schema/blob/master/product-schema.json)
-* `npm run order:fix`: Ensures that all JSON properties are listed in the same order as specified in the JSON [data schema](https://github.com/publicgoods/data-schema/blob/master/product-schema.json)
-* `npm run lint`: Ensures that all JSON files are formated properly using 2 spaces for indentation
-* `npm run prettier`: Reformats all Javascript files inside `scripts/` using [Prettier](https://prettier.io/)
-* `npm run check:fix`: Ensures that all files are named according to their product name in *kebab-case*
+* `npm run order`: Checks that all JSON properties are listed in the same order as specified in the JSON [data schema](https://github.com/publicgoods/data-schema/blob/master/product-schema.json). If this fails, run `npm run order:fix` to fix.
+* `npm run lint`: Ensures that all JSON files are formated properly using 2 spaces for indentation. If this fails, run `npm run lint:fix` to fix.
+* `npm run check`: Checks that all files are named according to their product name in *kebab-case*. If this fails, run `npm run check:fix` to fix.
 
 
 ## Bulk Import

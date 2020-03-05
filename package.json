@@ -3,7 +3,8 @@
   "version": "0.1.0",
   "description": "Collection of public goods",
   "scripts": {
-    "lint": "for f in ./products/*.json; do echo $f; jsonlint \"$f\" -i; done",
+    "lint": "for f in ./products/*.json; do jsonlint \"$f\" > tempfile.tmp; truncate -s -1 tempfile.tmp; if diff $f tempfile.tmp; then echo \"Linting of $f passed\"; else echo \"Linting of $f failed\" && exit 1; fi; done",
+    "lint:fix": "for f in ./products/*.json; do echo $f; jsonlint \"$f\" -i; done",
     "test": "ajv validate -s data-schema/product-schema.json -d \"products/*.json\"",
     "order": "node scripts/order-fields.js",
     "order:fix": "node scripts/order-fields.js --fix",
@@ -30,7 +31,7 @@
   },
   "husky": {
     "hooks": {
-      "pre-commit": "npm test && npm run order:fix && npm run prettier && npm run check:fix"
+      "pre-commit": "npm test && npm run order && npm run check"
     }
   }
 }
