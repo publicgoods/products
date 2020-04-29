@@ -1,3 +1,6 @@
 [submodule "data-schema"]
 	path = data-schema
 	url = https://github.com/publicgoods/data-schema.git
+[submodule "maturity-rubric"]
+	path = maturity-rubric
+	url = https://github.com/publicgoods/maturity-rubric.git
