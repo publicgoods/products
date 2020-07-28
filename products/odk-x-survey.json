@@ -1,0 +1,29 @@
+{
+  "name": "ODK-X Survey",
+  "description": "An Android application for performing data collection in the ODK-X framework. The ODK-X community produces free and open-source software for collecting, managing, and using data in resource-constrained environments.",
+  "website": "https://odk-x.org/",
+  "license": [
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://github.com/opendatakit/build/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    [
+      17,
+      "Partnerships for the Goals"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/opendatakit/build",
+  "organizations": [
+    {
+      "name": "Open Data Kit",
+      "website": "https://opendatakit.org",
+      "org_type": "owner"
+    }
+  ]
+}
