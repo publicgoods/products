@@ -29,7 +29,9 @@ const propertiesOrder = [
   "organizations",
   "name",
   "website",
-  "org_type"
+  "org_type",
+  "contact_name",
+  "contact_email"
 ];
 
 let fix = false;
@@ -62,6 +64,9 @@ glob("*.json", { cwd: productsPath }, async (err, productFiles) => {
       // upgrade to HTTPS :)
       if (product.hasOwnProperty("website")) {
         product["website"] = product["website"].replace(/http:/g, "https:");
+        if(product['website'] != '' && ! product['website'].match('https://')){
+          product['website'] = 'https://' + product['website']
+        }
       }
       if (product.hasOwnProperty("repositoryURL")) {
         product["repositoryURL"] = product["repositoryURL"].replace(
@@ -99,7 +104,7 @@ glob("*.json", { cwd: productsPath }, async (err, productFiles) => {
     } else {
       if (JSON.stringify(product, propertiesOrder, 2) != jsonData) {
         console.log(
-          "JSON properties not in the expected order for" +
+          "JSON properties not in the expected order for " +
             productFiles[i] +
             ". Re-run with --fix to fix."
         );
