@@ -1,7 +1,7 @@
 {
   "name": "Child Growth Monitor",
   "description": "A fool proof solution based on a mobile app using augmented reality in combination with artificial intelligence. By determining weight and height through a 3D scan of children, the app can instantly detect malnutrition.",
-  "website": "https://childgrowthmonitor.org/",
+  "website": "https://childgrowthmonitor.org",
   "license": [
     {
       "spdx": "GPL-3.0",
@@ -26,7 +26,7 @@
   "organizations": [
     {
       "name": "Welt Hunger Hilfe",
-      "website": "https://www.welthungerhilfe.org/",
+      "website": "https://www.welthungerhilfe.org",
       "org_type": "owner"
     }
   ]
