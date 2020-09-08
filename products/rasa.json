@@ -1,6 +1,6 @@
 {
   "name": "Rasa",
-  "description": "",
+  "description": "Rasa Open Source is a machine learning framework to automate text- and voice-based assistants.",
   "website": "https://www.rasa.com",
   "license": [
     {
