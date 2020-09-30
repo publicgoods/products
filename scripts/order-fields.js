@@ -31,7 +31,8 @@ const propertiesOrder = [
   "website",
   "org_type",
   "contact_name",
-  "contact_email"
+  "contact_email",
+  "stage"
 ];
 
 let fix = false;
