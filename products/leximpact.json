@@ -1,6 +1,6 @@
 {
   "name": "Leximpact",
-  "description": "Simuler l'impact des rÃ©formes socio-fiscales en moins d'une minute",
+  "description": "Simuler l'impact des réformes socio-fiscales en moins d'une minute",
   "website": "https://leximpact.beta.gouv.fr",
   "license": [
     {
@@ -9,10 +9,9 @@
     }
   ],
   "SDGs": [
-    [
-      10,
-      "Reduced Inequalities"
-    ]
+    {
+      "SDGNumber": 10
+    }
   ],
   "sectors": [],
   "type": [
