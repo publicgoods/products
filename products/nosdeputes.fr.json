@@ -1,6 +1,6 @@
 {
   "name": "Nosdeputes.fr",
-  "description": "Repository of NosDÃ©putÃ©s.fr : the french parliamentary monitoring website",
+  "description": "Repository of NosDéputés.fr : the french parliamentary monitoring website",
   "website": "https://www.nosdeputes.fr/",
   "license": [
     {
@@ -9,10 +9,9 @@
     }
   ],
   "SDGs": [
-    [
-      16,
-      "Peace, Justice and Strong Institutions"
-    ]
+    {
+      "SDGNumber": 16
+    }
   ],
   "sectors": [],
   "type": [
