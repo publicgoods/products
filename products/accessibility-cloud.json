@@ -1,6 +1,6 @@
 {
   "name": "Accessibility-cloud",
-  "description": "Our mission is to make accessibility information easier to find—wherever people need it",
+  "description": "Our mission is to make accessibility information easier to findwherever people need it",
   "website": "https://www.accessibility.cloud/",
   "license": [
     {
@@ -9,14 +9,12 @@
     }
   ],
   "SDGs": [
-    [
-      3,
-      "Good Health and Well-Being"
-    ],
-    [
-      10,
-      "Reduced Inequalities"
-    ]
+    {
+      "SDGNumber": 3
+    },
+    {
+      "SDGNumber": 10
+    }
   ],
   "sectors": [],
   "type": [
