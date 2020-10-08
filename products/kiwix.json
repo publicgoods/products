@@ -1,6 +1,6 @@
 {
   "name": "Kiwix",
-  "description": "Kiwix lets you access free knowledge – even offline",
+  "description": "Kiwix lets you access free knowledge  even offline",
   "website": "https://www.kiwix.org",
   "license": [
     {
@@ -9,14 +9,12 @@
     }
   ],
   "SDGs": [
-    [
-      4,
-      "Quality Education"
-    ],
-    [
-      10,
-      "Reduced Inequalities"
-    ]
+    {
+      "SDGNumber": 4
+    },
+    {
+      "SDGNumber": 10
+    }
   ],
   "sectors": [],
   "type": [
