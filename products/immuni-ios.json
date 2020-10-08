@@ -1,6 +1,6 @@
 {
   "name": "Immuni iOS",
-  "description": "Immuni is the Italian Government’s exposure notification solution, realized by the Special Commissioner for the COVID-19 emergency, in collaboration with the Ministry of Health and the Ministry for Technological Innovation and Digitalization.",
+  "description": "Immuni is the Italian Governments exposure notification solution, realized by the Special Commissioner for the COVID-19 emergency, in collaboration with the Ministry of Health and the Ministry for Technological Innovation and Digitalization.",
   "website": "https://www.immuni.italia.it/",
   "license": [
     {
@@ -9,10 +9,9 @@
     }
   ],
   "SDGs": [
-    [
-      3,
-      "Good Health and Well-Being"
-    ]
+    {
+      "SDGNumber": 3
+    }
   ],
   "type": [
     "software"
