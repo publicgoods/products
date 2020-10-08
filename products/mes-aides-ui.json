@@ -1,6 +1,6 @@
 {
   "name": "Mes Aides - UI",
-  "description": "Le simulateur global des prestations sociales franÃ§aises https://mes-aides.gouv.fr/",
+  "description": "Le simulateur global des prestations sociales françaises https://mes-aides.gouv.fr/",
   "website": "https://mes-aides.gouv.fr/",
   "license": [
     {
@@ -9,10 +9,9 @@
     }
   ],
   "SDGs": [
-    [
-      16,
-      "Peace, Justice and Strong Institutions"
-    ]
+    {
+      "SDGNumber": 16
+    }
   ],
   "sectors": [],
   "type": [
