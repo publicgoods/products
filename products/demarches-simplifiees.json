@@ -1,6 +1,6 @@
 {
-  "name": "DÃ©marches SimplifiÃ©es",
-  "description": "DÃ©matÃ©rialiser et simplifier les dÃ©marches administratives. Site conÃ§u afin de rÃ©pondre au besoin urgent de l'Ã‰tat d'appliquer la directive sur le 100 % dÃ©matÃ©rialisation pour les dÃ©marches administratives.",
+  "name": "Démarches Simplifiées",
+  "description": "Dématérialiser et simplifier les démarches administratives. Site conçu afin de répondre au besoin urgent de l'État d'appliquer la directive sur le 100 % dématérialisation pour les démarches administratives.",
   "website": "https://demarches-simplifiees.fr",
   "license": [
     {
@@ -9,10 +9,9 @@
     }
   ],
   "SDGs": [
-    [
-      16,
-      "Peace, Justice and Strong Institutions"
-    ]
+    {
+      "SDGNumber": 16
+    }
   ],
   "sectors": [],
   "type": [
