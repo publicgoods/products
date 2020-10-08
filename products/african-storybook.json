@@ -1,6 +1,6 @@
 {
   "name": "African Storybook",
-  "description": "Open access to picture storybooks in the languages of Africa. For children’s literacy, enjoyment and imagination.",
+  "description": "Open access to picture storybooks in the languages of Africa. For childrens literacy, enjoyment and imagination.",
   "website": "https://www.africanstorybook.org/",
   "license": [
     {
@@ -9,10 +9,9 @@
     }
   ],
   "SDGs": [
-    [
-      4,
-      "Quality Education"
-    ]
+    {
+      "SDGNumber": 4
+    }
   ],
   "sectors": [],
   "type": [
