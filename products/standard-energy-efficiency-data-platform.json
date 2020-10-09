@@ -12,14 +12,12 @@
     }
   ],
   "SDGs": [
-    [
-      7,
-      "Affordable and Clean Energy"
-    ],
-    [
-      11,
-      "Sustainable Cities and Communities"
-    ]
+    {
+      "SDGNumber": 7
+    },
+    {
+      "SDGNumber": 11
+    }
   ],
   "sectors": [],
   "type": [
