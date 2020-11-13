@@ -1,6 +1,6 @@
 {
   "name": "Apache Fineract",
-  "description": "Fineract provides a reliable, robust, and affordable solution for entrepreneurs, financial institutions, and service providers to offer financial services to the world’s 2 billion underbanked and unbanked.",
+  "description": "Fineract provides a reliable, robust, and affordable solution for entrepreneurs, financial institutions, and service providers to offer financial services to the worlds 2 billion underbanked and unbanked.",
   "website": "https://fineract.apache.org",
   "license": [
     {
@@ -36,5 +36,5 @@
       "org_type": "owner"
     }
   ],
-  "stage": "nominee"
+  "stage": "DPG"
 }
