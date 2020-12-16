@@ -1,5 +1,5 @@
 {
-  "name": "CIREHA",
+  "name": "cboard",
   "description": "Augmentative and alternative communication system that enables children with speech and language impairments to communicate",
   "website": "https://www.cireha.com.ar/",
   "license": [
@@ -24,6 +24,11 @@
   ],
   "repositoryURL": "https://github.com/cboard-org/cboard",
   "organizations": [
+    {
+      "name": "CIREHA",
+      "website": "http://cireha.com.ar",
+      "org_type": "owner"
+    },
     {
       "name": "UNICEF Ventures Fund",
       "website": "https://unicefinnovationfund.org/",
