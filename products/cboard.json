@@ -28,6 +28,11 @@
       "name": "CIREHA",
       "website": "http://cireha.com.ar",
       "org_type": "owner"
+    },
+    {
+      "name": "UNICEF Ventures Fund",
+      "website": "https://unicefinnovationfund.org/",
+      "org_type": "funder"
     }
   ],
   "stage": "nominee"
