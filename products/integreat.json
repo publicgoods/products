@@ -1,7 +1,7 @@
 {
   "name": "Integreat",
   "description": "The digital integration platform Integreat enables governments and aid organizations to empower refugees and migrants.",
-  "website": "http://www.integreat-app.com",
+  "website": "https://www.integreat-app.com",
   "license": [
     {
       "spdx": "MIT",
@@ -21,7 +21,7 @@
   "repositoryURL": "https://github.com/Integreat/integreat-app",
   "organizations": [
     {
-      "name": "TÃ¼r an TÃ¼r - Digitalfabrik gGmbH",
+      "name": "Tür an Tür - Digitalfabrik gGmbH",
       "website": "https://tuerantuer.de",
       "org_type": "owner"
     }
