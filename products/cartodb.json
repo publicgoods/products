@@ -1,6 +1,6 @@
 {
   "name": "CartoDB",
-  "description": "CARTO is an open, powerful, and intuitive platform for discovering and predicting the key insights underlying the location data in our world. It empowers organizations to optimize operational performance, strategic investments, and everyday decisions with CARTO Engine the embeddable platform for web and mobile appsand the new CARTO Builder, a drag and drop analysis tool.",
+  "description": "CARTO is an open, powerful, and intuitive platform for discovering and predicting the key insights underlying the location data in our world. It empowers organizations to optimize operational performance, strategic investments, and everyday decisions with CARTO Engine-the embeddable platform for web and mobile apps-and the new CARTO Builder, a drag and drop analysis tool.",
   "website": "https://carto.com/",
   "license": [
     {
